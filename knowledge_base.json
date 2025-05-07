@@ -1,7 +1,725 @@
 {
-  "artista/banda": "Beach House",
-  "canción": "Space Song",
-  "género": "Dreampop",
-  "emociones_relacionadas": ["nostalgia", "tranquilidad"],
-  "actividades_afines": ["leer", "relajarse"]
+  "dataset": [
+    {
+      "artista/banda": "Beach House",
+      "canción": "Space Song",
+      "género": "Dreampop",
+      "emociones_relacionadas": ["nostalgia", "tranquilidad"],
+      "actividades_afines": ["leer", "relajarse"],
+      "youtube_link": "https://youtu.be/RBtlPT23PTM?feature=shared",
+      "spotify_link": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=dea0a604636549d4"
+    },
+    {
+      "artista/banda": "Boy Pablo",
+      "canción": "Ready / Problems",
+      "género": "Alternativo",
+      "emociones_relacionadas": ["melancolia", "nostalgia"],
+      "actividades_afines": ["leer", "relajarse"],
+      "youtube_link": "https://youtu.be/dEeVDI0St8s?feature=shared",
+      "spotify_link": "https://open.spotify.com/track/3VByEy1Ax2hlDXgk2U9mmz?si=5b1fe2dfbe6946f9"
+    },
+    {
+      "artista/banda": "Tame Impala",
+      "canción": "The Less I Know the Better",
+      "género": "Psychedelic Pop",
+      "emociones_relacionadas": ["confusión", "deseo"],
+      "actividades_afines": ["conducir", "socializar"]
+    },
+    {
+      "artista/banda": "Lana Del Rey",
+      "canción": "Summertime Sadness",
+      "género": "Indie Pop",
+      "emociones_relacionadas": ["nostalgia", "melancolia"],
+      "actividades_afines": ["escribir", "viajar"]
+    },
+    {
+      "artista/banda": "The Weeknd",
+      "canción": "Blinding Lights",
+      "género": "Synthwave",
+      "emociones_relacionadas": ["euforia", "energía"],
+      "actividades_afines": ["bailar", "ejercicio"]
+    },
+    {
+      "artista/banda": "Arctic Monkeys",
+      "canción": "Do I Wanna Know?",
+      "género": "Indie Rock",
+      "emociones_relacionadas": ["ansiedad", "deseo"],
+      "actividades_afines": ["nochear", "reflexionar"]
+    },
+    {
+      "artista/banda": "Billie Eilish",
+      "canción": "Bad Guy",
+      "género": "Electropop",
+      "emociones_relacionadas": ["sarcasmo", "confianza"],
+      "actividades_afines": ["fiestas", "ejercicio"]
+    },
+    {
+      "artista/banda": "Dua Lipa",
+      "canción": "Levitating",
+      "género": "Dance-Pop",
+      "emociones_relacionadas": ["alegría", "euforia"],
+      "actividades_afines": ["bailar", "viajar"]
+    },
+    {
+      "artista/banda": "Coldplay",
+      "canción": "Yellow",
+      "género": "Rock Alternativo",
+      "emociones_relacionadas": ["esperanza", "ternura"],
+      "actividades_afines": ["relajarse", "pasear"]
+    },
+    {
+      "artista/banda": "The Neighbourhood",
+      "canción": "Sweater Weather",
+      "género": "Indie Pop",
+      "emociones_relacionadas": ["nostalgia", "intimidad"],
+      "actividades_afines": ["lluvia", "abrazar"]
+    },
+    {
+      "artista/banda": "MGMT",
+      "canción": "Little Dark Age",
+      "género": "Synthpop",
+      "emociones_relacionadas": ["misterio", "introspección"],
+      "actividades_afines": ["videojuegos", "nochear"]
+    },
+    {
+      "artista/banda": "Taylor Swift",
+      "canción": "Blank Space",
+      "género": "Pop",
+      "emociones_relacionadas": ["sarcasmo", "diversión"],
+      "actividades_afines": ["cantar", "fiestas"]
+    },
+    {
+      "artista/banda": "Radiohead",
+      "canción": "Creep",
+      "género": "Rock Alternativo",
+      "emociones_relacionadas": ["alienación", "vulnerabilidad"],
+      "actividades_afines": ["reflexionar", "escribir"]
+    },
+    {
+      "artista/banda": "Kendrick Lamar",
+      "canción": "HUMBLE.",
+      "género": "Hip Hop",
+      "emociones_relacionadas": ["confianza", "intensidad"],
+      "actividades_afines": ["ejercicio", "trabajar"]
+    },
+    {
+      "artista/banda": "Adele",
+      "canción": "Someone Like You",
+      "género": "Soul",
+      "emociones_relacionadas": ["tristeza", "desamor"],
+      "actividades_afines": ["llorar", "reflexionar"]
+    },
+    {
+      "artista/banda": "Queen",
+      "canción": "Bohemian Rhapsody",
+      "género": "Rock",
+      "emociones_relacionadas": ["drama", "éxtasis"],
+      "actividades_afines": ["cantar", "fiestas"]
+    },
+    {
+      "artista/banda": "Mitski",
+      "canción": "Nobody",
+      "género": "Indie Rock",
+      "emociones_relacionadas": ["soledad", "vulnerabilidad"],
+      "actividades_afines": ["escribir", "pintar"]
+    },
+    {
+      "artista/banda": "Post Malone",
+      "canción": "Circles",
+      "género": "Pop Rock",
+      "emociones_relacionadas": ["resignación", "melancolia"],
+      "actividades_afines": ["conducir", "viajar"]
+    },
+    {
+      "artista/banda": "Rihanna",
+      "canción": "Umbrella",
+      "género": "R&B",
+      "emociones_relacionadas": ["protección", "calidez"],
+      "actividades_afines": ["lluvia", "relajarse"]
+    },
+    {
+      "artista/banda": "The Smiths",
+      "canción": "There Is a Light That Never Goes Out",
+      "género": "Post-Punk",
+      "emociones_relacionadas": ["devoción", "melancolia"],
+      "actividades_afines": ["viajar", "escribir"]
+    },
+    {
+      "artista/banda": "Frank Ocean",
+      "canción": "Pink + White",
+      "género": "R&B Alternativo",
+      "emociones_relacionadas": ["nostalgia", "paz"],
+      "actividades_afines": ["conducir", "dormir"]
+    },
+    {
+      "artista/banda": "Florence + The Machine",
+      "canción": "Dog Days Are Over",
+      "género": "Indie Rock",
+      "emociones_relacionadas": ["liberación", "euforia"],
+      "actividades_afines": ["bailar", "correr"]
+    },
+    {
+      "artista/banda": "BTS",
+      "canción": "Dynamite",
+      "género": "K-Pop",
+      "emociones_relacionadas": ["alegría", "optimismo"],
+      "actividades_afines": ["bailar", "fiestas"]
+    },
+    {
+      "artista/banda": "Bad Bunny",
+      "canción": "Dákiti",
+      "género": "Reggaeton",
+      "emociones_relacionadas": ["confianza", "pasión"],
+      "actividades_afines": ["fiestas", "socializar"]
+    },
+    {
+      "artista/banda": "Metallica",
+      "canción": "Nothing Else Matters",
+      "género": "Metal",
+      "emociones_relacionadas": ["introspección", "melancolia"],
+      "actividades_afines": ["conducir", "tocar guitarra"]
+    },
+    {
+      "artista/banda": "Norah Jones",
+      "canción": "Don't Know Why",
+      "género": "Jazz",
+      "emociones_relacionadas": ["calma", "nostalgia"],
+      "actividades_afines": ["cenar", "relajarse"]
+    },
+    {
+      "artista/banda": "The Killers",
+      "canción": "Mr. Brightside",
+      "género": "Rock Alternativo",
+      "emociones_relacionadas": ["celos", "frustración"],
+      "actividades_afines": ["cantar", "fiestas"]
+    },
+    {
+      "artista/banda": "Lorde",
+      "canción": "Royals",
+      "género": "Electropop",
+      "emociones_relacionadas": ["rebeldía", "minimalismo"],
+      "actividades_afines": ["escribir", "reflexionar"]
+    },
+    {
+      "artista/banda": "Childish Gambino",
+      "canción": "Redbone",
+      "género": "R&B Psicodélico",
+      "emociones_relacionadas": ["sospecha", "misterio"],
+      "actividades_afines": ["nochear", "relajarse"]
+    },
+    {
+      "artista/banda": "SZA",
+      "canción": "Good Days",
+      "género": "R&B Alternativo",
+      "emociones_relacionadas": ["esperanza", "claridad"],
+      "actividades_afines": ["yoga", "meditar"]
+    },
+    {
+      "artista/banda": "The Strokes",
+      "canción": "Last Nite",
+      "género": "Indie Rock",
+      "emociones_relacionadas": ["arrepentimiento", "energía"],
+      "actividades_afines": ["conducir", "fiestas"]
+    },
+    {
+      "artista/banda": "Doja Cat",
+      "canción": "Say So",
+      "género": "Pop Funk",
+      "emociones_relacionadas": ["coquetería", "diversión"],
+      "actividades_afines": ["bailar", "ejercicio"]
+    },
+    {
+      "artista/banda": "Fleetwood Mac",
+      "canción": "Dreams",
+      "género": "Rock Clásico",
+      "emociones_relacionadas": ["nostalgia", "resignación"],
+      "actividades_afines": ["viajar", "conducir"]
+    },
+    {
+      "artista/banda": "Kanye West",
+      "canción": "Runaway",
+      "género": "Hip Hop",
+      "emociones_relacionadas": ["arrepentimiento", "vulnerabilidad"],
+      "actividades_afines": ["reflexionar", "escribir"]
+    },
+    {
+      "artista/banda": "Hozier",
+      "canción": "Take Me to Church",
+      "género": "Folk Rock",
+      "emociones_relacionadas": ["pasión", "ira"],
+      "actividades_afines": ["activismo", "correr"]
+    },
+    {
+      "artista/banda": "Phoebe Bridgers",
+      "canción": "Kyoto",
+      "género": "Indie Folk",
+      "emociones_relacionadas": ["ambivalencia", "nostalgia"],
+      "actividades_afines": ["viajar", "escribir"]
+    },
+    {
+      "artista/banda": "Daft Punk",
+      "canción": "Get Lucky",
+      "género": "Disco House",
+      "emociones_relacionadas": ["euforia", "optimismo"],
+      "actividades_afines": ["bailar", "socializar"]
+    },
+    {
+      "artista/banda": "Amy Winehouse",
+      "canción": "Back to Black",
+      "género": "Soul",
+      "emociones_relacionadas": ["desamor", "angustia"],
+      "actividades_afines": ["llorar", "tomar vino"]
+    },
+    {
+      "artista/banda": "Gorillaz",
+      "canción": "Feel Good Inc.",
+      "género": "Electro-Rock",
+      "emociones_relacionadas": ["sátira", "energía"],
+      "actividades_afines": ["videojuegos", "bailar"]
+    },
+    {
+      "artista/banda": "Eminem",
+      "canción": "Lose Yourself",
+      "género": "Hip Hop",
+      "emociones_relacionadas": ["determinación", "intensidad"],
+      "actividades_afines": ["ejercicio", "trabajar"]
+    },
+    {
+      "artista/banda": "Ariana Grande",
+      "canción": "thank u, next",
+      "género": "Pop",
+      "emociones_relacionadas": ["empoderamiento", "gratitud"],
+      "actividades_afines": ["maquillarse", "socializar"]
+    },
+    {
+      "artista/banda": "David Bowie",
+      "canción": "Heroes",
+      "género": "Art Rock",
+      "emociones_relacionadas": ["heroísmo", "nostalgia"],
+      "actividades_afines": ["correr", "inspirarse"]
+    },
+    {
+      "artista/banda": "Olivia Rodrigo",
+      "canción": "drivers license",
+      "género": "Pop",
+      "emociones_relacionadas": ["desamor", "nostalgia"],
+      "actividades_afines": ["conducir de noche", "llorar"]
+    },
+    {
+      "artista/banda": "Drake",
+      "canción": "Hotline Bling",
+      "género": "Hip Hop",
+      "emociones_relacionadas": ["arrepentimiento", "curiosidad"],
+      "actividades_afines": ["bailar solo", "textear"]
+    },
+    {
+      "artista/banda": "Linkin Park",
+      "canción": "In the End",
+      "género": "Nu Metal",
+      "emociones_relacionadas": ["frustración", "aceptación"],
+      "actividades_afines": ["gym", "gritar"]
+    },
+    {
+      "artista/banda": "Harry Styles",
+      "canción": "Watermelon Sugar",
+      "género": "Pop",
+      "emociones_relacionadas": ["alegría", "deseo"],
+      "actividades_afines": ["verano", "playa"]
+    },
+    {
+      "artista/banda": "Nirvana",
+      "canción": "Smells Like Teen Spirit",
+      "género": "Grunge",
+      "emociones_relacionadas": ["rabia", "rebeldía"],
+      "actividades_afines": ["conciertos", "air guitar"]
+    },
+    {
+      "artista/banda": "Rosalía",
+      "canción": "Malamente",
+      "género": "Flamenco Urbano",
+      "emociones_relacionadas": ["misticismo", "pasión"],
+      "actividades_afines": ["bailar", "fotografía"]
+    },
+    {
+      "artista/banda": "The Lumineers",
+      "canción": "Ho Hey",
+      "género": "Folk Rock",
+      "emociones_relacionadas": ["alegría", "comunidad"],
+      "actividades_afines": ["acampadas", "fogatas"]
+    },
+    {
+      "artista/banda": "Johnny Cash",
+      "canción": "Hurt",
+      "género": "Country",
+      "emociones_relacionadas": ["remordimiento", "dolor"],
+      "actividades_afines": ["escribir", "reflexionar"]
+    },
+    {
+      "artista/banda": "Calvin Harris",
+      "canción": "Summer",
+      "género": "EDM",
+      "emociones_relacionadas": ["euforia", "nostalgia"],
+      "actividades_afines": ["playa", "fiestas"]
+    },
+    {
+      "artista/banda": "J Balvin",
+      "canción": "Mi Gente",
+      "género": "Reggaeton",
+      "emociones_relacionadas": ["alegría", "unión"],
+      "actividades_afines": ["bailar", "socializar"]
+    },
+    {
+      "artista/banda": "Pink Floyd",
+      "canción": "Comfortably Numb",
+      "género": "Rock Progresivo",
+      "emociones_relacionadas": ["desconexión", "angustia"],
+      "actividades_afines": ["meditar", "escuchar profundamente"]
+    },
+    {
+      "artista/banda": "Lady Gaga",
+      "canción": "Bad Romance",
+      "género": "Electropop",
+      "emociones_relacionadas": ["obsesión", "drama"],
+      "actividades_afines": ["fiestas temáticas", "karaoke"]
+    },
+    {
+      "artista/banda": "Twenty One Pilots",
+      "canción": "Stressed Out",
+      "género": "Pop Alternativo",
+      "emociones_relacionadas": ["ansiedad", "nostalgia"],
+      "actividades_afines": ["dibujar", "jugar videojuegos"]
+    },
+    {
+      "artista/banda": "Bruno Mars",
+      "canción": "Uptown Funk",
+      "género": "Funk",
+      "emociones_relacionadas": ["diversión", "confianza"],
+      "actividades_afines": ["bailar", "imitar coreografías"]
+    },
+    {
+      "artista/banda": "The Rolling Stones",
+      "canción": "Paint It Black",
+      "género": "Rock Clásico",
+      "emociones_relacionadas": ["luto", "oscuridad"],
+      "actividades_afines": ["pintar", "escribir poesía"]
+    },
+    {
+      "artista/banda": "Kali Uchis",
+      "canción": "Telepatía",
+      "género": "Neo-Soul",
+      "emociones_relacionadas": ["romance", "sensualidad"],
+      "actividades_afines": ["noche estrellada", "chatear"]
+    },
+    {
+      "artista/banda": "Led Zeppelin",
+      "canción": "Stairway to Heaven",
+      "género": "Rock",
+      "emociones_relacionadas": ["épica", "fascinación"],
+      "actividades_afines": ["tocar air guitar", "filosofar"]
+    },
+    {
+      "artista/banda": "Cigarettes After Sex",
+      "canción": "Apocalypse",
+      "género": "Dream Pop",
+      "emociones_relacionadas": ["intimidad", "melancolia"],
+      "actividades_afines": ["besarse", "noches lluviosas"]
+    },
+    {
+      "artista/banda": "Blackpink",
+      "canción": "How You Like That",
+      "género": "K-Pop",
+      "emociones_relacionadas": ["empoderamiento", "furia"],
+      "actividades_afines": ["maquillaje dramático", "ejercicio"]
+    },
+    {
+      "artista/banda": "The Beatles",
+      "canción": "Here Comes the Sun",
+      "género": "Rock Clásico",
+      "emociones_relacionadas": ["esperanza", "felicidad"],
+      "actividades_afines": ["picnics", "amanecer"]
+    },
+    {
+      "artista/banda": "Shakira",
+      "canción": "Hips Don't Lie",
+      "género": "Salsa Pop",
+      "emociones_relacionadas": ["alegría", "sensualidad"],
+      "actividades_afines": ["bailar", "fiestas tropicales"]
+    },
+    {
+      "artista/banda": "Ed Sheeran",
+      "canción": "Shape of You",
+      "género": "Pop",
+      "emociones_relacionadas": ["atracción", "diversión"],
+      "actividades_afines": ["citas", "gym"]
+    },
+    {
+      "artista/banda": "Björk",
+      "canción": "Hyperballad",
+      "género": "Art Pop",
+      "emociones_relacionadas": ["existencialismo", "libertad"],
+      "actividades_afines": ["caminar en la naturaleza", "crear arte"]
+    },
+    {
+      "artista/banda": "Bad Bunny",
+      "canción": "Moscow Mule",
+      "género": "Reggaeton",
+      "emociones_relacionadas": ["relajación", "hedonismo"],
+      "actividades_afines": ["cocteles", "noches de verano"]
+    },
+    {
+      "artista/banda": "FKA twigs",
+      "canción": "Cellophane",
+      "género": "Avant-Pop",
+      "emociones_relacionadas": ["vulnerabilidad", "desolación"],
+      "actividades_afines": ["poesía", "terapia"]
+    },
+    {
+      "artista/banda": "Oasis",
+      "canción": "Wonderwall",
+      "género": "Britpop",
+      "emociones_relacionadas": ["nostalgia", "amistad"],
+      "actividades_afines": ["tocar guitarra", "reuniones íntimas"]
+    },
+    {
+      "artista/banda": "Selena Gomez",
+      "canción": "Lose You to Love Me",
+      "género": "Pop",
+      "emociones_relacionadas": ["autodescubrimiento", "dolor"],
+      "actividades_afines": ["diario personal", "terapia"]
+    },
+    {
+      "artista/banda": "The White Stripes",
+      "canción": "Seven Nation Army",
+      "género": "Garage Rock",
+      "emociones_relacionadas": ["determinación", "rebeldía"],
+      "actividades_afines": ["deportes", "manifestaciones"]
+    },
+    {
+      "artista/banda": "Sơn Tùng M-TP",
+      "canción": "Hãy Trao Cho Anh",
+      "género": "V-Pop",
+      "emociones_relacionadas": ["pasión", "celebración"],
+      "actividades_afines": ["bailar", "fiestas multiculturales"]
+    },
+    {
+      "artista/banda": "Luis Miguel",
+      "canción": "La Incondicional",
+      "género": "Balada",
+      "emociones_relacionadas": ["devoción", "melancolía"],
+      "actividades_afines": ["cenas románticas", "karaoke"]
+    },
+    {
+      "artista/banda": "Miley Cyrus",
+      "canción": "Midnight Sky",
+      "género": "Pop Rock",
+      "emociones_relacionadas": ["independencia", "rebeldía"],
+      "actividades_afines": ["conducir rápido", "fiestas nocturnas"]
+    },
+    {
+      "artista/banda": "The Cure",
+      "canción": "Friday I'm in Love",
+      "género": "New Wave",
+      "emociones_relacionadas": ["euforia", "optimismo"],
+      "actividades_afines": ["viernes sociales", "saltar en conciertos"]
+    },
+    {
+      "artista/banda": "Karol G",
+      "canción": "Tusa",
+      "género": "Reggaeton",
+      "emociones_relacionadas": ["despecho", "empoderamiento"],
+      "actividades_afines": ["noche de chicas", "compras"]
+    },
+    {
+      "artista/banda": "Sigur Rós",
+      "canción": "Hoppípolla",
+      "género": "Post-Rock",
+      "emociones_relacionadas": ["inocencia", "asombro"],
+      "actividades_afines": ["ver amaneceres", "jugar bajo la lluvia"]
+    },
+    {
+      "artista/banda": "C. Tangana",
+      "canción": "Demasiadas Mujeres",
+      "género": "Flamenco Urbano",
+      "emociones_relacionadas": ["arrogancia", "hedonismo"],
+      "actividades_afines": ["fiestas exclusivas", "coleccionar arte"]
+    },
+    {
+      "artista/banda": "Billie Eilish",
+      "canción": "Happier Than Ever",
+      "género": "Pop Alternativo",
+      "emociones_relacionadas": ["ira", "liberación"],
+      "actividades_afines": ["correr", "gritar en el auto"]
+    },
+    {
+      "artista/banda": "Bob Marley",
+      "canción": "Three Little Birds",
+      "género": "Reggae",
+      "emociones_relacionadas": ["paz", "optimismo"],
+      "actividades_afines": ["playa", "meditación"]
+    },
+    {
+      "artista/banda": "Rosalía",
+      "canción": "Con Altura",
+      "género": "Reggaeton Experimental",
+      "emociones_relacionadas": ["arrogancia", "fiesta"],
+      "actividades_afines": ["bailar en aviones", "lujo"]
+    },
+    {
+      "artista/banda": "The Chainsmokers",
+      "canción": "Closer",
+      "género": "EDM",
+      "emociones_relacionadas": ["nostalgia", "conexión"],
+      "actividades_afines": ["viajes por carretera", "reminiscencias"]
+    },
+    {
+      "artista/banda": "Céline Dion",
+      "canción": "My Heart Will Go On",
+      "género": "Pop Clásico",
+      "emociones_relacionadas": ["amor eterno", "drama"],
+      "actividades_afines": ["mirar películas románticas", "cruceros"]
+    },
+    {
+      "artista/banda": "Juanes",
+      "canción": "La Camisa Negra",
+      "género": "Rock Latino",
+      "emociones_relacionadas": ["despecho", "ironía"],
+      "actividades_afines": ["bailar", "desahogarse"]
+    },
+    {
+      "artista/banda": "Janis Joplin",
+      "canción": "Piece of My Heart",
+      "género": "Blues Rock",
+      "emociones_relacionadas": ["desesperación", "pasión"],
+      "actividades_afines": ["karaoke", "conducir rápido"]
+    },
+    {
+      "artista/banda": "Paramore",
+      "canción": "Misery Business",
+      "género": "Pop Punk",
+      "emociones_relacionadas": ["rebeldía", "catarsis"],
+      "actividades_afines": ["conciertos", "saltar en el sofá"]
+    },
+    {
+      "artista/banda": "Daddy Yankee",
+      "canción": "Gasolina",
+      "género": "Reggaeton",
+      "emociones_relacionadas": ["fiesta", "energía"],
+      "actividades_afines": ["bailar hasta el amanecer", "fiestas callejeras"]
+    },
+    {
+      "artista/banda": "Joy Division",
+      "canción": "Love Will Tear Us Apart",
+      "género": "Post-Punk",
+      "emociones_relacionadas": ["desesperanza", "tensión"],
+      "actividades_afines": ["escribir poesía oscura", "noches lluviosas"]
+    },
+    {
+      "artista/banda": "Adele",
+      "canción": "Rolling in the Deep",
+      "género": "Soul",
+      "emociones_relacionadas": ["ira", "venganza"],
+      "actividades_afines": ["romper cosas", "cantar en el espejo"]
+    },
+    {
+      "artista/banda": "The Clash",
+      "canción": "Should I Stay or Should I Go",
+      "género": "Punk Rock",
+      "emociones_relacionadas": ["indecisión", "rebeldía"],
+      "actividades_afines": ["tomar decisiones", "viajes en tren"]
+    },
+    {
+      "artista/banda": "Utada Hikaru",
+      "canción": "First Love",
+      "género": "J-Pop",
+      "emociones_relacionadas": ["inocencia", "nostalgia"],
+      "actividades_afines": ["viajar en tren", "recordar el pasado"]
+    },
+    {
+      "artista/banda": "My Bloody Valentine",
+      "canción": "When You Sleep",
+      "género": "Shoegaze",
+      "emociones_relacionadas": ["ensueño", "confusión"],
+      "actividades_afines": ["dormir", "pensamientos abstractos"]
+    },
+    {
+      "artista/banda": "Maluma",
+      "canción": "Hawái",
+      "género": "Reggaeton",
+      "emociones_relacionadas": ["despecho", "sarcasmo"],
+      "actividades_afines": ["vacaciones ficticias", "redes sociales"]
+    },
+    {
+      "artista/banda": "Nina Simone",
+      "canción": "Feeling Good",
+      "género": "Jazz",
+      "emociones_relacionadas": ["renacimiento", "optimismo"],
+      "actividades_afines": ["tomar café de mañana", "renovaciones personales"]
+    },
+    {
+      "artista/banda": "The Police",
+      "canción": "Every Breath You Take",
+      "género": "New Wave",
+      "emociones_relacionadas": ["obsesión", "posesividad"],
+      "actividades_afines": ["escribir cartas anónimas", "noches de intriga"]
+    },
+    {
+      "artista/banda": "Måneskin",
+      "canción": "Beggin'",
+      "género": "Rock Glam",
+      "emociones_relacionadas": ["desesperación", "pasión"],
+      "actividades_afines": ["fiestas extravagantes", "tatuajes improvisados"]
+    },
+    {
+      "artista/banda": "Sia",
+      "canción": "Chandelier",
+      "género": "Pop",
+      "emociones_relacionadas": ["caos", "libertad"],
+      "actividades_afines": ["bailar descalzo", "terapia artística"]
+    },
+    {
+      "artista/banda": "The Cranberries",
+      "canción": "Zombie",
+      "género": "Rock Alternativo",
+      "emociones_relacionadas": ["rabia", "dolor social"],
+      "actividades_afines": ["manifestaciones", "gritar en el coche"]
+    },
+    {
+      "artista/banda": "Jorge Drexler",
+      "canción": "Telefonía",
+      "género": "Folk Urbano",
+      "emociones_relacionadas": ["melancolía moderna", "conexión"],
+      "actividades_afines": ["llamar a un viejo amor", "escribir canciones"]
+    },
+    {
+      "artista/banda": "Dua Lipa",
+      "canción": "Don't Start Now",
+      "género": "Disco Pop",
+      "emociones_relacionadas": ["empoderamiento", "superación"],
+      "actividades_afines": ["renacer social", "clases de baile"]
+    },
+    {
+      "artista/banda": "System of a Down",
+      "canción": "Chop Suey!",
+      "género": "Metal Alternativo",
+      "emociones_relacionadas": ["caos", "angustia existencial"],
+      "actividades_afines": ["headbanging", "debates filosóficos"]
+    },
+    {
+      "artista/banda": "Carla Morrison",
+      "canción": "Eres Tú",
+      "género": "Indie Folk",
+      "emociones_relacionadas": ["amor puro", "ternura"],
+      "actividades_afines": ["bodas", "declaraciones de amor"]
+    },
+    {
+      "artista/banda": "Daft Punk",
+      "canción": "Around the World",
+      "género": "French House",
+      "emociones_relacionadas": ["futurismo", "ritmo"],
+      "actividades_afines": [
+        "viajes interestelares imaginarios",
+        "fiestas retro"
+      ]
+    }
+  ]
 }

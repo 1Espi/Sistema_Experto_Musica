@@ -11,7 +11,6 @@ class VideoWidget(QWidget):
         self.youtube_url = youtube_url
         self.spotify_url = spotify_url
         self.video_id = self.extract_video_id(youtube_url)
-        self.setMinimumSize(80, 40)  # Tamaño ajustado para miniatura
         
         layout = QVBoxLayout(self)
         layout.setContentsMargins(2, 5, 5, 2)
@@ -54,7 +53,15 @@ class VideoWidget(QWidget):
         """)
         self.thumbnail_btn.setFixedSize(320, 180)
         self.thumbnail_btn.clicked.connect(self.open_youtube)
-        layout.addWidget(self.thumbnail_btn)
+
+        # Crear un layout horizontal contenedor para centrar
+        container_layout = QHBoxLayout()
+        container_layout.addStretch()  # Espacio flexible a la izquierda
+        container_layout.addWidget(self.thumbnail_btn)
+        container_layout.addStretch()  # Espacio flexible a la derecha
+
+        # Añadir el layout contenedor al layout principal
+        layout.addLayout(container_layout)
 
         # Cargar miniatura desde YouTube
         if self.video_id:
@@ -97,27 +104,41 @@ class VideoWidget(QWidget):
         btn_layout = QHBoxLayout()
         btn_layout.setContentsMargins(0, 10, 0, 0)
         
-        self.spotify_btn = QPushButton("Abrir en Spotify")
+        # Crear botones con iconos
+        self.spotify_btn = QPushButton()
         self.spotify_btn.clicked.connect(self.open_spotify)
         
-        self.youtube_btn = QPushButton("Abrir en YouTube")
+        self.youtube_btn = QPushButton()
         self.youtube_btn.clicked.connect(self.open_youtube)
+        
+        # Cargar iconos SVG desde la carpeta media
+        spotify_icon = QIcon("media/spotify_icon.svg")
+        youtube_icon = QIcon("media/youtube_icon.svg")
+        
+        # Configurar iconos y texto
+        self.spotify_btn.setText("Abrir en Spotify")
+        self.spotify_btn.setIcon(spotify_icon)
+        self.spotify_btn.setIconSize(QSize(24, 24))  # Tamaño del icono
+        
+        self.youtube_btn.setText("Abrir en YouTube")
+        self.youtube_btn.setIcon(youtube_icon)
+        self.youtube_btn.setIconSize(QSize(24, 24))  # Tamaño del icono
         
         btn_layout.addWidget(self.spotify_btn)
         btn_layout.addWidget(self.youtube_btn)
         layout.addLayout(btn_layout)
 
-        # Estilo de los botones
+        # Estilo de los botones (actualizado para incluir iconos)
         self.spotify_btn.setStyleSheet("""
             QPushButton {
-                background-color: #1DB954;
+                background-color: #1ED760;
                 color: white;
                 border-radius: 4px;
-                padding: 8px;
+                padding: 8px 12px 8px 8px;  /* Más padding a la izquierda para el icono */
                 font: bold 12px;
                 min-width: 120px;
             }
-            QPushButton:hover { background-color: #1ED760; }
+            QPushButton:hover { background-color: #1DB954; }
         """)
         
         self.youtube_btn.setStyleSheet("""
@@ -125,51 +146,15 @@ class VideoWidget(QWidget):
                 background-color: #FF0000;
                 color: white;
                 border-radius: 4px;
-                padding: 8px;
+                padding: 8px 12px 8px 8px;  /* Más padding a la izquierda para el icono */
                 font: bold 12px;
                 min-width: 120px;
             }
             QPushButton:hover { background-color: #CC0000; }
         """)
-
+    
     def open_spotify(self):
         QDesktopServices.openUrl(QUrl(self.spotify_url))
 
     def open_youtube(self):
         QDesktopServices.openUrl(QUrl(self.youtube_url))
-
-# Ejemplo de uso:
-if __name__ == "__main__":
-    import sys
-    from PyQt5.QtWidgets import QMainWindow, QWidget, QGridLayout, QScrollArea
-    
-    app = QApplication(sys.argv)
-    
-    main_window = QMainWindow()
-    main_widget = QWidget()
-    main_layout = QGridLayout(main_widget)
-    main_layout.setSpacing(15)
-    
-    scroll_area = QScrollArea()
-    scroll_area.setWidgetResizable(True)
-    scroll_area.setWidget(main_widget)
-    
-    main_window.setCentralWidget(scroll_area)
-    main_window.setWindowTitle("Miniaturas de Videos")
-    main_window.resize(800, 600)
-    
-    video_urls = [
-        ("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"),
-        ("https://youtu.be/9bZkp7q19f0", "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"),
-        ("https://www.youtube.com/watch?v=kJQP7kiw5Fk", "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"),
-        ("https://youtu.be/JGwWNGJdvx8", "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW")
-    ]
-    
-    for i, (yt_url, sp_url) in enumerate(video_urls):
-        row = i // 2
-        col = i % 2
-        video_widget = VideoWidget(yt_url, sp_url)
-        main_layout.addWidget(video_widget, row, col)
-    
-    main_window.show()
-    sys.exit(app.exec_())

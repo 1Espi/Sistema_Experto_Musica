@@ -627,7 +627,7 @@
       "artista/banda": "The Beatles",
       "canción": "Here Comes the Sun",
       "género": "Rock Clásico",
-      "emociones_relacionadas": ["esperanza-optimismo", "felicidad"],
+      "emociones_relacionadas": ["esperanza-optimismo", "alegria"],
       "actividades_afines": [
         "relajarse",
         "cocinar-comer",
@@ -1214,7 +1214,7 @@
       "artista/banda": "Duki",
       "canción": "Hitboy",
       "género": "Trap",
-      "emociones_relacionadas": ["furia", "determinación"],
+      "emociones_relacionadas": ["furia"],
       "actividades_afines": ["deportes", "ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=yzRbO3X2uyE",
       "spotify_link": "https://open.spotify.com/intl-es/track/624AL3EwsrgGIp6bdwmXgo?si=e2aefee4a1064a94"
@@ -1709,7 +1709,7 @@
     "artista/banda": "Nine Inch Nails",
     "canción": "Hurt",
     "género": "Industrial Rock / Alternative",
-    "emociones_relacionadas": ["frustracion", "soledad", "dolor"],
+    "emociones_relacionadas": ["frustracion", "soledad"],
     "actividades_afines": ["meditar", "llorar", "leer"],
     "youtube_link": "https://www.youtube.com/watch?v=ttUnAOPFaO0",
     "spotify_link": "https://open.spotify.com/intl-es/track/27tX58NOpv1YKQ0abW7EPy?si=e025cd284b954621"
@@ -1803,6 +1803,51 @@
     "actividades_afines": ["fiesta", "bailar", "conducir","cantar"],
     "youtube_link": "https://www.youtube.com/watch?v=-ZcNkX1ax80",
     "spotify_link": "https://open.spotify.com/intl-es/track/67LKV40NfSSGIJnm0xz6fi?si=a31a1f3a23614634"
+  },
+    {
+    "artista/banda": "Ed Sheeran",
+    "canción": "Perfect",
+    "género": "Pop / Balada romántica",
+    "emociones_relacionadas": ["romance", "relajacion", "alegria",""],
+    "actividades_afines": ["boda", "bailar", "cantar"],
+    "youtube_link": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    "spotify_link": "https://open.spotify.com/intl-es/track/0tgVpDi06FyKpA1z0VMD4v?si=4d4bffc6581d4d6d"
+  },
+  {
+    "artista/banda": "Jason Mraz",
+    "canción": "I'm Yours",
+    "género": "Pop acústico / Folk",
+    "emociones_relacionadas": ["romance", "esperanza-optimismo", "alegria"],
+    "actividades_afines": ["boda", "pasear", "relajarse"],
+    "youtube_link": "https://www.youtube.com/watch?v=EkHTsc9PU2A",
+    "spotify_link": "https://open.spotify.com/intl-es/track/1EzrEOXmMH3G43AXT1y7pA?si=84afc7beb2464446"
+  },
+  {
+    "artista/banda": "John Legend",
+    "canción": "All of Me",
+    "género": "R&B / Balada",
+    "emociones_relacionadas": ["esperanza-optimismo", "empoderamiento", "romance"],
+    "actividades_afines": ["boda", "cantar", "llorar"],
+    "youtube_link": "https://www.youtube.com/watch?v=450p7goxZqg",
+    "spotify_link": "https://open.spotify.com/intl-es/track/3U4isOIWM3VvDubwSI3y7a?si=04d03fb19c054cb6"
+  },
+  {
+    "artista/banda": "Taylor Swift",
+    "canción": "Lover",
+    "género": "Pop",
+    "emociones_relacionadas": ["romance", "alegria"],
+    "actividades_afines": ["boda", "leer", "relajarse"],
+    "youtube_link": "https://www.youtube.com/watch?v=-BjZmE2gtdo",
+    "spotify_link": "https://open.spotify.com/intl-es/track/1dGr1c8CrMLDpV6mPbImSI?si=418094110f1e4ead"
+  },
+  {
+    "artista/banda": "Bruno Mars",
+    "canción": "Marry You",
+    "género": "Pop / Funk",
+    "emociones_relacionadas": ["alegria", "romance", "empoderamiento"],
+    "actividades_afines": ["boda", "bailar", "fiesta"],
+    "youtube_link": "https://www.youtube.com/watch?v=dElRVQFqj-k",
+    "spotify_link": "https://open.spotify.com/intl-es/track/6SKwQghsR8AISlxhcwyA9R?si=aa78562754ae4b8e"
   }
   ]
 }

@@ -720,6 +720,150 @@
         "viajes interestelares imaginarios",
         "fiestas retro"
       ]
+    },
+        {
+      "artista/banda": "Duki",
+      "canción": "Goteo",
+      "género": "Trap",
+      "emociones_relacionadas": ["energia", "euforia"],
+      "actividades_afines": ["bailar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=FRthkpJ_NFo",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1EoEU4HY57qaITp06TkC6B?si=a37c2648a6824c3e"
+    },
+    {
+      "artista/banda": "Duki",
+      "canción": "She Don't Give a FO",
+      "género": "Trap",
+      "emociones_relacionadas": ["empoderamiento", "motivación","desamor"],
+      "actividades_afines": ["ejercicio", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=W0yp3rSfx3I",
+      "spotify_link": "https://open.spotify.com/intl-es/track/03a359wbiUsjN9h6yzXvmS?si=36b255f7d57b445c"
+    },
+    {
+      "artista/banda": "Duki",
+      "canción": "Hitboy",
+      "género": "Trap",
+      "emociones_relacionadas": ["furia", "determinación"],
+      "actividades_afines": ["deportes", "ejercicio"],
+      "youtube_link": "https://www.youtube.com/watch?v=yzRbO3X2uyE",
+      "spotify_link": "https://open.spotify.com/intl-es/track/624AL3EwsrgGIp6bdwmXgo?si=e2aefee4a1064a94"
+    },
+    {
+      "artista/banda": "Duki",
+      "canción": "Antes de Perderte",
+      "género": "Trap/Rap emocional",
+      "emociones_relacionadas": ["desamor", "melancolía"],
+      "actividades_afines": ["llorar", "reflexionar"],
+      "youtube_link": "https://www.youtube.com/watch?v=_zmjCoWvXYg",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4RtPruLRZbyirtJGqYHPQm?si=ae1d41a803ca4215"
+    },
+    {
+      "artista/banda": "Duki",
+      "canción": "Hello Cotto",
+      "género": "Trap",
+      "emociones_relacionadas": ["euforia", "alegría"],
+      "actividades_afines": ["bailar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=dHRlRl_VQXs",
+      "spotify_link": "https://open.spotify.com/intl-es/track/422Avi2VjqZKCVzstKmqog?si=6863f6ccf98841f7"
+    },
+        {
+      "artista/banda": "The Weeknd",
+      "canción": "Blinding Lights",
+      "género": "Pop/Synthwave",
+      "emociones_relacionadas": ["euforia", "energia"],
+      "actividades_afines": ["conducir", "bailar"],
+      "youtube_link": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b?si=fefe625e90934f21"
+    },
+    {
+      "artista/banda": "Lana Del Rey",
+      "canción": "Summertime Sadness",
+      "género": "Pop alternativo",
+      "emociones_relacionadas": ["nostalgia", "melancolía"],
+      "actividades_afines": ["leer", "dormir"],
+      "youtube_link": "https://www.youtube.com/watch?v=TdrL3QxjyVw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3BJe4B8zGnqEdQPMvfVjuS?si=8803292a43214bb9"
+    },
+     {
+      "artista/banda": "Milo J",
+      "canción": "Milagrosa",
+      "género": "Trap latino",
+      "emociones_relacionadas": ["euforia", "empoderamiento"],
+      "actividades_afines": ["ejercicio", "bailar"],
+      "youtube_link": "https://www.youtube.com/watch?v=9AEpbNi88F0",
+      "spotify_link": "https://open.spotify.com/intl-es/track/7vFESQCFxuL38hNbTCtUDu?si=9726096f1c094b1b"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "Dispara***",
+      "género": "Trap",
+      "emociones_relacionadas": ["furia", "frustración"],
+      "actividades_afines": ["conducir", "deportes"],
+      "youtube_link": "https://www.youtube.com/watch?v=XsSpBZXW538",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6r0TaoZh1Oc1KkuL4rC1kB?si=cf7971337a1c465d"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "El Bolero",
+      "género": "Balada urbana",
+      "emociones_relacionadas": ["romance", "nostalgia"],
+      "actividades_afines": ["leer", "relajarse"],
+      "youtube_link": "https://www.youtube.com/watch?v=sk_T8BYNEI4",
+      "spotify_link": "https://open.spotify.com/intl-es/track/7FwSZyO5ynlN0OJGVOjE6k?si=53575b42ecb74ca7"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "M.A.I",
+      "género": "Trap melódico",
+      "emociones_relacionadas": ["soledad", "melancolía", "romance"],
+      "actividades_afines": ["meditar/yoga", "dormir/descansar"],
+      "youtube_link": "https://www.youtube.com/watch?v=MldGX_mbS-o",
+      "spotify_link": "https://open.spotify.com/intl-es/track/35ttE4t8lQZA2vuCYDg4G7?si=a6f0e069b35b4df8"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "Carta de Despedida",
+      "género": "Trap",
+      "emociones_relacionadas": ["desamor", "tristeza"],
+      "actividades_afines": ["llorar", "leer"],
+      "youtube_link": "http://youtube.com/watch?v=2gyxXtOpWlA",
+      "spotify_link": "https://open.spotify.com/intl-es/track/7In4Lnz4mpkFkG5zOAzLuE?si=df43410a497941f2"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "Lo que me causa",
+      "género": "Pop urbano",
+      "emociones_relacionadas": ["alegría", "romance"],
+      "actividades_afines": ["socializar", "boda"],
+      "youtube_link": "https://www.youtube.com/watch?v=hxxtH5QqTz8",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4QnyTa6dJV0p8FPMEbP3r7?si=61ee9cb382324a35"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "Buen día portación de rostro",
+      "género": "Trap",
+      "emociones_relacionadas": ["esperanza", "motivación"],
+      "actividades_afines": ["conducir", "pasear/caminar"],
+      "youtube_link": "https://www.youtube.com/watch?v=f51uMJI3dK0",
+      "spotify_link": "https://open.spotify.com/intl-es/track/11PKDQQMsqNZ4sfefZmfRi?si=31b78daaaa9349b0"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "I'Am",
+      "género": "Trap melódico",
+      "emociones_relacionadas": ["empoderamiento", "motivación","desamor"],
+      "actividades_afines": ["ejercicio", "trabajar/estudiar"],
+      "youtube_link": "https://www.youtube.com/watch?v=q4AMacD4j_Q",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3e5gPPx7MTGoYffXH70Tqf?si=88367d24dcd7412a"
+    },
+    {
+      "artista/banda": "Milo J",
+      "canción": "Una Bala",
+      "género": "Corridos tumbados",
+      "emociones_relacionadas": ["furia", "frustración"],
+      "actividades_afines": ["conducir", "deportes"],
+      "youtube_link": "https://www.youtube.com/watch?v=-KK0gXX36J0",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6Rz80wUWSUbGGVHvkH7NpU?si=667139dbc64a4eca"
     }
   ]
 }

@@ -1287,7 +1287,7 @@
       "canción": "M.A.I",
       "género": "Trap melódico",
       "emociones_relacionadas": ["soledad", "melancolía", "romance"],
-      "actividades_afines": ["meditar/yoga", "dormir/descansar"],
+      "actividades_afines": ["meditar", "dormir"],
       "youtube_link": "https://www.youtube.com/watch?v=MldGX_mbS-o",
       "spotify_link": "https://open.spotify.com/intl-es/track/35ttE4t8lQZA2vuCYDg4G7?si=a6f0e069b35b4df8"
     },
@@ -1314,7 +1314,7 @@
       "canción": "Buen día portación de rostro",
       "género": "Trap",
       "emociones_relacionadas": ["esperanza", "motivación"],
-      "actividades_afines": ["conducir", "pasear/caminar"],
+      "actividades_afines": ["conducir", "pasear"],
       "youtube_link": "https://www.youtube.com/watch?v=f51uMJI3dK0",
       "spotify_link": "https://open.spotify.com/intl-es/track/11PKDQQMsqNZ4sfefZmfRi?si=31b78daaaa9349b0"
     },
@@ -1323,7 +1323,7 @@
       "canción": "I'Am",
       "género": "Trap melódico",
       "emociones_relacionadas": ["empoderamiento", "motivación","desamor"],
-      "actividades_afines": ["ejercicio", "trabajar/estudiar"],
+      "actividades_afines": ["ejercicio", "trabajar-estudiar"],
       "youtube_link": "https://www.youtube.com/watch?v=q4AMacD4j_Q",
       "spotify_link": "https://open.spotify.com/intl-es/track/3e5gPPx7MTGoYffXH70Tqf?si=88367d24dcd7412a"
     },
@@ -1335,6 +1335,159 @@
       "actividades_afines": ["conducir", "deportes"],
       "youtube_link": "https://www.youtube.com/watch?v=-KK0gXX36J0",
       "spotify_link": "https://open.spotify.com/intl-es/track/6Rz80wUWSUbGGVHvkH7NpU?si=667139dbc64a4eca"
+    },
+     {
+      "artista/banda": "Khea",
+      "canción": "Loca",
+      "género": "Trap latino",
+      "emociones_relacionadas": ["deseo", "energía"],
+      "actividades_afines": ["fiesta", "bailar","cantar","socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=XQ0D_QD_DhM",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0vnrhysrKKRdNYFKLAGzRc?si=3348c7bf686c4b97"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "Ayer Me Llamó Mi Ex",
+      "género": "Bachatrap",
+      "emociones_relacionadas": ["desamor", "nostalgia","deseo"],
+      "actividades_afines": ["cantar", "bailar"],
+      "youtube_link": "https://www.youtube.com/watch?v=svSqD1ZBZiY",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3ef2QlCUWO29UvqJaU3MUi?si=961f81b60c394178"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "Wacha",
+      "género": "Trap",
+      "emociones_relacionadas": ["alegría", "energía"],
+      "actividades_afines": ["fiesta", "bailar",""],
+      "youtube_link": "https://www.youtube.com/watch?v=GP3zFD2_ThE",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5lLJ4LXtuY68F4erCOK8Jp?si=46c492618f314ec4"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "Cómo Le Digo",
+      "género": "Reguetón",
+      "emociones_relacionadas": ["romance", "deseo"],
+      "actividades_afines": ["socializar", "cocinar-comer","cantar","fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=_I_zjqbPwOE",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0K0soSt52EhMS9FohRObdK?si=9361301169f04fae"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "Vete",
+      "género": "Trap acústico",
+      "emociones_relacionadas": ["tristeza", "soledad"],
+      "actividades_afines": ["cantar","llorar"],
+      "youtube_link": "https://www.youtube.com/watch?v=ijkl9012",
+      "spotify_link": "https://open.spotify.com/track/1z2x3c4v5b6n7m8l9k0j"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "KHEA || BZRP Music Sessions #34",
+      "género": "Trap",
+      "emociones_relacionadas": ["desamor", "frustración"],
+      "actividades_afines": ["trabajar-estudiar","cantar","llorar"],
+      "youtube_link": "https://www.youtube.com/watch?v=QAf-SvxZIx0",
+      "spotify_link": "https://open.spotify.com/intl-es/track/7bidsoy3nzCDNYzAzrV7NN?si=d824952ccc0c4c71"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "Tú Y Yo",
+      "género": "R&B",
+      "emociones_relacionadas": ["romance", "alegría"],
+      "actividades_afines": ["boda", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=NXiM9vwEAfk",
+      "spotify_link": "https://open.spotify.com/intl-es/track/00THZGfbizNvMUkJsQs74K?si=1e6111e0a2bf40d6"
+    },
+    {
+      "artista/banda": "Khea",
+      "canción": "Te Vas",
+      "género": "Pop urbano",
+      "emociones_relacionadas": ["tristeza", "desamor"],
+      "actividades_afines": ["llorar", "leer"],
+      "youtube_link": "https://www.youtube.com/watch?v=bL559YIUXTk",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1J868sD7TtSKoBB1lPaHyU?si=899d0986524b4f1c"
+    },
+     {
+      "artista/banda": "Tiago PZK",
+      "canción": "Señorita",
+      "género": "Pop dance",
+      "emociones_relacionadas": ["deseo", "energía","alegria"],
+      "actividades_afines": ["bailar", "fiesta","cantar"],
+      "youtube_link": "https://www.youtube.com/watch?v=CK0DWy3lMiQ",
+      "spotify_link": "https://open.spotify.com/intl-es/track/07iT27MVMrGC1eK4U3zbrB?si=bb504b9bd1304d2b"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Mi Corazón",
+      "género": "Pop urbano",
+      "emociones_relacionadas": ["romance", "alegría","desamor"],
+      "actividades_afines": ["socializar", "cocinar-comer","cantar","llorar"],
+      "youtube_link": "https://www.youtube.com/watch?v=3feGplfiR9M",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5KzfXGN3zdUtTg1d9WtGsE?si=7b6f14a4ecf64384"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Alegría",
+      "género": "Pop latino",
+      "emociones_relacionadas": ["alegría", "energía"],
+      "actividades_afines": ["bailar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=6-YPVUgAO3I",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5v9LMshhQsNtkUkcXRGO7i?si=7b509718f58b4904"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Entre Nosotros",
+      "género": "Trap melódico",
+      "emociones_relacionadas": ["desamor", "tristeza"],
+      "actividades_afines": ["llorar", "leer","cantar","ejercicio","llorar"],
+      "youtube_link": "https://www.youtube.com/watch?v=FMA8X18-W1Q",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4TGwERXRlyQtBdggYTHo6j?si=104f8818d2784049"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Salimo de Noche",
+      "género": "Reguetón",
+      "emociones_relacionadas": ["alegría", "energía"],
+      "actividades_afines": ["fiesta", "bailar"],
+      "youtube_link": "https://www.youtube.com/watch?v=IXBtBsK6Fmo",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6P096SaOzrgGxs8NWOfX7M?si=c307044eeaa74ecb"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Sola",
+      "género": "R&B",
+      "emociones_relacionadas": ["soledad", "melancolía","ansiedad","miedo","furia"],
+      "actividades_afines": ["llorar","reflexionar"],
+      "youtube_link": "https://www.youtube.com/watch?v=xRWqAbKAZrg",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4P1T0qUkqIVuByWA8i1SQV?si=a89bb8ea9f904c46"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Nos Comemos",
+      "género": "Reguetón",
+      "emociones_relacionadas": ["deseo", "romance"],
+      "actividades_afines": ["socializar", "cocinar-comer","fiesta","bailar"],
+      "youtube_link": "https://www.youtube.com/watch?v=WJcsqyeIJ8Y",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6ojZtz3sZr6ynvejLOqgCj?si=201d5e0fca734976"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "El Último Beso",
+      "género": "Pop urbano",
+      "emociones_relacionadas": ["tristeza", "desamor"],
+      "actividades_afines": ["llorar", "relajarse"],
+      "youtube_link": "https://www.youtube.com/watch?v=e3-mshY5k6U",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1gYtMKmICjH8KQG3MheNJt?si=b3bb9bb70b1d41de"
+    },
+    {
+      "artista/banda": "Tiago PZK",
+      "canción": "Traductor",
+      "género": "Trap latino",
+      "emociones_relacionadas": ["energía", "motivación","alegria"],
+      "actividades_afines": ["ejercicio", "bailar","cantar","fiestas"],
+      "youtube_link": "https://www.youtube.com/watch?v=bL8lX4tP5jw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5x17YrAwajDUCqB8zT9ElY?si=d471fabe42e34ffc"
     }
   ]
 }

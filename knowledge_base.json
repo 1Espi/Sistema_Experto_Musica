@@ -1312,6 +1312,331 @@
       "actividades_afines": ["ejercicio", "trabajar-estudiar"],
       "youtube_link": "https://youtu.be/Y0EcKR05Ac4?si=9y7MWSHq40YkX3Z1",
       "spotify_link": "https://open.spotify.com/track/0tLcKkZqfylGoG5JcXOXvL?si=aa9bb026b94d4c96"
-    }
+    },
+     {
+      "artista/banda": "Zoé",
+      "canción": "Labios Rotos",
+      "género": "Rock alternativo",
+      "emociones_relacionadas": ["romance", "melancolía", "nostalgia"],
+      "actividades_afines": ["leer", "relajarse", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=7h2ryr_uUEs",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1nULBrlzWatdcjA2ZctIMv?si=2053b510b42a4077"
+    }, 
+    {
+      "artista/banda": "Café Tacvba",
+      "canción": "Eres",
+      "género": "Rock alternativo",
+      "emociones_relacionadas": ["romance", "esperanza", "alegría"],
+      "actividades_afines": ["boda", "cantar", "pasear/caminar"],
+      "youtube_link": "https://www.youtube.com/watch?v=98Akpf1ph2o",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6kdCN6gTWLcLxmLXoUcwuI?si=68173f8257dc48fd"
+    }, 
+    {
+      "artista/banda": "Reik",
+      "canción": "Noviembre Sin Ti",
+      "género": "Pop",
+      "emociones_relacionadas": ["tristeza", "soledad", "desamor"],
+      "actividades_afines": ["llorar", "leer", "descansar"],
+      "youtube_link": "https://www.youtube.com/watch?v=weGzdKxLzss",
+      "spotify_link": "https://open.spotify.com/intl-es/track/2vCHDrXVN0k1GPTjSIZ69E?si=0f4d660c83454425"
+    },
+    {
+      "artista/banda": "Fuerza Regida",
+      "canción": "TQM",
+      "género": "Regional Urbano",
+      "emociones_relacionadas": ["romance", "alegría", "deseo"],
+      "actividades_afines": ["socializar", "bailar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=IVSp9eDenfw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/368eeEO3Y2uZUQ6S5oIjcu?si=e0de104d4a1947a6"
+    },
+    {
+      "artista/banda": "Fuerza Regida",
+      "canción": "Sigo Chambeando",
+      "género": "Corridos tumbados",
+      "emociones_relacionadas": ["motivación", "determinación", "empoderamiento"],
+      "actividades_afines": ["trabajar/estudiar", "ejercicio", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=EEhv0AFlvO0",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4PR0r2us3a64lTew6TVlF2?si=35ab6988a76c4f4f"
+    },
+     {
+      "artista/banda": "Joan Sebastian",
+      "canción": "Tatuajes",
+      "género": "Ranchera/Balada",
+      "emociones_relacionadas": ["romance", "melancolía", "desamor"],
+      "actividades_afines": ["leer", "relajarse", "cantar"],
+      "youtube_link": "https://www.youtube.com/watch?v=AN9jsmZhSmg",
+      "spotify_link": "https://open.spotify.com/intl-es/track/57dG9il4j7Hi7G8Cqgi0Ts?si=065b30d07d374af9"
+    },
+    {
+      "artista/banda": "Los Tigres del Norte",
+      "canción": "La Puerta Negra",
+      "género": "Norteño",
+      "emociones_relacionadas": ["rebeldía", "romance", "empoderamiento"],
+      "actividades_afines": ["bailar", "fiesta", "conducir"],
+      "youtube_link": "http://youtube.com/watch?v=rryDND06LHU",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5TueyPDnDMPSRdQd7VYooI?si=937176c77e6a415a"
+    },
+    {
+      "artista/banda": "Banda El Recodo",
+      "canción": "Te Presumo",
+      "género": "Banda",
+      "emociones_relacionadas": ["romance", "alegría", "orgullo"],
+      "actividades_afines": ["bailar", "fiesta", "boda"],
+      "youtube_link": "https://www.youtube.com/watch?v=mQWOAjSffHI",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3EjuEvxoNgHV6urIdPA4cl?si=43ae557b88f94c59"
+    },
+    {
+      "artista/banda": "Ariel Camacho y Los Plebes del Rancho",
+      "canción": "Te Metiste",
+      "género": "Sierreño",
+      "emociones_relacionadas": ["amor", "nostalgia", "melancolía"],
+      "actividades_afines": ["leer", "relajarse", "cantar"],
+      "youtube_link": "https://www.youtube.com/watch?v=cSxW59KalkA",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4KrXsgZHi1yLZLB1Wlgcbt?si=a538535147874483"
+    },
+    {
+      "artista/banda": "Chalino Sánchez",
+      "canción": "Nieves de Enero",
+      "género": "Corrido",
+      "emociones_relacionadas": ["nostalgia", "orgullo", "soledad"],
+      "actividades_afines": ["cantar", "conducir", "relajarse","bailar"],
+      "youtube_link": "http://youtube.com/watch?v=475DMIsiuBw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3fNK9wZMHV7CLG1z3rueBO?si=b9fdf86758e24406"
+    },
+    {
+      "artista/banda": "Banda los recoditos",
+      "canción": "Mi ultimo deseo",
+      "género": "Banda",
+      "emociones_relacionadas": ["nostalgia", "melancolía", "alegria","rebeldía","euforia"],
+      "actividades_afines": ["fiesta", "bailar", "cantar"],
+      "youtube_link": "https://www.youtube.com/watch?v=cVlAmP-KDT4",
+      "spotify_link": "https://open.spotify.com/intl-es/track/01ksPzu3Bw8Lsf9o6xIk8C?si=21515175d47643d5"
+    },
+    {
+      "artista/banda": "Los Ángeles Azules",
+      "canción": "Nunca Es Suficiente",
+      "género": "Cumbia",
+      "emociones_relacionadas": ["romance", "nostalgia", "melancolia"],
+      "actividades_afines": ["bailar", "fiesta", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=k76BgIb89-s",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0HlMshB5JmZjPNbOuOgFHN?si=94e2d61a0854492d"
+    },
+    {
+      "artista/banda":"Bad Bunny",
+      "canción":"Baile Inolvidable",
+      "género":"Salsa",
+      "emociones_relacionadas": ["melancolia", "tristeza", "nostalgia"],
+      "actividades_afines": ["bailar", "socializar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=a1Femq4NPxs",
+      "spotify_link": "https://open.spotify.com/intl-es/track/2lTm559tuIvatlT1u0JYG2?si=6a739bd62fb44e22"
+    },
+    {
+      "artista/banda":"Rauw Alejandro",
+      "canción":"Tú Con Él",
+      "género":"Salsa",
+      "emociones_relacionadas": ["melancolia", "tristeza", "nostalgia"],
+      "actividades_afines": ["bailar", "socializar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=NC4wwAtyBA8",
+      "spotify_link": "https://open.spotify.com/intl-es/track/2eQFYGegTZaObk2kuBz83Z?si=e60ad80d6d2f42c2"
+    },
+    {
+      "artista/banda":"Bad Bunny",
+      "canción":"Vete",
+      "género":"Reggaetón",
+      "emociones_relacionadas": ["desamor", "tristeza", "nostalgia"],
+      "actividades_afines": ["bailar", "socializar", "fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=f5aDUB1NCnk",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5DxXgozhkPLgrbKFY91w0c?si=02347e8977e14d3f"
+    },
+    {
+      "artista/banda":"Yung Beef",
+      "canción":"Rosas Azules",
+      "género":"Trap",
+      "emociones_relacionadas": ["desamor", "tristeza", "nostalgia"],
+      "actividades_afines":["llorar","reflexionar"],
+      "youtube_link": "https://www.youtube.com/watch?v=nzchAybuTHk",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1GtsI9he9vt9LKSkYzsHl1?si=62ed5b63811e4798"
+    },
+    {
+      "artista/banda":"Yung Beef",
+      "canción":"Religion",
+      "género":"Reggaeton Experimental",
+      "emociones_relacionadas": ["nostalgia","energia"],
+      "actividades_afines": ["bailar","socializar","fiesta"],
+      "youtube_link":"https://www.youtube.com/watch?v=6cAvAmCR1os",
+      "spotify_link":"https://open.spotify.com/intl-es/track/2l3lnbVgoal5DDx0gBALpl?si=f6248b7b524445dc"
+    },
+    {
+      "artista/banda":"Yung Beef",
+      "canción":"Infierno",
+      "género":"Reggaeton Experimental",
+      "emociones_relacionadas": ["nostalgia","energia"],
+      "actividades_afines": ["bailar","socializar","fiesta"],
+      "youtube_link":"https://www.youtube.com/watch?v=8WOz2IdE5Rc",
+      "spotify_link":"https://open.spotify.com/intl-es/track/108whpchHSWyW0FQ4XvTBW?si=4319f5bb12684edd"
+    },
+    {
+      "artista/banda":"Yung Beef",
+      "canción":"CAMINO SOLO",
+      "género":"Reggaeton Experimental",
+      "emociones_relacionadas": ["nostalgia","energia"],
+      "actividades_afines": ["bailar","socializar","fiesta"],
+      "youtube_link":"https://www.youtube.com/watch?v=E8mZthWpDPE",
+      "spotify_link":"https://open.spotify.com/intl-es/track/2JZbYKlhHsGKAfuexOnCYA?si=988ddcdb52fc4854"
+    },
+    {
+      "artista/banda":"Yung Beef ft. El Bogeto",
+      "canción":"Cuando No era Cantante",
+      "género":"Reggaeton Experimental",
+      "emociones_relacionadas": ["nostalgia","energia"],
+      "actividades_afines": ["cantar","bailar","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=w_LJ7_0YLBk",
+      "spotify_link":"https://open.spotify.com/intl-es/track/44xDy4h27s4ENaC8fKnCoC?si=11a5acd054154a86"
+    },
+    {
+      "artista/banda":"Neton Vega ft. Oscar Maydon",
+      "canción":"Amigos? No",
+      "género":"Regional Mexicano",
+      "emociones_relacionadas": ["desamor","nostalgia","tristeza"],
+      "actividades_afines": ["llorar","reflexionar","cantar"],
+      "youtube_link":"https://www.youtube.com/watch?v=_pW326DcgeE",
+      "spotify_link":"https://open.spotify.com/intl-es/track/7hNgSEQ4Ho7kWBA2rKpDd9?si=47b7fe31109c421d"
+    },
+    {
+      "artista/banda":"Fuerza Regida",
+      "cancion":"Por Esos Ojos",
+      "género":"Regional Mexicano",
+      "emociones_relacionadas": ["romance", "nostalgia", "alegria","euforia"],
+      "actividades_afines": ["cantar", "socializar", "fiesta"],
+      "youtube_link":"https://www.youtube.com/watch?v=IpgbHjhiotg",
+      "spotify_link":"https://open.spotify.com/intl-es/track/5jHozZMWbrExAFni95mvvH?si=5bde4b182607486c"
+    },
+    {
+        "artista/banda": "Metronomy",
+        "canción": "The Look",
+        "género": "Indie Pop",
+        "emociones_relacionadas": ["nostalgia", "melancolía"],
+        "actividades_afines": ["bailar", "reflexionar"],
+        "youtube_link": "https://www.youtube.com/watch?v=sFrNsSnk8GM",
+        "spotify_link": "https://open.spotify.com/intl-es/track/6zfczP87XO2SxWlQtnjFNa?si=1f7812c5b7ce4ca0"
+      },
+      {
+        "artista/banda": "The Weeknd",
+        "canción": "Save Your Tears",
+        "género": "Synthpop",
+        "emociones_relacionadas": ["tristeza", "nostalgia"],
+        "actividades_afines": ["bailar", "cantar"],
+        "youtube_link":"https://www.youtube.com/watch?v=XXYlFuWEuKI",
+        "spotify_link":"https://open.spotify.com/intl-es/track/5QO79kh1waicV47BqGRL3g?si=6a3c86de2d414507"
+      },
+      {
+        "artista/banda": "Tito Doble P",
+        "canción": "Rosones",
+        "género": "Corrido",
+        "emociones_relacionadas": ["orgullo", "rebeldía","euforia"],
+        "actividades_afines": ["ejercicio", "cantar","conducir"],
+        "youtube_link":"https://www.youtube.com/watch?v=_TywDvzjStQ",
+        "spotify_link":"https://open.spotify.com/intl-es/track/0LTwdL5yZ6YOTEGUQPFuSN?si=e263147e7c18434c"
+      },
+      {
+        "artista/banda": "Fuerza Regida",
+        "canción": "Excesos",
+        "género": "Corrido",
+        "emociones_relacionadas": ["orgullo", "rebeldía","euforia"],
+        "actividades_afines": ["ejercicio", "cantar","conducir"],
+        "youtube_link":"https://www.youtube.com/watch?v=F5kR7mLrX3w",
+        "spotify_link":"https://open.spotify.com/intl-es/track/6UtWwuheJr5LLDeVypPNx7?si=1b2f1e7e00e24582"
+      },
+      {
+        "artista/banda": "Tito Doble P",
+        "canción": "BLANCA ROSITA Y MARIA",
+        "género": "Corrido",
+        "emociones_relacionadas": ["orgullo", "rebeldía","euforia"],
+        "actividades_afines": ["ejercicio", "cantar","conducir"],
+        "youtube_link":"https://www.youtube.com/watch?v=R6lAfpGDQSM",
+        "spotify_link":"https://open.spotify.com/intl-es/track/1wsDxqEDpsvNCatbXHjOje?si=51a3fed403284834"
+      },
+      {
+        "artista/banda": "Tito Doble P",
+        "canción": "Nadie",
+        "género": "Corrido",
+        "emociones_relacionadas": ["orgullo", "tristeza","nostalgia","euforia"],
+        "actividades_afines": ["ejercicio", "cantar","conducir"],
+        "youtube_link":"https://www.youtube.com/watch?v=sI2TE_hYFYQ",
+        "spotify_link":"https://open.spotify.com/intl-es/track/7sd6zMrgGpEa7NkQm9TRrg?si=f727573c861e4b95"        
+      },
+      {
+        "artista/banda":"Gloosito",
+        "canción":"El Single",
+        "género":"Trap",
+        "emociones_relacionadas": ["determinación","energia","orgullo"],
+        "actividades_afines": ["ejercicio","conducir","trabajar/estudiar"],
+        "youtube_link":"https://www.youtube.com/watch?v=d4USBOdRhOc",
+        "spotify_link":"https://open.spotify.com/intl-es/track/0HaQlYpv7RmJxgD003NkXC?si=c0734fcf73804500"
+      },
+      {
+        "artista/banda":"Jarabe de Palo",
+        "cancion":"El lado oscuro",
+        "género":"Rock",
+        "emociones_relacionadas": ["nostalgia","melancolía","amor"],
+        "actividades_afines": ["leer","reflexionar","relajarse"],
+        "youtube_link":"https://www.youtube.com/watch?v=jW89DwNY3Os",
+        "spotify_link":"https://open.spotify.com/intl-es/track/3AR1c3Dssq51WlGGkuYJNj?si=ebbea4bb325e4ace"
+      },
+      {
+        "artista/banda":"Bad Bunny ft. Jhay Cortez",
+        "cancion":"DÁKITI",
+        "género":"Reggaetón",
+        "emociones_relacionadas": ["nostalgia","melancolía","amor"],
+        "actividades_afines":["fiestas","bailar","socializar"],
+        "youtube_link":"http://youtube.com/watch?v=475DMIsiuBw",
+        "spotify_link":"https://open.spotify.com/intl-es/track/47EiUVwUp4C9fGccaPuUCS?si=f057b749a37a423b"
+      },
+      {
+        "artista/banda":"Rauw Alejandro",
+        "cancion":"DIME QUIÉN ????",
+        "género":"Reggaetón",
+        "emociones_relacionadas": ["nostalgia","melancolía"],
+        "actividades_afines": ["fiestas","bailar","socializar","ejercicio"],
+        "youtube_link":"https://www.youtube.com/watch?v=4565-VRqNDQ",
+        "spotify_link":"https://open.spotify.com/intl-es/track/1ImWmtI7DM2uFPNJHHbD8g?si=7238ba2853214b5f"
+      },
+      {
+        "artista/banda":"Feid",
+        "cancion":"FERXXO 151",
+        "género":"Reggaetón",
+        "emociones_relacionadas": ["amor","relajacion","energia"],
+        "actividades_afines": ["fiestas","bailar","socializar","ejercicio"],
+        "youtube_link":"https://www.youtube.com/watch?v=ww7UQTDsPEc",
+        "spotify_link":"https://open.spotify.com/intl-es/track/1LFXWfARjkBkc9Abofmgp8?si=5eea88e257b74385"
+      },
+      {
+        "artista/banda":"Feid",
+        "cancion":"FELIZ CUMPLEAÑOS FERXXO",
+        "género":"Reggaetón",
+        "emociones_relacionadas": ["amor","relajacion","energia"],
+        "actividades_afines": ["fiestas","bailar","socializar","ejercicio"],
+        "youtube_link":"https://www.youtube.com/watch?v=jRxDUsGmwuc",
+        "spotify_link":"https://open.spotify.com/intl-es/track/3kUq4sBcmxhnOtNysZ9yrp?si=760b71a922ff40bf"
+      },
+      {
+        "artista/banda":"Kidd Keo",
+        "cancion":"0640",
+        "género":"Trap",
+        "emociones_relacionadas": ["nostalgia","melancolía","ansiedad"],
+        "actividades_afines": ["pasear/caminar","reflexionar","conducir"],
+        "youtube_link":"https://www.youtube.com/watch?v=_2ehsIBuavc",
+        "spotify_link":"https://open.spotify.com/intl-es/track/2bM087MIz7P8wQLQLUyGDK?si=09e35a1d6f3f415c"
+      },
+        {
+        "artista/banda":"Kidd Keo",
+        "cancion":"Superstars",
+        "género":"Trap",
+        "emociones_relacionadas": ["nostalgia","melancolía","ansiedad"],
+        "actividades_afines": ["pasear/caminar","reflexionar","conducir"],
+        "youtube_link":"https://www.youtube.com/watch?v=HWHWU4izTd0",
+        "spotify_link":"https://open.spotify.com/intl-es/track/0qSnsCozy8uz5XotSJMHUz?si=4110726879c44169"
+      }
+    
   ]
 }

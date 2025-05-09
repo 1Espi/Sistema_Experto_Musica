@@ -14,6 +14,7 @@ import json
 from PyQt5.QtWebEngineCore import QWebEngineUrlRequestInterceptor
 from PyQt5.QtWebEngineWidgets import QWebEngineProfile
 import random
+import unidecode
 
 class AdBlockerInterceptor(QWebEngineUrlRequestInterceptor):
     def interceptRequest(self, info):
@@ -137,12 +138,17 @@ class MainWindow(QWidget):
     def cargar_dataset(self):
         with open('knowledge_base.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
+        # Convertir a DataFrame
+        # Normalizar nombres de columnaS
         df = pd.DataFrame(data['dataset'])
-        # Normalizar datos a minúsculas
+         # Normalizar los datos: convertir a minúsculas y quitar acentos
         df['emociones_relacionadas'] = df['emociones_relacionadas'].apply(
-            lambda x: [e.strip().lower() for e in x])
+            lambda x: [unidecode.unidecode(e.strip().lower()) for e in x]
+        )
+        
         df['actividades_afines'] = df['actividades_afines'].apply(
-            lambda x: [a.strip().lower() for a in x])
+            lambda x: [unidecode.unidecode(a.strip().lower()) for a in x]
+        )
         return df
     
     def generar_playlist(self):

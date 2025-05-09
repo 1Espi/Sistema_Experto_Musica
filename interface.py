@@ -1,4 +1,9 @@
 import sys
+import collections.abc
+
+if sys.version_info >= (3, 10):
+    sys.modules['collections'].Mapping = collections.abc.Mapping
+
 from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout, QComboBox, QPushButton,
                              QScrollArea, QFrame, QLabel)
 from PyQt5.QtCore import Qt
@@ -8,6 +13,7 @@ import pandas as pd
 import json
 from PyQt5.QtWebEngineCore import QWebEngineUrlRequestInterceptor
 from PyQt5.QtWebEngineWidgets import QWebEngineProfile
+import random
 
 class AdBlockerInterceptor(QWebEngineUrlRequestInterceptor):
     def interceptRequest(self, info):
@@ -73,141 +79,43 @@ class MainWindow(QWidget):
         controls_layout = QHBoxLayout()
         
         self.combo_emocion = QComboBox()
-        self.combo_emocion.addItems(["Nostalgia", 
-                                    "Tranquilidad", 
-                                    "Melancolia", 
-                                    "Confusion", 
-                                    "Deseo", 
-                                    "Euforia", 
-                                    "Energia", 
-                                    "Ansiedad", 
-                                    "Sarcasmo", 
-                                    "Alegria", 
-                                    "Euforia", 
-                                    "Esperanza", 
-                                    "Ternura", 
-                                    "Intimidad", 
-                                    "Misterio", 
-                                    "Instrospeccion", 
-                                    "Alienacion", 
-                                    "Vulnerabilidad", 
-                                    "Intensidad", 
-                                    "Tristeza", 
-                                    "Desamor", 
-                                    "Drama", 
-                                    "Extasis", 
-                                    "Proteccion", 
-                                    "Soledad", 
-                                    "Vulnerabilidad", 
-                                    "Resignacion", 
-                                    "Proteccion", 
-                                    "Calidez", 
-                                    "Devocion", 
-                                    "Paz",
-                                    "Optimismo",
-                                    "Introspeccion",
-                                    "Calma",
-                                    "Celos",
-                                    "Frustracion",
-                                    "Rebeldia",
-                                    "Minimalismo",
-                                    "Sospecha",
-                                    "Misterio",
-                                    "Arrepentimiento",
-                                    "Coqueteria",
-                                    "Diversion",
-                                    "Pasion",
-                                    "Ira",
-                                    "Ambivalencia",
-                                    "Desamor",
-                                    "Angustia",
-                                    "Satira",
-                                    "Determinacion",
-                                    "Empoderamiento",
-                                    "Gratitud",
-                                    "Heroismo",
-                                    "Curiosidad",
-                                    "Frustracion",
-                                    "Aceptacion",
-                                    "Rabia",
-                                    "Misticismo",
-                                    "Pasion",
-                                    "Comunidad",
-                                    "Remordimiento",
-                                    "Dolor",
-                                    "Union",
-                                    "Desconexion",
-                                    "Obsesion",
-                                    "Luto",
-                                    "Oscuridad",
-                                    "Romance",
-                                    "Sensualidad",
-                                    "Fascinacion",
-                                    "Furia",
-                                    "Felicidad",
-                                    "Atraccion",
-                                    "Relajacion",
-                                    "Hedonismo",
-                                    "Amistad",
-                                    "Despecho",
-                                    "Inocencia",
-                                    "Arrogancia",
-                                    "Desesperacion",
-                                    "Caos",
-                                    "Libertad",
-                                    "Superacion",
-                                    "Futurismo"])
+        self.combo_emocion.addItems(["alegria",
+                                     "tristeza",
+                                     "euforia",
+                                     "relajacion",
+                                     "melancolia",
+                                     "nostalgia",
+                                     "ansiedad",
+                                     "energia",
+                                     "romance",
+                                     "desamor",
+                                     "furia",
+                                     "esperanza-optimismo",
+                                     "soledad",
+                                     "empoderamiento",
+                                     "motivacion",
+                                     "frustracion",
+                                     "miedo",
+                                     "deseo"])
         controls_layout.addWidget(self.combo_emocion)
         
         self.combo_actividad = QComboBox()
-        self.combo_actividad.addItems(["Leer", 
-                                        "Relajarse", 
-                                        "Conducir", 
-                                        "Socializar", 
-                                        "Escribir", 
-                                        "Viajar", 
-                                        "Bailar", 
-                                        "Ejercicio", 
-                                        "Nochear", 
-                                        "Reflexionar", 
-                                        "Fiestas",
-                                        "Ejercicio",
-                                        "Videojuegos",
-                                        "Cantar",
-                                        "Trabajar",
-                                        "Llorar",
-                                        "Pasear",
-                                        "Abrazar",
-                                        "Pintar",
-                                        "Dormir",
-                                        "Tocar Guitarra",
-                                        "Cenar",
-                                        "Yoga",
-                                        "Meditar",
-                                        "Activismo",
-                                        "Correr",
-                                        "Maquillarse",
-                                        "Inspirarse",
-                                        "Gritar",
-                                        "Acampar",
-                                        "Karaoke",
-                                        "Dibujar",
-                                        "Chatear",
-                                        "Filosofar",
-                                        "Picnic",
-                                        "Citas",
-                                        "Caminar",
-                                        "Tomar",
-                                        "Poesia",
-                                        "Terapia",
-                                        "Desayuno",
-                                        "Comida",
-                                        "Cena",
-                                        "Cocinar",
-                                        "Compras",
-                                        "Desahogarse",
-                                        "Bodas",
-                                        ])
+        self.combo_actividad.addItems(["leer",
+                                       "relajarse",
+                                       "conducir",
+                                       "ejercicio",
+                                       "socializar",
+                                       "trabajar-estudiar",
+                                       "dormir",
+                                       "bailar",
+                                       "fiesta",
+                                       "pasear",
+                                       "meditar",
+                                       "cocinar",
+                                       "boda",
+                                       "llorar",
+                                       "cantar",
+                                       "deportes"])
         controls_layout.addWidget(self.combo_actividad)
         
         self.btn_generar = QPushButton("Generar Playlist")
@@ -270,7 +178,13 @@ class MainWindow(QWidget):
         motor.run()
         
         if motor.recomendaciones:
-            for cancion in motor.recomendaciones:
+            # Seleccionar máximo 6 canciones aleatorias
+            muestra_recomendaciones = random.sample(
+                motor.recomendaciones, 
+                min(6, len(motor.recomendaciones))
+            )
+  
+            for cancion in muestra_recomendaciones:
                 # Frame para cada canción
                 song_frame = QFrame()
                 song_frame.setStyleSheet("""
@@ -321,9 +235,3 @@ class MainWindow(QWidget):
             no_results = QLabel("No se encontraron canciones que coincidan con tu selección")
             no_results.setStyleSheet("font: 12px; color: white;")
             self.scroll_layout.addWidget(no_results)
-
-if __name__ == "__main__":
-    app = QApplication(sys.argv)
-    window = MainWindow()
-    window.show()
-    sys.exit(app.exec_())

@@ -254,7 +254,7 @@
     },
     {
       "artista/banda": "Bad Bunny",
-      "cancion": "Dákiti",
+      "cancion": "Dakiti",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["deseo", "romance", "energia"],
       "actividades_afines": ["fiesta", "socializar", "bailar"],
@@ -346,7 +346,7 @@
     {
       "artista/banda": "Fleetwood Mac",
       "cancion": "Dreams",
-      "genero": "Rock Clásico",
+      "genero": "Rock Clasico",
       "emociones_relacionadas": ["nostalgia", "motivacion"],
       "actividades_afines": ["relajarse", "meditar"],
       "youtube_link": "https://youtu.be/Y3ywicffOj4?si=COBueooVPCRDhbCw",
@@ -581,7 +581,7 @@
     {
       "artista/banda": "The Rolling Stones",
       "cancion": "Paint It Black",
-      "genero": "Rock Clásico",
+      "genero": "Rock Clasico",
       "emociones_relacionadas": ["soledad", "ansiedad"],
       "actividades_afines": ["relajarse", "leer", "bailar", "cantar"],
       "youtube_link": "https://youtu.be/O4irXQhgMqg?si=QBqjQQcP35LZxWvZ",
@@ -626,7 +626,7 @@
     {
       "artista/banda": "The Beatles",
       "cancion": "Here Comes the Sun",
-      "genero": "Rock Clásico",
+      "genero": "Rock Clasico",
       "emociones_relacionadas": ["esperanza-optimismo", "alegria"],
       "actividades_afines": [
         "relajarse",
@@ -797,7 +797,7 @@
     {
       "artista/banda": "Céline Dion",
       "cancion": "My Heart Will Go On",
-      "genero": "Pop Clásico",
+      "genero": "Pop Clasico",
       "emociones_relacionadas": ["melancolia", "nostalgia"],
       "actividades_afines": ["leer", "relajarse"],
       "youtube_link": "https://youtu.be/F2RnxZnubCM?feature=shared",
@@ -882,7 +882,7 @@
     },
     {
       "artista/banda": "Maluma",
-      "cancion": "Hawái",
+      "cancion": "Hawai",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["frustracion", "desamor", "energia"],
       "actividades_afines": ["socializar", "bailar", "fiesta", "llorar"],
@@ -1507,7 +1507,7 @@
     {
       "artista/banda": "Ludovico Einaudi",
       "cancion": "Nuvole Bianche",
-      "genero": "Neoclásica",
+      "genero": "Neoclasica",
       "emociones_relacionadas": ["tristeza", "nostalgia"],
       "actividades_afines": ["meditar", "llorar", "leer", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=VUCI-1vIbUo",
@@ -3121,6 +3121,132 @@
       ],
       "youtube_link": "https://youtu.be/VlMEGBsw6j8?si=sCI2GSQ4JTN1N1WM",
       "spotify_link": "https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7?si=e8e8b8eded6b4ecb"
-    }
+    },
+            {
+      "artista/banda":"Lit killah",
+      "cancion":"Fiamore",
+      "genero":"Romantico",
+      "emociones_relacionadas":["romance","alegria"],
+      "actividades_afines":["cantar","boda","relajarse"],
+      "youtube_link":"https://www.youtube.com/watch?v=GQW41I6CAkU",
+      "spotify_link":"https://open.spotify.com/intl-es/track/1ptV2NOt5z2XxvHfFlapz0?si=1874ee1ad4a04a3c"
+    },
+        {
+      "artista/banda":"Young Miko",
+      "cancion":"Wassup",
+      "genero":"Trap Latino / Urbano",
+      "emociones_relacionadas":["euforia","determinación","motivacion"],
+      "actividades_afines":["fiesta","conducir","socializar","ejercicio"],
+      "youtube_link":"https://www.youtube.com/watch?v=LEhTlLnOVDU",
+      "spotify_link":"https://open.spotify.com/intl-es/track/32SJM4tQyJHsB8rgVtZURn?si=12a4a41fd5844910"
+    },
+      {
+    "artista/banda": "Natanael Cano",
+    "cancion": "Amor Tumbado",
+    "genero": "Corridos tumbados",
+    "emociones_relacionadas": ["romance", "desamor", "melancolía"],
+    "actividades_afines": ["cantar", "llorar"],
+    "youtube_link": "https://www.youtube.com/watch?v=xh9ymx2bPjA",
+    "spotify_link": "https://open.spotify.com/intl-es/track/5aJ1M43pinROpwaPnO8KRj?si=122bbf14674343ef"
+  },
+  {
+    "artista/banda": "Natanael Cano",
+    "cancion": "Porte Exuberante",
+    "genero": "Corridos tumbados",
+    "emociones_relacionadas": ["empoderamiento", "energía", "motivación"],
+    "actividades_afines": ["ejercicio", "conducir", "trabajar-estudiar"],
+    "youtube_link": "https://www.youtube.com/watch?v=kl1WXSOPOVc",
+    "spotify_link": "https://open.spotify.com/intl-es/track/4DdnffqoFr9wDRlCACNmGf?si=d2a61a328ff44f79"
+  },
+  {
+    "artista/banda": "Natanael Cano",
+    "cancion": "Soy el Diablo (Remix) ft. Bad Bunny",
+    "genero": "Trap / Corridos tumbados",
+    "emociones_relacionadas": ["furia","euforia", "energía"],
+    "actividades_afines": ["conducir", "bailar", "fiesta"],
+    "youtube_link": "https://www.youtube.com/watch?v=-njVpIGri3M",
+    "spotify_link": "https://open.spotify.com/intl-es/track/7pNAvsuTCFaXzSSUmfBPxz?si=3f309f04e8b446e4"
+  },
+  {
+    "artista/banda": "Bad Bunny",
+    "cancion": "Yonaguni",
+    "genero": "Reguetón / Trap melodico",
+    "emociones_relacionadas": ["soledad", "deseo", "nostalgia"],
+    "actividades_afines": ["cantar","fiesta", "llorar"],
+    "youtube_link": "https://www.youtube.com/watch?v=doLMt10ytHY",
+    "spotify_link": "https://open.spotify.com/intl-es/track/2JPLbjOn0wPCngEot2STUS?si=4a0c1b8dfeff4545"
+  },
+  {
+    "artista/banda": "Bad Bunny",
+    "cancion": "Titi Me Preguntó",
+    "genero": "Trap / Regueton",
+    "emociones_relacionadas": ["energia", "alegria","euforia", "empoderamiento"],
+    "actividades_afines": ["bailar", "fiesta", "socializar"],
+    "youtube_link": "https://www.youtube.com/watch?v=Cr8K88UcO0s",
+    "spotify_link": "https://open.spotify.com/intl-es/track/1IHWl5LamUGEuP4ozKQSXZ?si=2ef8d71e5d004701"
+  },
+  {
+    "artista/banda": "Bad Bunny",
+    "cancion": "Ojitos Lindos",
+    "genero": "Regueton / Fusion",
+    "emociones_relacionadas": ["romance"],
+    "actividades_afines": ["fiesta", "pasear", "cantar"],
+    "youtube_link": "https://www.youtube.com/watch?v=wAjHQXrIj9o",
+    "spotify_link": "https://open.spotify.com/intl-es/track/3k3NWokhRRkEPhCzPmV8TW?si=cc39556aa7ad4fc7"
+  },
+    {
+    "artista/banda": "Shawn Mendes",
+    "cancion": "In My Blood",
+    "genero": "Pop Rock",
+    "emociones_relacionadas": ["frustracion", "esperanza-optimismo", "motivacion"],
+    "actividades_afines": ["ejercicio", "trabajar-estudiar", "cantar","llorar"],
+    "youtube_link": "https://www.youtube.com/watch?v=36tggrpRoTI",
+    "spotify_link": "https://open.spotify.com/intl-es/track/2QZ7WLBE8h2y1Y5Fb8RYbH?si=e9037ca4d663458f"
+  },
+  {
+    "artista/banda": "Shawn Mendes",
+    "cancion": "Treat You Better",
+    "genero": "Pop",
+    "emociones_relacionadas": ["romance", "deseo", "desamor"],
+    "actividades_afines": ["llorar", "cantar"],
+    "youtube_link": "https://www.youtube.com/watch?v=lY2yjAdbvdQ",
+    "spotify_link": "https://open.spotify.com/intl-es/track/3QGsuHI8jO1Rx4JWLUh9jd?si=9476ffddf2214f3c"
+  },
+  {
+    "artista/banda": "Shawn Mendes",
+    "cancion": "There's Nothing Holdin' Me Back",
+    "genero": "Pop Rock",
+    "emociones_relacionadas": ["energía", "empoderamiento", "deseo"],
+    "actividades_afines": ["bailar", "conducir", "fiesta"],
+    "youtube_link": "https://www.youtube.com/watch?v=dT2owtxkU8k",
+    "spotify_link": "https://open.spotify.com/intl-es/track/7JJmb5XwzOO8jgpou264Ml?si=6fdf178647c946c1"
+  },
+  {
+    "artista/banda": "Shawn Mendes",
+    "cancion": "Mercy",
+    "genero": "Pop Soul",
+    "emociones_relacionadas": ["melancolia", "frustracion", "deseo"],
+    "actividades_afines": ["cantar", "pasear", "llorar"],
+    "youtube_link": "https://www.youtube.com/watch?v=KkGVmN68ByU",
+    "spotify_link": "https://open.spotify.com/intl-es/track/0AS63m1wHv9n4VVRizK6Hc?si=0641e0c3f5b64f66"
+  },
+  {
+    "artista/banda": "Shawn Mendes",
+    "cancion": "Fallin All In You",
+    "genero": "Pop acustico",
+    "emociones_relacionadas": ["romance", "tranquilidad", "esperanza-optimismo"],
+    "actividades_afines": ["boda", "pasear", "cantar"],
+    "youtube_link": "https://www.youtube.com/watch?v=D5P1R6CRsoM",
+    "spotify_link": "https://open.spotify.com/intl-es/track/5EYBryPOgIEPB7r5QIy6eG?si=2c0a2012e68c467e"
+  },
+  {
+  "artista/banda": "Rels B",
+  "cancion": "Lo que hay por aqui",
+  "genero": "Romantico",
+  "emociones_relacionadas": ["desamor", "deseo", "tristeza"],
+  "actividades_afines": ["cantar", "llorar", "cantar"],
+  "youtube_link": "https://www.youtube.com/watch?v=qWCup_EZSWE",
+  "spotify_link": "https://open.spotify.com/intl-es/track/5IlLm20JXhKbMtsH20NblC?si=2d50fee6bbb54dec"
+}
   ]
 }

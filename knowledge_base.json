@@ -254,7 +254,7 @@
     },
     {
       "artista/banda": "Bad Bunny",
-      "canción": "Dákiti",
+      "canción": "Dakiti",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["deseo", "romance", "energia"],
       "actividades_afines": ["fiestas", "socializar", "bailar"],
@@ -346,7 +346,7 @@
     {
       "artista/banda": "Fleetwood Mac",
       "canción": "Dreams",
-      "genero": "Rock Clásico",
+      "genero": "Rock Clasico",
       "emociones_relacionadas": ["nostalgia", "motivacion"],
       "actividades_afines": ["relajarse", "meditar"],
       "youtube_link": "https://youtu.be/Y3ywicffOj4?si=COBueooVPCRDhbCw",
@@ -581,7 +581,7 @@
     {
       "artista/banda": "The Rolling Stones",
       "canción": "Paint It Black",
-      "genero": "Rock Clásico",
+      "genero": "Rock Clasico",
       "emociones_relacionadas": ["soledad", "ansiedad"],
       "actividades_afines": ["relajarse", "leer", "bailar", "cantar"],
       "youtube_link": "https://youtu.be/O4irXQhgMqg?si=QBqjQQcP35LZxWvZ",
@@ -626,7 +626,7 @@
     {
       "artista/banda": "The Beatles",
       "canción": "Here Comes the Sun",
-      "genero": "Rock Clásico",
+      "genero": "Rock Clasico",
       "emociones_relacionadas": ["esperanza-optimismo", "alegria"],
       "actividades_afines": [
         "relajarse",
@@ -797,7 +797,7 @@
     {
       "artista/banda": "Céline Dion",
       "canción": "My Heart Will Go On",
-      "genero": "Pop Clásico",
+      "genero": "Pop Clasico",
       "emociones_relacionadas": ["melancolia", "nostalgia"],
       "actividades_afines": ["leer", "relajarse"],
       "youtube_link": "https://youtu.be/F2RnxZnubCM?feature=shared",
@@ -882,7 +882,7 @@
     },
     {
       "artista/banda": "Maluma",
-      "canción": "Hawái",
+      "canción": "Hawai",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["frustracion", "desamor", "energia"],
       "actividades_afines": ["socializar", "bailar", "fiesta", "llorar"],
@@ -1507,7 +1507,7 @@
     {
       "artista/banda": "Ludovico Einaudi",
       "canción": "Nuvole Bianche",
-      "genero": "Neoclásica",
+      "genero": "Neoclasica",
       "emociones_relacionadas": ["tristeza", "nostalgia"],
       "actividades_afines": ["meditar", "llorar", "leer", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=VUCI-1vIbUo",
@@ -1813,7 +1813,7 @@
     {
       "artista/banda": "Ed Sheeran",
       "canción": "Perfect",
-      "genero": "Pop / Balada romántica",
+      "genero": "Pop / Balada romantica",
       "emociones_relacionadas": ["romance", "relajacion", "alegria", ""],
       "actividades_afines": ["boda", "bailar", "cantar"],
       "youtube_link": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
@@ -1945,7 +1945,7 @@
       "spotify_link": "https://open.spotify.com/intl-es/track/4KrXsgZHi1yLZLB1Wlgcbt?si=a538535147874483"
     },
     {
-      "artista/banda": "Chalino Sánchez",
+      "artista/banda": "Chalino Sanchez",
       "canción": "Nieves de Enero",
       "genero": "Corrido",
       "emociones_relacionadas": ["nostalgia", "orgullo", "soledad"],
@@ -1969,7 +1969,7 @@
       "spotify_link": "https://open.spotify.com/intl-es/track/01ksPzu3Bw8Lsf9o6xIk8C?si=21515175d47643d5"
     },
     {
-      "artista/banda": "Los Ángeles Azules",
+      "artista/banda": "Los Angeles Azules",
       "canción": "Nunca Es Suficiente",
       "genero": "Cumbia",
       "emociones_relacionadas": ["romance", "nostalgia", "melancolia"],
@@ -2141,7 +2141,7 @@
     },
     {
       "artista/banda": "Bad Bunny ft. Jhay Cortez",
-      "cancion": "DÁKITI",
+      "cancion": "DAKITI",
       "genero": "Reggaetón",
       "emociones_relacionadas": ["nostalgia", "melancolía", "amor"],
       "actividades_afines": ["fiestas", "bailar", "socializar"],
@@ -2490,7 +2490,7 @@
     },
     {
       "artista/banda":"Fuerza Regida",
-      "canción":"Me Jalé Pal Antro",
+      "canción":"Me Jale Pal Antro",
       "genero":"Corridos tumbados",
       "emociones_relacionadas":["euforia","energia","rebeldía"],
       "actividades_afines":["conducir","cantar","relajarse"],
@@ -2527,7 +2527,7 @@
       {
     "artista/banda": "Natanael Cano",
     "canción": "Amor Tumbado",
-    "género": "Corridos tumbados",
+    "genero": "Corridos tumbados",
     "emociones_relacionadas": ["romance", "desamor", "melancolía"],
     "actividades_afines": ["cantar", "llorar"],
     "youtube_link": "https://www.youtube.com/watch?v=xh9ymx2bPjA",
@@ -2536,7 +2536,7 @@
   {
     "artista/banda": "Natanael Cano",
     "canción": "Porte Exuberante",
-    "género": "Corridos tumbados",
+    "genero": "Corridos tumbados",
     "emociones_relacionadas": ["empoderamiento", "energía", "motivación"],
     "actividades_afines": ["ejercicio", "conducir", "trabajar-estudiar"],
     "youtube_link": "https://www.youtube.com/watch?v=kl1WXSOPOVc",
@@ -2545,8 +2545,8 @@
   {
     "artista/banda": "Natanael Cano",
     "canción": "Soy el Diablo (Remix) ft. Bad Bunny",
-    "género": "Trap / Corridos tumbados",
-    "emociones_relacionadas": ["furia", "rebeldía", "energía"],
+    "genero": "Trap / Corridos tumbados",
+    "emociones_relacionadas": ["furia","euforia", "energía"],
     "actividades_afines": ["conducir", "bailar", "fiesta"],
     "youtube_link": "https://www.youtube.com/watch?v=-njVpIGri3M",
     "spotify_link": "https://open.spotify.com/intl-es/track/7pNAvsuTCFaXzSSUmfBPxz?si=3f309f04e8b446e4"
@@ -2554,7 +2554,7 @@
   {
     "artista/banda": "Bad Bunny",
     "canción": "Yonaguni",
-    "género": "Reguetón / Trap melódico",
+    "genero": "Reguetón / Trap melodico",
     "emociones_relacionadas": ["soledad", "deseo", "nostalgia"],
     "actividades_afines": ["cantar","fiesta", "llorar"],
     "youtube_link": "https://www.youtube.com/watch?v=doLMt10ytHY",
@@ -2562,17 +2562,17 @@
   },
   {
     "artista/banda": "Bad Bunny",
-    "canción": "Tití Me Preguntó",
-    "género": "Trap / Reguetón",
-    "emociones_relacionadas": ["energía", "alegria","euforia", "empoderamiento"],
+    "canción": "Titi Me Preguntó",
+    "genero": "Trap / Regueton",
+    "emociones_relacionadas": ["energia", "alegria","euforia", "empoderamiento"],
     "actividades_afines": ["bailar", "fiesta", "socializar"],
     "youtube_link": "https://www.youtube.com/watch?v=Cr8K88UcO0s",
     "spotify_link": "https://open.spotify.com/intl-es/track/1IHWl5LamUGEuP4ozKQSXZ?si=2ef8d71e5d004701"
   },
   {
     "artista/banda": "Bad Bunny",
-    "canción": "Ojitos Lindos (con Bomba Estéreo)",
-    "género": "Reguetón / Fusión",
+    "canción": "Ojitos Lindos",
+    "genero": "Regueton / Fusion",
     "emociones_relacionadas": ["romance"],
     "actividades_afines": ["fiesta", "pasear", "cantar"],
     "youtube_link": "https://www.youtube.com/watch?v=wAjHQXrIj9o",
@@ -2581,8 +2581,8 @@
     {
     "artista/banda": "Shawn Mendes",
     "canción": "In My Blood",
-    "género": "Pop Rock",
-    "emociones_relacionadas": ["frustración", "esperanza-optimismo", "motivación"],
+    "genero": "Pop Rock",
+    "emociones_relacionadas": ["frustracion", "esperanza-optimismo", "motivacion"],
     "actividades_afines": ["ejercicio", "trabajar-estudiar", "cantar","llorar"],
     "youtube_link": "https://www.youtube.com/watch?v=36tggrpRoTI",
     "spotify_link": "https://open.spotify.com/intl-es/track/2QZ7WLBE8h2y1Y5Fb8RYbH?si=e9037ca4d663458f"
@@ -2590,7 +2590,7 @@
   {
     "artista/banda": "Shawn Mendes",
     "canción": "Treat You Better",
-    "género": "Pop",
+    "genero": "Pop",
     "emociones_relacionadas": ["romance", "deseo", "desamor"],
     "actividades_afines": ["llorar", "cantar"],
     "youtube_link": "https://www.youtube.com/watch?v=lY2yjAdbvdQ",
@@ -2599,7 +2599,7 @@
   {
     "artista/banda": "Shawn Mendes",
     "canción": "There's Nothing Holdin' Me Back",
-    "genre": "Pop Rock",
+    "genero": "Pop Rock",
     "emociones_relacionadas": ["energía", "empoderamiento", "deseo"],
     "actividades_afines": ["bailar", "conducir", "fiesta"],
     "youtube_link": "https://www.youtube.com/watch?v=dT2owtxkU8k",
@@ -2608,16 +2608,16 @@
   {
     "artista/banda": "Shawn Mendes",
     "canción": "Mercy",
-    "género": "Pop Soul",
-    "emociones_relacionadas": ["melancolía", "frustración", "deseo"],
+    "genero": "Pop Soul",
+    "emociones_relacionadas": ["melancolia", "frustracion", "deseo"],
     "actividades_afines": ["cantar", "pasear", "llorar"],
     "youtube_link": "https://www.youtube.com/watch?v=KkGVmN68ByU",
     "spotify_link": "https://open.spotify.com/intl-es/track/0AS63m1wHv9n4VVRizK6Hc?si=0641e0c3f5b64f66"
   },
   {
     "artista/banda": "Shawn Mendes",
-    "canción": "Fallin' All In You",
-    "género": "Pop acústico",
+    "canción": "Fallin All In You",
+    "genero": "Pop acustico",
     "emociones_relacionadas": ["romance", "tranquilidad", "esperanza-optimismo"],
     "actividades_afines": ["boda", "pasear", "cantar"],
     "youtube_link": "https://www.youtube.com/watch?v=D5P1R6CRsoM",
@@ -2625,8 +2625,8 @@
   },
   {
   "artista/banda": "Rels B",
-  "canción": "Lo que hay por aquí",
-  "género": "Rmantico",
+  "canción": "Lo que hay por aqui",
+  "genero": "Romantico",
   "emociones_relacionadas": ["desamor", "deseo", "tristeza"],
   "actividades_afines": ["cantar", "llorar", "cantar"],
   "youtube_link": "https://www.youtube.com/watch?v=qWCup_EZSWE",

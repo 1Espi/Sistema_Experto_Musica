@@ -2192,6 +2192,239 @@
       "actividades_afines": ["pasear/caminar", "reflexionar", "conducir"],
       "youtube_link": "https://www.youtube.com/watch?v=HWHWU4izTd0",
       "spotify_link": "https://open.spotify.com/intl-es/track/0qSnsCozy8uz5XotSJMHUz?si=4110726879c44169"
+    },
+    {
+      "artista/banda":"Bad Bunny",
+      "canción":"DmTF",
+      "genero":"Reggaeton",
+      "emociones_relacionadas":["nostalgia","melancolía","ansiedad"],
+      "actividades_afines":["pasear/caminar","reflexionar","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=v9T_MGfzq7I",
+      "spotify_link":"https://open.spotify.com/intl-es/track/3sK8wGT43QFpWrvNQsrQya?si=27423be04e2a4ed2"
+    },
+    {
+      "artista/banda":"Bad Bunny",
+      "canción":"Yo Perreo Sola",
+      "genero":"Reggaeton",
+      "emociones_relacionadas":["alegria","rebeldía","energia"],
+      "actividades_afines":["cantar","bailar","socializar"],
+      "youtube_link":"https://www.youtube.com/watch?v=GtSRKwDCaZM",
+      "spotify_link":"https://open.spotify.com/intl-es/track/0SqqAgdovOE24BzxIClpjw?si=b2707aa238fd4b43"
+    },
+    {
+      "artista/banda":"Fuerza Regida",
+      "canción":"GodFather",
+      "genero":"Corrido",
+      "emociones_relacionadas":["alegria","rebeldía","energia"],
+      "actividades_afines":["cantar","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=serneSItPvY&list=OLAK5uy_lp_B9lpeCJKduk2WbHKujzqhzkczr29Aw",
+      "spotify_link":"https://open.spotify.com/intl-es/track/6bIFNHJ6yLTDDHgYufk9i4?si=c8a4756cb76544c1"
+    },
+    {
+      "artista/banda":"Luis Miguel",
+      "canción":"Si Nos Dejan",
+      "genero":"Mariachi",
+      "emociones_relacionadas":["amor","esperanza","romance"],
+      "actividades_afines":["boda","cantar","socializar"],
+      "youtube_link":"https://www.youtube.com/watch?v=qQZvCgoaj7o",
+      "spotify_link":"https://open.spotify.com/intl-es/track/04kdbkyXKEGnbRxqLKjchb?si=15b9179b81c34f40"
+    },
+    {
+     "artista/banda":"Luis Miguel",
+      "canción":"Sabes una cosa",
+      "genero":"Mariachi",
+      "emociones_relacionadas":["amor","esperanza","romance"],
+      "actividades_afines":["boda","cantar","socializar"],
+      "youtube_link":"https://www.youtube.com/watch?v=UuGrc3vvdMw",
+      "spotify_link":"https://open.spotify.com/intl-es/track/21Ullb4TU8qMsQd0Iselng?si=861910c2723b4fb8" 
+    },
+     {
+     "artista/banda":"Luis Miguel",
+      "canción":"La Gloria Eres Tú",
+      "genero":"Balada",
+      "emociones_relacionadas":["amor","esperanza","romance"],
+      "actividades_afines":["boda","cantar","socializar"],
+      "youtube_link":"https://www.youtube.com/watch?v=h-GSyBwKuGE",
+      "spotify_link":"https://open.spotify.com/intl-es/track/5SPUsNcUtRUpAPj7rJq7CD?si=3e3628ad2f274d3e" 
+    },
+    {
+      "artista/banda":"Bad Bunny",
+      "canción":"No Me Quiero Casar",
+      "genero":"Trap",
+      "emociones_relacionadas":["motivacion","rebeldía","energia"],
+      "actividades_afines":["ejercicio","conducir","trabajar/estudiar"],
+      "youtube_link":"https://www.youtube.com/watch?v=aCDxTTzRHbg",
+      "spotify_link":"https://open.spotify.com/intl-es/track/39L3LdlHS3gqB62HPWaJRg?si=1b74e7f06cc34aa4"
+    },
+    {
+      "artista/banda":"Calle 24",
+      "canción":"SUIZA",
+      "genero":"Corrido",
+      "emociones_relacionadas":["amor","romance","esperanza"],
+      "actividades_afines":["cantar","relajarse","soñar"],
+      "youtube_link":"https://www.youtube.com/watch?v=0YG_mJ3rqxg",
+      "spotify_link":"https://open.spotify.com/intl-es/track/7585wxMp2e3IhBq3tJAXgw?si=d6f4371453324d2f"
+    },
+    {
+      "artista/banda":"Virlan Garcia",
+      "canción":"Sientes Lo Que Siento",
+      "genero":"Corrido",
+      "emociones_relacionadas":["amor","romance","esperanza"],
+      "actividades_afines":["cantar","relajarse","soñar"],
+      "youtube_link":"https://www.youtube.com/watch?v=_BcRXT8DUu0",
+      "spotify_link":"https://open.spotify.com/intl-es/track/4NPGGsTmm3JM4wOpWCT0T8?si=f3332436aab248f6"
+    },
+    {
+      "artista/banda":"Fuerza Regida ft. Herencia De Patrones",
+      "canción":"Ladeando",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["rebeldía","energia","alegria"],
+      "actividades_afines":["fiesta","socializar"],
+      "youtube_link":"https://www.youtube.com/watch?v=izxk1wfxFh4",
+      "spotify_link":"https://open.spotify.com/intl-es/track/0vgqt0mRZmbb3b57i9p8wV?si=eaff245413fb426d"
+    },
+    {
+      "artista/banda":"Fuerza Regida",
+      "canción":"Me Acostumbre A Lo Bueno",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["rebeldía","energia","alegria"],
+      "actividades_afines":["fiesta","socializar"],
+      "youtube_link":"https://www.youtube.com/watch?v=oIT8woq6Tr4",
+      "spotify_link":"https://open.spotify.com/intl-es/track/1hHnCReCPe1FUkGLTeuCaC?si=e40f9f2c37bd44b6"
+    },
+    {
+      "artista/banda":"Fuerza Regida",
+      "canción":"Descansando",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["nostalgia","tristeza","soledad"],
+      "actividades_afines":["llorar","cantar","reflexionar"],
+      "youtube_link":"https://www.youtube.com/watch?v=Zvk2LH-ITLs",
+      "spotify_link":"https://open.spotify.com/intl-es/track/3QXBaUQ8iwP2WI1GpQIP18?si=d5ee3f337e914978"
+    },    
+    {
+      "artista/banda": "Junior H",
+      "canción": "MIENTRAS DUERMES",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["tristeza", "desamor"],
+      "actividades_afines": ["llorar","cantar","fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=HJ9Mzq_wYSc",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4e76Ss3ji7HQZ4qwcPNkNA?si=095364723d8e435b"
+    },
+        {
+      "artista/banda": "Junior H",
+      "canción": "A TU NOMBRE",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["tristeza", "desamor"],
+      "actividades_afines": ["llorar","cantar","fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=uRLiZDnndiY",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0ItgotO5txriRAp6lXMHJ7?si=41a523d733a64bdb"
+    },
+    {
+      "artista/banda": "Junior H",
+      "canción": "PIENSALO",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["tristeza", "desamor"],
+      "actividades_afines": ["llorar","cantar","fiesta"],
+      "youtube_link": "https://www.youtube.com/watch?v=p-jvK8SOoF8",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4ZOkfHC38nxSeSqzGE5HFr?si=72a9a161f09b4167"
+    },
+    {
+      "artista/banda":"C.R.O",
+      "canción":"Por La Carretera",
+      "genero":"Rock",
+      "emociones_relacionadas":["nostalgia","melancolía","desamor"],
+      "actividades_afines":["llorar","reflexionar","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=xXQnqH-TZ40",
+      "spotify_link":"https://open.spotify.com/intl-es/track/5F9jYHqQdA5SNFTfIamzfJ?si=f00f80fb335a4c31"
+    },
+    {
+      "artista/banda":"Fuerza Regida ft. Grupo Frontera",
+      "canción":"Me Jalo",
+      "genero":"Regional Mexicano",
+      "emociones_relacionadas":["nostalgia","melancolía","desamor"],
+      "actividades_afines":["cantar","relajarse","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=nKX8ZNzuvNs",
+      "spotify_link":"https://open.spotify.com/intl-es/track/3D24ErT1MMmUfXWotSj2A2?si=490f40edf01a49e9"
+    },
+    {
+      "artista/banda":"Oscar Maydon",
+      "canción":"Arriba el dinero",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["motivacion","rebeldía","empoderamiento"],
+      "actividades_afines":["cantar","trabajar/estudiar","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=uR-X_yz0QwA",
+      "spotify_link":"https://open.spotify.com/intl-es/track/4jVd1Xova7vf73EVhqzljt?si=64abd02ded624780"
+    },
+    {
+      "artista/banda":"Junior H",
+      "canción":"El Hijo Mayor",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["motivacion","rebeldía","empoderamiento"],
+      "actividades_afines":["cantar","trabajar/estudiar","conducir"],
+      "youtube_link":"https://www.youtube.com/watch?v=whSQQKjnaqc",
+      "spotify_link":"https://open.spotify.com/intl-es/track/1RGlfmdvcfatN0ZLOmzanS?si=27f3db08fb884978"
+    },
+    {
+      "artista/banda":"Fazini",
+      "canción":"Good Deals",
+      "genero":"Rap",
+      "emociones_relacionadas":["orgullo","romance","autenticidad"],
+      "actividades_afines":["descansar","reflexionar","relajarse"],
+      "youtube_link":"https://youtu.be/iabrGMmL9yM?si=H_0xLU5kQzDfNd9G",
+      "spotify_link":"https://open.spotify.com/intl-es/track/5HUL4cXkHLhQkwMAF9PUps?si=ce5c6de1c57a4654"
+    },
+    {
+      "artista/banda":"kaydy Cain, Cookin Soul, Israel B",
+      "canción":"wildstyle",
+      "genero":"Trap",
+      "emociones_relacionadas":["determinación","esperanza","empoderamiento"],
+      "actividades_afines":["descansar","reflexionar","relajarse"],
+      "youtube_link":"https://youtu.be/Ykz0b2Z_s2U?si=kY5kFw1JL3rAVwJ8",
+      "spotify_link":"https://open.spotify.com/intl-es/track/1y1QJfGEWxY01XrmcK2a6c?si=d934ffc63446449a"
+    },
+    {
+      "artista/banda":"Lokeron X Amor",
+      "canción":"Junior H",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["melancolía","rebeldía","desamor"],
+      "actividades_afines":["cantar","conducir","llorar"],
+      "youtube_link":"https://youtu.be/oSeP_Fx7Ctw?si=C90kPxcZxdvE8Avw",
+      "spotify_link":"https://open.spotify.com/intl-es/track/0OG0qjJ9gN85kWZtIzW5uS?si=1b9d35536a504a67"
+    },
+    {
+      "artista/banda":"Tito double P, Joel de la P, Luis R Conriquez",
+      "canción":"Dembow Belico",
+      "genero":"Dembow",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["fiesta","cantar","bailar"],
+      "youtube_link":"https://youtu.be/tlH87eL5Voo?si=Emqydk4j5cY5U25j",
+      "spotify_link":"https://open.spotify.com/intl-es/track/0FkD2FHEZrZIofVkY6XPFK?si=8b4d4c5066ad436b"
+    },
+    {
+      "artista/banda":"Cosas de la Clika",
+      "canción":"Herencia de Patrones",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"https://youtu.be/cdQypX2Q9TE?si=sV4kyJOupmMjFmQF",
+      "spotify_link":"https://open.spotify.com/intl-es/track/6ZyRBFspc4a4seZam5Hi8Z?si=a0d507be339e4aad"
+
+    },
+    {"artista/banda":"Bye",
+      "canción":"Oscar Maydon",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["desamor","empoderamiento","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"https://youtu.be/ej2NWvSASHk?si=QOkChfHDg3wi1PfC",
+      "spotify_link":"https://open.spotify.com/intl-es/track/7FI04jmsPiLOz4GfpnCw3M?si=89fa899c9d794c6f"
+    },
+    {"artista/banda":"Tu Boda",
+      "canción":"Oscar Maydon, Fuerza Regida}",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["desamor","tristeza","nostalgia"],
+      "actividades_afines":["reflexionar","cantar","llorar"],
+      "youtube_link":"https://youtu.be/_ymicn0_GYc?si=NmDQ6ocKLBEKDFdW",
+      "spotify_link":"https://open.spotify.com/intl-es/track/1cOboCuWYI2osTOfolMRS6?si=14888a66e57f4772"
     }
   ]
 }

@@ -2383,8 +2383,8 @@
       "spotify_link":"https://open.spotify.com/intl-es/track/1y1QJfGEWxY01XrmcK2a6c?si=d934ffc63446449a"
     },
     {
-      "artista/banda":"Lokeron X Amor",
-      "canción":"Junior H",
+      "artista/banda":"Junior H",
+      "canción":"Lokeron X Amor",
       "genero":"Corridos tumbados",
       "emociones_relacionadas":["melancolía","rebeldía","desamor"],
       "actividades_afines":["cantar","conducir","llorar"],
@@ -2401,8 +2401,8 @@
       "spotify_link":"https://open.spotify.com/intl-es/track/0FkD2FHEZrZIofVkY6XPFK?si=8b4d4c5066ad436b"
     },
     {
-      "artista/banda":"Cosas de la Clika",
-      "canción":"Herencia de Patrones",
+      "artista/banda":"Herencia de Patrones",
+      "canción":"Cosas de la Clika",
       "genero":"Corridos tumbados",
       "emociones_relacionadas":["euforia","energia","rebeldía"],
       "actividades_afines":["conducir","cantar","relajarse"],
@@ -2410,21 +2410,101 @@
       "spotify_link":"https://open.spotify.com/intl-es/track/6ZyRBFspc4a4seZam5Hi8Z?si=a0d507be339e4aad"
 
     },
-    {"artista/banda":"Bye",
-      "canción":"Oscar Maydon",
+    {"artista/banda":"Oscar Maydon",
+      "canción":"Bye",
       "genero":"Corridos tumbados",
       "emociones_relacionadas":["desamor","empoderamiento","rebeldía"],
       "actividades_afines":["conducir","cantar","relajarse"],
       "youtube_link":"https://youtu.be/ej2NWvSASHk?si=QOkChfHDg3wi1PfC",
       "spotify_link":"https://open.spotify.com/intl-es/track/7FI04jmsPiLOz4GfpnCw3M?si=89fa899c9d794c6f"
     },
-    {"artista/banda":"Tu Boda",
-      "canción":"Oscar Maydon, Fuerza Regida}",
+    {"artista/banda":"Oscar Maydon, Fuerza Regida",
+      "canción":"Tu Boda",
       "genero":"Corridos tumbados",
       "emociones_relacionadas":["desamor","tristeza","nostalgia"],
       "actividades_afines":["reflexionar","cantar","llorar"],
       "youtube_link":"https://youtu.be/_ymicn0_GYc?si=NmDQ6ocKLBEKDFdW",
       "spotify_link":"https://open.spotify.com/intl-es/track/1cOboCuWYI2osTOfolMRS6?si=14888a66e57f4772"
+    },
+      {"artista/banda":"Remmy Valenzuela",
+      "canción":"Treinta Carta",
+      "genero":"Corridos",
+      "emociones_relacionadas":["desamor","tristeza","nostalgia"],
+      "actividades_afines":["reflexionar","cantar","llorar"],
+      "youtube_link":"https://www.youtube.com/watch?v=fl1YpUTw9dY",
+      "spotify_link":"https://open.spotify.com/intl-es/track/6v6UM77NcWjb9yfF3Abj4q?si=e6fe1a8d25004278"
+    },
+    {
+       "artista/banda":"T3R Elemento",
+      "canción":"De Periodico Un Gallito",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"https://www.youtube.com/watch?v=jHiEzhfNgaQ",
+      "spotify_link":"https://open.spotify.com/intl-es/track/5teILTGkJkSJXI03XeMIj2?si=ad088f28b27a4aa7"
+    },
+    {
+      "artista/banda":"T3R Elemento",
+      "canción":"Rafa Caro",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"https://www.youtube.com/watch?v=GhGZ79cTV50",
+      "spotify_link":"https://open.spotify.com/intl-es/track/2ESHwuLxQwjSrL1ukzVHVq?si=49693bd84bdf4a26"
+    },
+    {
+      "artista/banda":"Legado 7",
+      "canción":"El Afro",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"https://www.youtube.com/watch?v=6W-6PHfJBJM",
+      "spotify_link":"https://open.spotify.com/intl-es/track/1DoeAYZPdp1RPea7cqDH4m?si=78ca54048cde4d70"
+    },
+    {
+      "artista/banda":"Legado 7",
+      "canción":"On D Gas",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"https://www.youtube.com/watch?v=qeUJ7sCq3KA",
+      "spotify_link":"https://open.spotify.com/intl-es/track/2HSqF98IZ3OIGVUHHUwGdV?si=55ea5633093a46c1"
+    },
+    {
+      "artista/banda":"Junior H",
+      "canción":"Como Jordan",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"http://youtube.com/watch?v=c3leZjDDFI8",
+      "spotify_link":"https://open.spotify.com/intl-es/track/2q7DY7bBua9e9Aygmz8XmB?si=dc82c3ddc1d24972"
+    },
+    {
+      "artista/banda":"Junior H",
+      "canción":"Mente Positiva",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"http://youtube.com/watch?v=KW-KtaT2kJQ",
+      "spotify_link":"https://open.spotify.com/intl-es/track/3WQilym5Vi4ypxb70vx0eY?si=dc00875584274b0c"
+    },
+    {
+      "artista/banda":"Fuerza Regida",
+      "canción":"Me Jalé Pal Antro",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"http://youtube.com/watch?v=lbAPxY-8Wsk",
+      "spotify_link":"https://open.spotify.com/intl-es/track/4wlmbB1rquZGIvgtQndhXm?si=c2917eb2257447d1"
+    },
+    {
+      "artista/banda":"Grupo Los de la O",
+      "canción":"Fuga Pa Cali 2",
+      "genero":"Corridos tumbados",
+      "emociones_relacionadas":["euforia","energia","rebeldía"],
+      "actividades_afines":["conducir","cantar","relajarse"],
+      "youtube_link":"http://youtube.com/watch?v=Yy_eZ65jzmo",
+      "spotify_link":"https://open.spotify.com/intl-es/track/5IdyvWCaUa7AgTxMsFj0wB?si=0fb02f3db9d24c59"
     }
   ]
 }

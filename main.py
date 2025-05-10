@@ -15,7 +15,7 @@ if __name__ == "__main__":
 # {
 #       "artista/banda": ,
 #       "cancion": ,
-#       "género": ,
+#       "genero": ,
 #       "emociones_relacionadas": [],
 #       "actividades_afines": [],
 #       "youtube_link": "",

@@ -121,7 +121,7 @@ class MainWindow(QWidget):
         self.combo_emocion.addItems(["alegria",
                                      "tristeza",
                                      "euforia",
-                                     "relajacion",
+                                     "tranquilidad",
                                      "melancolia",
                                      "nostalgia",
                                      "ansiedad",
@@ -136,7 +136,6 @@ class MainWindow(QWidget):
                                      "frustracion",
                                      "miedo",
                                      "deseo"])
-        self.combo_emocion.setCurrentText("Alegría")
         self.combo_emocion.setStyleSheet(f"""
             QComboBox {{
                 background-color: {combo_bg};
@@ -180,9 +179,7 @@ class MainWindow(QWidget):
                                        "cocinar-comer",
                                        "boda",
                                        "llorar",
-                                       "cantar",
-                                       "deportes"])
-        self.combo_actividad.setCurrentText("Relajarse")
+                                       "cantar"])
         self.combo_actividad.setStyleSheet(self.combo_emocion.styleSheet())
         
         # Botón Generar
@@ -264,11 +261,11 @@ class MainWindow(QWidget):
         df = pd.DataFrame(data['dataset'])
          # Normalizar los datos: convertir a minúsculas y quitar acentos
         df['emociones_relacionadas'] = df['emociones_relacionadas'].apply(
-            lambda x: [unidecode.unidecode(e.strip().lower()) for e in x]
+            lambda x: [unidecode.unidecode(e.strip().lower()) for e in x] if isinstance(x, list) else []
         )
         
         df['actividades_afines'] = df['actividades_afines'].apply(
-            lambda x: [unidecode.unidecode(a.strip().lower()) for a in x]
+            lambda x: [unidecode.unidecode(a.strip().lower()) for a in x] if isinstance(x, list) else []
         )
         return df
     
@@ -297,7 +294,7 @@ class MainWindow(QWidget):
         for _, row in self.df.iterrows():
             motor.declare(SongFact(
                 artista_banda=row['artista/banda'],
-                cancion=row['canción'],
+                cancion=row['cancion'],
                 emociones_relacionadas=row['emociones_relacionadas'],
                 actividades_afines=row['actividades_afines'],
                 youtube_link=row.get('youtube_link', ''),
@@ -330,6 +327,7 @@ class MainWindow(QWidget):
                     }
                 """)
                 song_frame.setMinimumHeight(270) # El song_frame tiene una altura mínima
+                song_frame.setMaximumHeight(270) # El song_frame tiene una altura máxima
                 
                 frame_layout = QHBoxLayout(song_frame)
                 frame_layout.setContentsMargins(10, 10, 20, 10)

@@ -2,7 +2,7 @@
   "dataset": [
     {
       "artista/banda": "Beach House",
-      "canción": "Space Song",
+      "cancion": "Space Song",
       "genero": "Dreampop",
       "emociones_relacionadas": ["nostalgia", "tranquilidad", "soledad"],
       "actividades_afines": ["leer", "relajarse"],
@@ -11,7 +11,7 @@
     },
     {
       "artista/banda": "boy pablo",
-      "canción": "Ready / Problems",
+      "cancion": "Ready / Problems",
       "genero": "Alternative",
       "emociones_relacionadas": ["melancolia", "nostalgia", "desamor"],
       "actividades_afines": ["leer", "relajarse", "llorar"],
@@ -20,16 +20,16 @@
     },
     {
       "artista/banda": "Tame Impala",
-      "canción": "The Less I Know the Better",
+      "cancion": "The Less I Know the Better",
       "genero": "Psychedelic Pop",
-      "emociones_relacionadas": ["relajacion", "desamor", "frustracion"],
+      "emociones_relacionadas": ["tranquilidad", "desamor", "frustracion"],
       "actividades_afines": ["relajarse", "conducir", "cocinar-comer"],
       "youtube_link": "https://youtu.be/sBzrzS1Ag_g?si=8oGK3chLRo45wAbM",
       "spotify_link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ?si=6405a79247cb4236"
     },
     {
       "artista/banda": "Lana Del Rey",
-      "canción": "Summertime Sadness",
+      "cancion": "Summertime Sadness",
       "genero": "Indie Pop",
       "emociones_relacionadas": ["nostalgia", "melancolia", "tristeza"],
       "actividades_afines": ["leer", "conducir", "cocinar-comer", "cantar"],
@@ -38,7 +38,7 @@
     },
     {
       "artista/banda": "The Weeknd",
-      "canción": "Blinding Lights",
+      "cancion": "Blinding Lights",
       "genero": "Synthwave",
       "emociones_relacionadas": ["euforia", "energia"],
       "actividades_afines": ["socializar", "ejercicio", "fiesta"],
@@ -47,7 +47,7 @@
     },
     {
       "artista/banda": "Arctic Monkeys",
-      "canción": "Do I Wanna Know?",
+      "cancion": "Do I Wanna Know?",
       "genero": "Indie Rock",
       "emociones_relacionadas": ["ansiedad", "deseo"],
       "actividades_afines": ["conducir", "relajarse"],
@@ -56,16 +56,16 @@
     },
     {
       "artista/banda": "Billie Eilish",
-      "canción": "Bad Guy",
+      "cancion": "Bad Guy",
       "genero": "Electropop",
       "emociones_relacionadas": ["empoderamiento", "motivacion", "energia"],
-      "actividades_afines": ["fiestas", "ejercicio"],
+      "actividades_afines": ["fiesta", "ejercicio"],
       "youtube_link": "https://youtu.be/DyDfgMOUjCI?si=-arB-bux2MB2Xv_R",
       "spotify_link": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m?si=b9a499392bae4945"
     },
     {
       "artista/banda": "Dua Lipa",
-      "canción": "Levitating",
+      "cancion": "Levitating",
       "genero": "Dance-Pop",
       "emociones_relacionadas": ["alegria", "euforia"],
       "actividades_afines": ["bailar", "pasear", "ejercicio"],
@@ -74,7 +74,7 @@
     },
     {
       "artista/banda": "Coldplay",
-      "canción": "Yellow",
+      "cancion": "Yellow",
       "genero": "Rock Alternativo",
       "emociones_relacionadas": ["esperanza-optimismo", "romance", "nostalgia"],
       "actividades_afines": ["cantar", "relajarse", "pasear", "leer"],
@@ -83,7 +83,7 @@
     },
     {
       "artista/banda": "The Neighbourhood",
-      "canción": "Sweater Weather",
+      "cancion": "Sweater Weather",
       "genero": "Indie Pop",
       "emociones_relacionadas": ["romance", "nostalgia"],
       "actividades_afines": ["relajarse", "pasear"],
@@ -92,7 +92,7 @@
     },
     {
       "artista/banda": "MGMT",
-      "canción": "Little Dark Age",
+      "cancion": "Little Dark Age",
       "genero": "Synthpop",
       "emociones_relacionadas": ["motivacion", "esperanza-optimismo"],
       "actividades_afines": [
@@ -106,7 +106,7 @@
     },
     {
       "artista/banda": "Taylor Swift",
-      "canción": "Blank Space",
+      "cancion": "Blank Space",
       "genero": "Pop",
       "emociones_relacionadas": ["alegria", "empoderamiento", "deseo"],
       "actividades_afines": [
@@ -120,7 +120,7 @@
     },
     {
       "artista/banda": "Radiohead",
-      "canción": "Creep",
+      "cancion": "Creep",
       "genero": "Rock Alternativo",
       "emociones_relacionadas": ["ansiedad", "melancolia", "frustracion"],
       "actividades_afines": ["llorar", "relajarse"],
@@ -129,7 +129,7 @@
     },
     {
       "artista/banda": "Kendrick Lamar",
-      "canción": "HUMBLE.",
+      "cancion": "HUMBLE.",
       "genero": "Hip Hop",
       "emociones_relacionadas": ["empoderamiento", "furia", "motivacion"],
       "actividades_afines": ["ejercicio", "trabajar-estudiar"],
@@ -138,7 +138,7 @@
     },
     {
       "artista/banda": "Adele",
-      "canción": "Someone Like You",
+      "cancion": "Someone Like You",
       "genero": "Soul",
       "emociones_relacionadas": ["tristeza", "desamor"],
       "actividades_afines": ["llorar", "relajarse", "leer"],
@@ -147,7 +147,7 @@
     },
     {
       "artista/banda": "Queen",
-      "canción": "Bohemian Rhapsody",
+      "cancion": "Bohemian Rhapsody",
       "genero": "Rock",
       "emociones_relacionadas": [
         "ansiedad",
@@ -166,7 +166,7 @@
     },
     {
       "artista/banda": "Mitski",
-      "canción": "Nobody",
+      "cancion": "Nobody",
       "genero": "Indie Rock",
       "emociones_relacionadas": [
         "ansiedad",
@@ -180,16 +180,16 @@
     },
     {
       "artista/banda": "Post Malone",
-      "canción": "Circles",
+      "cancion": "Circles",
       "genero": "Pop Rock",
-      "emociones_relacionadas": ["relajacion", "melancolia", "desamor"],
+      "emociones_relacionadas": ["tranquilidad", "melancolia", "desamor"],
       "actividades_afines": ["conducir", "pasear", "cocinar-comer", "leer"],
       "youtube_link": "https://youtu.be/wXhTHyIgQ_U?si=Yj7MrqZWO_FvvrzW",
       "spotify_link": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb?si=42fc433f29744aaa"
     },
     {
       "artista/banda": "Rihanna",
-      "canción": "Umbrella",
+      "cancion": "Umbrella",
       "genero": "R&B",
       "emociones_relacionadas": ["motivacion", "empoderamiento"],
       "actividades_afines": ["socializar", "cantar"],
@@ -198,7 +198,7 @@
     },
     {
       "artista/banda": "The Smiths",
-      "canción": "There Is a Light That Never Goes Out",
+      "cancion": "There Is a Light That Never Goes Out",
       "genero": "Post-Punk",
       "emociones_relacionadas": [
         "melancolia",
@@ -212,10 +212,10 @@
     },
     {
       "artista/banda": "Frank Ocean",
-      "canción": "Pink + White",
+      "cancion": "Pink + White",
       "genero": "R&B Alternativo",
       "emociones_relacionadas": [
-        "relajacion",
+        "tranquilidad",
         "esperanza-optimismo",
         "motivacion"
       ],
@@ -231,7 +231,7 @@
     },
     {
       "artista/banda": "Florence + The Machine",
-      "canción": "Dog Days Are Over",
+      "cancion": "Dog Days Are Over",
       "genero": "Indie Rock",
       "emociones_relacionadas": ["euforia", "empoderamiento", "motivacion"],
       "actividades_afines": ["bailar", "pasear", "trabajar-estudiar"],
@@ -240,7 +240,7 @@
     },
     {
       "artista/banda": "BTS",
-      "canción": "Dynamite",
+      "cancion": "Dynamite",
       "genero": "K-Pop",
       "emociones_relacionadas": [
         "alegria",
@@ -248,22 +248,22 @@
         "motivacion",
         "energia"
       ],
-      "actividades_afines": ["bailar", "fiestas", "socializar", "ejercicio"],
+      "actividades_afines": ["bailar", "fiesta", "socializar", "ejercicio"],
       "youtube_link": "https://youtu.be/gdZLi9oWNZg?si=7-tkEgfjTGdpIrGC",
       "spotify_link": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW?si=b353c961328b4df6"
     },
     {
       "artista/banda": "Bad Bunny",
-      "canción": "Dákiti",
+      "cancion": "Dákiti",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["deseo", "romance", "energia"],
-      "actividades_afines": ["fiestas", "socializar", "bailar"],
+      "actividades_afines": ["fiesta", "socializar", "bailar"],
       "youtube_link": "https://youtu.be/TmKh7lAwnBI?si=3HtEQWrYwii6gPvM",
       "spotify_link": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS?si=234bdf7bc3444bcc"
     },
     {
       "artista/banda": "Metallica",
-      "canción": "Nothing Else Matters",
+      "cancion": "Nothing Else Matters",
       "genero": "Metal",
       "emociones_relacionadas": ["soledad", "melancolia"],
       "actividades_afines": [
@@ -277,43 +277,43 @@
     },
     {
       "artista/banda": "Norah Jones",
-      "canción": "Don't Know Why",
+      "cancion": "Don't Know Why",
       "genero": "Jazz",
-      "emociones_relacionadas": ["relajacion", "nostalgia", "tristeza"],
+      "emociones_relacionadas": ["tranquilidad", "nostalgia", "tristeza"],
       "actividades_afines": ["relajarse", "dormir", "cantar", "leer"],
       "youtube_link": "https://youtu.be/tO4dxvguQDk?si=8SQXi6y1LPUWea-9",
       "spotify_link": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr?si=9d4c76e5c4bd49b7"
     },
     {
       "artista/banda": "The Killers",
-      "canción": "Mr. Brightside",
+      "cancion": "Mr. Brightside",
       "genero": "Rock Alternativo",
       "emociones_relacionadas": ["frustracion", "energia", "desamor"],
-      "actividades_afines": ["socializar", "cantar", "fiestas"],
+      "actividades_afines": ["socializar", "cantar", "fiesta"],
       "youtube_link": "https://youtu.be/gGdGFtwCNBE?si=UH0CK-AMzBYNIaUd",
       "spotify_link": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B?si=1593972f77524c5d"
     },
     {
       "artista/banda": "Lorde",
-      "canción": "Royals",
+      "cancion": "Royals",
       "genero": "Electropop",
-      "emociones_relacionadas": ["empoderamiento", "relajacion"],
+      "emociones_relacionadas": ["empoderamiento", "tranquilidad"],
       "actividades_afines": ["leer", "reflexionar"],
       "youtube_link": "https://youtu.be/nlcIKh6sBtc?si=zxOvPQR4cMWmxvxY",
       "spotify_link": "https://open.spotify.com/track/4SDWMFvYJKtK1QPhIOeZhd?si=997d9ffbcc84484f"
     },
     {
       "artista/banda": "Childish Gambino",
-      "canción": "Redbone",
+      "cancion": "Redbone",
       "genero": "R&B Psicodélico",
-      "emociones_relacionadas": ["relajacion", "soledad"],
+      "emociones_relacionadas": ["tranquilidad", "soledad"],
       "actividades_afines": ["conducir", "relajarse", "dormir", "pasear"],
       "youtube_link": "https://youtu.be/k49I5m1J6Is?si=ybnD-XUr7xLLtSCQ",
       "spotify_link": "https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo?si=79acec900cbd4dfa"
     },
     {
       "artista/banda": "SZA",
-      "canción": "Good Days",
+      "cancion": "Good Days",
       "genero": "R&B Alternativo",
       "emociones_relacionadas": ["esperanza-optimismo", "energia", "alegria"],
       "actividades_afines": ["meditar", "relajarse"],
@@ -322,7 +322,7 @@
     },
     {
       "artista/banda": "The Strokes",
-      "canción": "Last Nite",
+      "cancion": "Last Nite",
       "genero": "Indie Rock",
       "emociones_relacionadas": ["frustracion", "energia"],
       "actividades_afines": [
@@ -336,7 +336,7 @@
     },
     {
       "artista/banda": "Doja Cat",
-      "canción": "Say So",
+      "cancion": "Say So",
       "genero": "Pop Funk",
       "emociones_relacionadas": ["deseo", "alegria", "energia"],
       "actividades_afines": ["bailar", "fiesta", "socializar"],
@@ -345,7 +345,7 @@
     },
     {
       "artista/banda": "Fleetwood Mac",
-      "canción": "Dreams",
+      "cancion": "Dreams",
       "genero": "Rock Clásico",
       "emociones_relacionadas": ["nostalgia", "motivacion"],
       "actividades_afines": ["relajarse", "meditar"],
@@ -354,7 +354,7 @@
     },
     {
       "artista/banda": "Kanye West",
-      "canción": "Runaway",
+      "cancion": "Runaway",
       "genero": "Hip Hop",
       "emociones_relacionadas": ["motivacion", "empoderamiento"],
       "actividades_afines": ["conducir", "leer", "cocinar-comer"],
@@ -363,7 +363,7 @@
     },
     {
       "artista/banda": "Hozier",
-      "canción": "Take Me to Church",
+      "cancion": "Take Me to Church",
       "genero": "Folk Rock",
       "emociones_relacionadas": ["furia", "desamor"],
       "actividades_afines": ["pasear", "cantar"],
@@ -372,7 +372,7 @@
     },
     {
       "artista/banda": "Phoebe Bridgers",
-      "canción": "Kyoto",
+      "cancion": "Kyoto",
       "genero": "Indie Folk",
       "emociones_relacionadas": [
         "energia",
@@ -386,7 +386,7 @@
     },
     {
       "artista/banda": "Daft Punk",
-      "canción": "Get Lucky",
+      "cancion": "Get Lucky",
       "genero": "Disco House",
       "emociones_relacionadas": [
         "euforia",
@@ -400,7 +400,7 @@
     },
     {
       "artista/banda": "Amy Winehouse",
-      "canción": "Back to Black",
+      "cancion": "Back to Black",
       "genero": "Soul",
       "emociones_relacionadas": ["desamor", "ansiedad"],
       "actividades_afines": ["llorar", "cantar"],
@@ -409,7 +409,7 @@
     },
     {
       "artista/banda": "Gorillaz",
-      "canción": "Feel Good Inc.",
+      "cancion": "Feel Good Inc.",
       "genero": "Electro-Rock",
       "emociones_relacionadas": ["alegria", "energia"],
       "actividades_afines": ["conducir", "trabajar-estudiar", "pasear"],
@@ -418,7 +418,7 @@
     },
     {
       "artista/banda": "Eminem",
-      "canción": "Lose Yourself",
+      "cancion": "Lose Yourself",
       "genero": "Hip Hop",
       "emociones_relacionadas": ["motivacion", "furia", "energia"],
       "actividades_afines": ["ejercicio", "trabajar-estudiar"],
@@ -427,7 +427,7 @@
     },
     {
       "artista/banda": "Ariana Grande",
-      "canción": "thank u, next",
+      "cancion": "thank u, next",
       "genero": "Pop",
       "emociones_relacionadas": ["empoderamiento", "desamor"],
       "actividades_afines": [
@@ -441,7 +441,7 @@
     },
     {
       "artista/banda": "David Bowie",
-      "canción": "Heroes",
+      "cancion": "Heroes",
       "genero": "Art Rock",
       "emociones_relacionadas": [
         "nostalgia",
@@ -454,7 +454,7 @@
     },
     {
       "artista/banda": "Olivia Rodrigo",
-      "canción": "drivers license",
+      "cancion": "drivers license",
       "genero": "Pop",
       "emociones_relacionadas": ["desamor", "nostalgia"],
       "actividades_afines": ["conducir", "llorar"],
@@ -463,16 +463,16 @@
     },
     {
       "artista/banda": "Drake",
-      "canción": "Hotline Bling",
+      "cancion": "Hotline Bling",
       "genero": "Hip Hop",
-      "emociones_relacionadas": ["soledad", "desamor", "relajacion"],
+      "emociones_relacionadas": ["soledad", "desamor", "tranquilidad"],
       "actividades_afines": ["bailar", "cantar", "socializar"],
       "youtube_link": "https://youtu.be/uxpDa-c-4Mc?si=LAn2cY45d7B4-oNz",
       "spotify_link": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7?si=43621aa8fc0e49bb"
     },
     {
       "artista/banda": "Linkin Park",
-      "canción": "In the End",
+      "cancion": "In the End",
       "genero": "Nu Metal",
       "emociones_relacionadas": ["frustracion", "furia"],
       "actividades_afines": ["ejercicio", "trabajar-estudiar"],
@@ -481,7 +481,7 @@
     },
     {
       "artista/banda": "Harry Styles",
-      "canción": "Watermelon Sugar",
+      "cancion": "Watermelon Sugar",
       "genero": "Pop",
       "emociones_relacionadas": ["alegria", "deseo"],
       "actividades_afines": ["relajarse", "cantar", "pasear"],
@@ -490,7 +490,7 @@
     },
     {
       "artista/banda": "Nirvana",
-      "canción": "Smells Like Teen Spirit",
+      "cancion": "Smells Like Teen Spirit",
       "genero": "Grunge",
       "emociones_relacionadas": ["furia", "empoderamiento"],
       "actividades_afines": ["cantar", "trabajar-estudiar", "pasear"],
@@ -499,16 +499,16 @@
     },
     {
       "artista/banda": "Rosalía",
-      "canción": "Malamente",
+      "cancion": "Malamente",
       "genero": "Flamenco Urbano",
       "emociones_relacionadas": ["energia", "desamor", "frustracion"],
-      "actividades_afines": ["bailar", "socializar", "fiestas"],
+      "actividades_afines": ["bailar", "socializar", "fiesta"],
       "youtube_link": "https://youtu.be/Rht7rBHuXW8?si=R5Y0V2RrYoe9DlDO",
       "spotify_link": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK?si=411bf1b9262c4005"
     },
     {
       "artista/banda": "The Lumineers",
-      "canción": "Ho Hey",
+      "cancion": "Ho Hey",
       "genero": "Folk Rock",
       "emociones_relacionadas": ["alegria", "motivacion"],
       "actividades_afines": ["relajarse", "pasear"],
@@ -517,7 +517,7 @@
     },
     {
       "artista/banda": "Johnny Cash",
-      "canción": "Hurt",
+      "cancion": "Hurt",
       "genero": "Country",
       "emociones_relacionadas": ["melancolia", "frustracion", "soledad"],
       "actividades_afines": ["leer", "pasear"],
@@ -526,7 +526,7 @@
     },
     {
       "artista/banda": "Calvin Harris",
-      "canción": "Summer",
+      "cancion": "Summer",
       "genero": "EDM",
       "emociones_relacionadas": ["euforia", "nostalgia", "energia"],
       "actividades_afines": ["bailar", "fiesta", "ejercicio"],
@@ -535,7 +535,7 @@
     },
     {
       "artista/banda": "J Balvin",
-      "canción": "Mi Gente",
+      "cancion": "Mi Gente",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["alegria", "energia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -544,7 +544,7 @@
     },
     {
       "artista/banda": "Pink Floyd",
-      "canción": "Comfortably Numb",
+      "cancion": "Comfortably Numb",
       "genero": "Rock Progresivo",
       "emociones_relacionadas": ["ansiedad", "frustracion", "melancolia"],
       "actividades_afines": ["meditar", "conducir", "pasear", "leer"],
@@ -553,7 +553,7 @@
     },
     {
       "artista/banda": "Lady Gaga",
-      "canción": "Bad Romance",
+      "cancion": "Bad Romance",
       "genero": "Electropop",
       "emociones_relacionadas": ["desamor", "energia", "furia"],
       "actividades_afines": ["fiesta", "cantar"],
@@ -562,7 +562,7 @@
     },
     {
       "artista/banda": "Twenty One Pilots",
-      "canción": "Stressed Out",
+      "cancion": "Stressed Out",
       "genero": "Pop Alternativo",
       "emociones_relacionadas": ["ansiedad", "nostalgia"],
       "actividades_afines": ["leer", "conducir", "pasear"],
@@ -571,7 +571,7 @@
     },
     {
       "artista/banda": "Bruno Mars",
-      "canción": "Uptown Funk",
+      "cancion": "Uptown Funk",
       "genero": "Funk",
       "emociones_relacionadas": ["energia", "empoderamiento", "alegria"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -580,7 +580,7 @@
     },
     {
       "artista/banda": "The Rolling Stones",
-      "canción": "Paint It Black",
+      "cancion": "Paint It Black",
       "genero": "Rock Clásico",
       "emociones_relacionadas": ["soledad", "ansiedad"],
       "actividades_afines": ["relajarse", "leer", "bailar", "cantar"],
@@ -589,16 +589,16 @@
     },
     {
       "artista/banda": "Kali Uchis",
-      "canción": "Telepatía",
+      "cancion": "Telepatía",
       "genero": "Neo-Soul",
-      "emociones_relacionadas": ["deseo", "romance", "relajacion"],
+      "emociones_relacionadas": ["deseo", "romance", "tranquilidad"],
       "actividades_afines": ["socializar", "relajarse", "cantar"],
       "youtube_link": "https://youtu.be/bn_p95HbHoQ?si=5rRQweW1HvzkRfiH",
       "spotify_link": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?si=126d6313c2c745e1"
     },
     {
       "artista/banda": "Led Zeppelin",
-      "canción": "Stairway to Heaven",
+      "cancion": "Stairway to Heaven",
       "genero": "Rock",
       "emociones_relacionadas": ["motivacion", "esperanza-optimismo"],
       "actividades_afines": ["cantar", "relajarse", "pasear", "conducir"],
@@ -607,7 +607,7 @@
     },
     {
       "artista/banda": "Cigarettes After Sex",
-      "canción": "Apocalypse",
+      "cancion": "Apocalypse",
       "genero": "Dream Pop",
       "emociones_relacionadas": ["melancolia", "nostalgia", "desamor"],
       "actividades_afines": ["llorar", "relajarse", "pasear"],
@@ -616,7 +616,7 @@
     },
     {
       "artista/banda": "Blackpink",
-      "canción": "How You Like That",
+      "cancion": "How You Like That",
       "genero": "K-Pop",
       "emociones_relacionadas": ["empoderamiento", "furia"],
       "actividades_afines": ["socializar", "bailar", "fiesta", "ejercicio"],
@@ -625,7 +625,7 @@
     },
     {
       "artista/banda": "The Beatles",
-      "canción": "Here Comes the Sun",
+      "cancion": "Here Comes the Sun",
       "genero": "Rock Clásico",
       "emociones_relacionadas": ["esperanza-optimismo", "alegria"],
       "actividades_afines": [
@@ -640,7 +640,7 @@
     },
     {
       "artista/banda": "Shakira",
-      "canción": "Hips Don't Lie",
+      "cancion": "Hips Don't Lie",
       "genero": "Salsa Pop",
       "emociones_relacionadas": ["alegria", "energia", "deseo"],
       "actividades_afines": ["bailar", "fiesta", "socializar"],
@@ -649,7 +649,7 @@
     },
     {
       "artista/banda": "Ed Sheeran",
-      "canción": "Shape of You",
+      "cancion": "Shape of You",
       "genero": "Pop",
       "emociones_relacionadas": ["alegria", "romance", "deseo", "motivacion"],
       "actividades_afines": ["boda", "fiesta", "socializar"],
@@ -658,16 +658,16 @@
     },
     {
       "artista/banda": "Bad Bunny",
-      "canción": "Moscow Mule",
+      "cancion": "Moscow Mule",
       "genero": "Reggaeton",
-      "emociones_relacionadas": ["relajacion", "deseo", "energia"],
+      "emociones_relacionadas": ["tranquilidad", "deseo", "energia"],
       "actividades_afines": ["bailar", "fiesta", "socializar"],
       "youtube_link": "https://youtu.be/p38WgakuYDo?si=m5f_bzCNpBZeTu9G",
       "spotify_link": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO?si=00244872df5e4456"
     },
     {
       "artista/banda": "FKA twigs",
-      "canción": "Cellophane",
+      "cancion": "Cellophane",
       "genero": "Avant-Pop",
       "emociones_relacionadas": ["melancolia", "tristeza", "ansiedad"],
       "actividades_afines": ["llorar", "relajarse", "cantar"],
@@ -676,7 +676,7 @@
     },
     {
       "artista/banda": "Oasis",
-      "canción": "Wonderwall",
+      "cancion": "Wonderwall",
       "genero": "Britpop",
       "emociones_relacionadas": ["nostalgia", "romance"],
       "actividades_afines": ["cantar", "socializar"],
@@ -685,7 +685,7 @@
     },
     {
       "artista/banda": "Selena Gomez",
-      "canción": "Lose You to Love Me",
+      "cancion": "Lose You to Love Me",
       "genero": "Pop",
       "emociones_relacionadas": ["desamor", "frustracion", "empoderamiento"],
       "actividades_afines": ["relajarse", "leer", "cantar"],
@@ -694,16 +694,16 @@
     },
     {
       "artista/banda": "The White Stripes",
-      "canción": "Seven Nation Army",
+      "cancion": "Seven Nation Army",
       "genero": "Garage Rock",
       "emociones_relacionadas": ["empoderamiento", "ansiedad", "energia"],
-      "actividades_afines": ["relajarse", "manifestaciones", "deportes"],
+      "actividades_afines": ["relajarse", "manifestaciones", "ejercicio"],
       "youtube_link": "https://youtu.be/0J2QdDbelmY?si=NvfK0dL-kyuwhFFe",
       "spotify_link": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR?si=587b8603b7bf4164"
     },
     {
       "artista/banda": "Luis Miguel",
-      "canción": "La Incondicional",
+      "cancion": "La Incondicional",
       "genero": "Balada",
       "emociones_relacionadas": ["melancolia", "nostalgia", "desamor"],
       "actividades_afines": ["fiesta", "llorar", "cantar"],
@@ -712,7 +712,7 @@
     },
     {
       "artista/banda": "Miley Cyrus",
-      "canción": "Midnight Sky",
+      "cancion": "Midnight Sky",
       "genero": "Pop Rock",
       "emociones_relacionadas": ["empoderamiento", "energia"],
       "actividades_afines": ["conducir", "fiesta", "bailar", "socializar"],
@@ -721,7 +721,7 @@
     },
     {
       "artista/banda": "The Cure",
-      "canción": "Friday I'm in Love",
+      "cancion": "Friday I'm in Love",
       "genero": "New Wave",
       "emociones_relacionadas": ["esperanza-optimismo", "alegria"],
       "actividades_afines": ["trabajar-estudiar", "relajarse", "dormir"],
@@ -730,7 +730,7 @@
     },
     {
       "artista/banda": "Karol G",
-      "canción": "Tusa",
+      "cancion": "Tusa",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["desamor", "empoderamiento", "energia"],
       "actividades_afines": [
@@ -747,7 +747,7 @@
     },
     {
       "artista/banda": "C. Tangana",
-      "canción": "Demasiadas Mujeres",
+      "cancion": "Demasiadas Mujeres",
       "genero": "Flamenco Urbano",
       "emociones_relacionadas": ["empoderamiento", "soledad", "desamor"],
       "actividades_afines": ["fiesta", "conducir", "cantar", "socializar"],
@@ -756,7 +756,7 @@
     },
     {
       "artista/banda": "Billie Eilish",
-      "canción": "Happier Than Ever",
+      "cancion": "Happier Than Ever",
       "genero": "Pop Alternativo",
       "emociones_relacionadas": ["furia", "desamor", "ansiedad"],
       "actividades_afines": ["llorar", "conducir", "cantar"],
@@ -765,12 +765,12 @@
     },
     {
       "artista/banda": "Bob Marley",
-      "canción": "Three Little Birds",
+      "cancion": "Three Little Birds",
       "genero": "Reggae",
       "emociones_relacionadas": [
         "esperanza-optimismo",
         "motivacion",
-        "relajacion"
+        "tranquilidad"
       ],
       "actividades_afines": ["cocinar-comer", "relajarse", "conducir"],
       "youtube_link": "https://youtu.be/HNBCVM4KbUM?si=a7ci61Xpwzg8XUMh",
@@ -778,7 +778,7 @@
     },
     {
       "artista/banda": "Rosalía",
-      "canción": "Con Altura",
+      "cancion": "Con Altura",
       "genero": "Reggaeton Experimental",
       "emociones_relacionadas": ["energia", "euforia"],
       "actividades_afines": ["fiesta", "bailar", "socializar"],
@@ -787,16 +787,16 @@
     },
     {
       "artista/banda": "The Chainsmokers",
-      "canción": "Closer",
+      "cancion": "Closer",
       "genero": "EDM",
       "emociones_relacionadas": ["energia", "desamor"],
-      "actividades_afines": ["pasear", "fiestas", "socializar"],
+      "actividades_afines": ["pasear", "fiesta", "socializar"],
       "youtube_link": "https://youtu.be/PT2_F-1esPk?si=lNexKUboUdpLHGua",
       "spotify_link": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw?si=40fcd0c9c7ec45d8"
     },
     {
       "artista/banda": "Céline Dion",
-      "canción": "My Heart Will Go On",
+      "cancion": "My Heart Will Go On",
       "genero": "Pop Clásico",
       "emociones_relacionadas": ["melancolia", "nostalgia"],
       "actividades_afines": ["leer", "relajarse"],
@@ -805,7 +805,7 @@
     },
     {
       "artista/banda": "Juanes",
-      "canción": "La Camisa Negra",
+      "cancion": "La Camisa Negra",
       "genero": "Rock Latino",
       "emociones_relacionadas": ["desamor", "melancolia", "empoderamiento"],
       "actividades_afines": ["cantar", "relajarse", "fiesta"],
@@ -814,7 +814,7 @@
     },
     {
       "artista/banda": "Paramore",
-      "canción": "Misery Business",
+      "cancion": "Misery Business",
       "genero": "Pop Punk",
       "emociones_relacionadas": ["empoderamiento", "ansiedad"],
       "actividades_afines": ["cantar", "conducir"],
@@ -823,7 +823,7 @@
     },
     {
       "artista/banda": "Daddy Yankee",
-      "canción": "Gasolina",
+      "cancion": "Gasolina",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["energia", "euforia", "motivacion"],
       "actividades_afines": ["fiesta", "bailar", "socializar"],
@@ -832,7 +832,7 @@
     },
     {
       "artista/banda": "Joy Division",
-      "canción": "Love Will Tear Us Apart",
+      "cancion": "Love Will Tear Us Apart",
       "genero": "Post-Punk",
       "emociones_relacionadas": ["ansiedad", "tristeza", "energia"],
       "actividades_afines": ["pasear", "cantar", "trabajar-estudiar"],
@@ -841,7 +841,7 @@
     },
     {
       "artista/banda": "Adele",
-      "canción": "Rolling in the Deep",
+      "cancion": "Rolling in the Deep",
       "genero": "Soul",
       "emociones_relacionadas": ["furia", "ansiedad", "desamor"],
       "actividades_afines": ["socializar", "llorar"],
@@ -850,7 +850,7 @@
     },
     {
       "artista/banda": "The Clash",
-      "canción": "Should I Stay or Should I Go",
+      "cancion": "Should I Stay or Should I Go",
       "genero": "Punk Rock",
       "emociones_relacionadas": ["motivacion", "empoderamiento", "energia"],
       "actividades_afines": ["socializar", "pasear", "conducir", "cantar"],
@@ -859,12 +859,12 @@
     },
     {
       "artista/banda": "Utada Hikaru",
-      "canción": "First Love",
+      "cancion": "First Love",
       "genero": "J-Pop",
       "emociones_relacionadas": [
         "melancolia",
         "nostalgia",
-        "relajacion",
+        "tranquilidad",
         "desamor"
       ],
       "actividades_afines": ["llorar", "meditar"],
@@ -873,7 +873,7 @@
     },
     {
       "artista/banda": "My Bloody Valentine",
-      "canción": "When You Sleep",
+      "cancion": "When You Sleep",
       "genero": "Shoegaze",
       "emociones_relacionadas": ["ansiedad", "energia", "soledad"],
       "actividades_afines": ["leer", "trabajar-estudiar", "cocinar-comer"],
@@ -882,7 +882,7 @@
     },
     {
       "artista/banda": "Maluma",
-      "canción": "Hawái",
+      "cancion": "Hawái",
       "genero": "Reggaeton",
       "emociones_relacionadas": ["frustracion", "desamor", "energia"],
       "actividades_afines": ["socializar", "bailar", "fiesta", "llorar"],
@@ -891,7 +891,7 @@
     },
     {
       "artista/banda": "Nina Simone",
-      "canción": "Feeling Good",
+      "cancion": "Feeling Good",
       "genero": "Jazz",
       "emociones_relacionadas": [
         "motivacion",
@@ -904,7 +904,7 @@
     },
     {
       "artista/banda": "The Police",
-      "canción": "Every Breath You Take",
+      "cancion": "Every Breath You Take",
       "genero": "New Wave",
       "emociones_relacionadas": ["melancolia", "deseo", "romance"],
       "actividades_afines": ["relajarse", "cantar"],
@@ -913,7 +913,7 @@
     },
     {
       "artista/banda": "Måneskin",
-      "canción": "Beggin'",
+      "cancion": "Beggin'",
       "genero": "Rock Glam",
       "emociones_relacionadas": ["frustracion", "deseo", "furia"],
       "actividades_afines": ["ejercicio", "fiesta", "pasear", "conducir"],
@@ -922,7 +922,7 @@
     },
     {
       "artista/banda": "Sia",
-      "canción": "Chandelier",
+      "cancion": "Chandelier",
       "genero": "Pop",
       "emociones_relacionadas": ["energia", "ansiedad", "motivacion"],
       "actividades_afines": ["conducir", "meditar", "cantar"],
@@ -931,7 +931,7 @@
     },
     {
       "artista/banda": "The Cranberries",
-      "canción": "Zombie",
+      "cancion": "Zombie",
       "genero": "Rock Alternativo",
       "emociones_relacionadas": ["furia", "ansiedad", "frustracion"],
       "actividades_afines": ["ejercicio", "trabajar-estudiar", "pasear"],
@@ -940,7 +940,7 @@
     },
     {
       "artista/banda": "Jorge Drexler",
-      "canción": "Telefonía",
+      "cancion": "Telefonía",
       "genero": "Folk Urbano",
       "emociones_relacionadas": ["nostalgia", "romance"],
       "actividades_afines": ["llorar", "relajarse"],
@@ -949,7 +949,7 @@
     },
     {
       "artista/banda": "Dua Lipa",
-      "canción": "Don't Start Now",
+      "cancion": "Don't Start Now",
       "genero": "Disco Pop",
       "emociones_relacionadas": ["empoderamiento", "alegria", "desamor"],
       "actividades_afines": ["fiesta", "bailar", "socializar"],
@@ -958,7 +958,7 @@
     },
     {
       "artista/banda": "System of a Down",
-      "canción": "Chop Suey!",
+      "cancion": "Chop Suey!",
       "genero": "Metal Alternativo",
       "emociones_relacionadas": ["furia", "energia", "miedo"],
       "actividades_afines": ["trabajar-estudiar", "ejercicio", "fiesta"],
@@ -967,7 +967,7 @@
     },
     {
       "artista/banda": "Carla Morrison",
-      "canción": "Eres Tú",
+      "cancion": "Eres Tú",
       "genero": "Indie Folk",
       "emociones_relacionadas": ["romance", "esperanza-optimismo"],
       "actividades_afines": ["boda", "relajarse"],
@@ -976,7 +976,7 @@
     },
     {
       "artista/banda": "Daft Punk",
-      "canción": "Around the World",
+      "cancion": "Around the World",
       "genero": "French House",
       "emociones_relacionadas": ["energia", "motivacion", "euforia"],
       "actividades_afines": ["fiesta", "bailar", "ejercicio"],
@@ -1010,7 +1010,7 @@
       "artista/banda": "Summer Salt",
       "cancion": "Fire Flower",
       "genero": "Alternativo",
-      "emociones_relacionadas": ["melancolia", "relajacion"],
+      "emociones_relacionadas": ["melancolia", "tranquilidad"],
       "actividades_afines": ["relajarse", "meditar"],
       "youtube_link": "https://youtu.be/5oNqaRLDOi0?si=uHzLOkwHmMaxJOid",
       "spotify_link": "https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2?si=7f708253d4974fcc"
@@ -1019,7 +1019,7 @@
       "artista/banda": "Mac DeMarco",
       "cancion": "20191009 I Like Her",
       "genero": "Alternativo",
-      "emociones_relacionadas": ["romance", "relajacion", "nostalgia"],
+      "emociones_relacionadas": ["romance", "tranquilidad", "nostalgia"],
       "actividades_afines": ["relajarse", "meditar", "trabajar-estudiar"],
       "youtube_link": "https://youtu.be/r4ThHPMhmXQ?si=rUBDiWSh7M1N5kgX",
       "spotify_link": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1?si=3199a34e1f8943e6"
@@ -1189,12 +1189,12 @@
       ],
       "actividades_afines": [
         "viajes interestelares imaginarios",
-        "fiestas retro"
+        "fiesta retro"
       ]
     },
     {
       "artista/banda": "Duki",
-      "canción": "Goteo",
+      "cancion": "Goteo",
       "genero": "Trap",
       "emociones_relacionadas": ["energia", "euforia"],
       "actividades_afines": ["bailar", "fiesta"],
@@ -1203,7 +1203,7 @@
     },
     {
       "artista/banda": "Duki",
-      "canción": "She Don't Give a FO",
+      "cancion": "She Don't Give a FO",
       "genero": "Trap",
       "emociones_relacionadas": ["empoderamiento", "motivacion", "desamor"],
       "actividades_afines": ["ejercicio", "conducir"],
@@ -1212,16 +1212,16 @@
     },
     {
       "artista/banda": "Duki",
-      "canción": "Hitboy",
+      "cancion": "Hitboy",
       "genero": "Trap",
       "emociones_relacionadas": ["furia"],
-      "actividades_afines": ["deportes", "ejercicio"],
+      "actividades_afines": ["ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=yzRbO3X2uyE",
       "spotify_link": "https://open.spotify.com/intl-es/track/624AL3EwsrgGIp6bdwmXgo?si=e2aefee4a1064a94"
     },
     {
       "artista/banda": "Duki",
-      "canción": "Antes de Perderte",
+      "cancion": "Antes de Perderte",
       "genero": "Trap/Rap emocional",
       "emociones_relacionadas": ["desamor", "melancolia"],
       "actividades_afines": ["llorar", "reflexionar"],
@@ -1230,7 +1230,7 @@
     },
     {
       "artista/banda": "Duki",
-      "canción": "Hello Cotto",
+      "cancion": "Hello Cotto",
       "genero": "Trap",
       "emociones_relacionadas": ["euforia", "alegria"],
       "actividades_afines": ["bailar", "fiesta"],
@@ -1239,7 +1239,7 @@
     },
     {
       "artista/banda": "The Weeknd",
-      "canción": "Blinding Lights",
+      "cancion": "Blinding Lights",
       "genero": "Pop/Synthwave",
       "emociones_relacionadas": ["euforia", "energia"],
       "actividades_afines": ["conducir", "bailar"],
@@ -1248,7 +1248,7 @@
     },
     {
       "artista/banda": "Lana Del Rey",
-      "canción": "Summertime Sadness",
+      "cancion": "Summertime Sadness",
       "genero": "Pop alternativo",
       "emociones_relacionadas": ["nostalgia", "melancolia"],
       "actividades_afines": ["leer", "dormir"],
@@ -1257,7 +1257,7 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "Milagrosa",
+      "cancion": "Milagrosa",
       "genero": "Trap latino",
       "emociones_relacionadas": ["euforia", "empoderamiento"],
       "actividades_afines": ["ejercicio", "bailar"],
@@ -1266,16 +1266,16 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "Dispara***",
+      "cancion": "Dispara***",
       "genero": "Trap",
       "emociones_relacionadas": ["furia", "frustracion"],
-      "actividades_afines": ["conducir", "deportes"],
+      "actividades_afines": ["conducir", "ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=XsSpBZXW538",
       "spotify_link": "https://open.spotify.com/intl-es/track/6r0TaoZh1Oc1KkuL4rC1kB?si=cf7971337a1c465d"
     },
     {
       "artista/banda": "Milo J",
-      "canción": "El Bolero",
+      "cancion": "El Bolero",
       "genero": "Balada urbana",
       "emociones_relacionadas": ["romance", "nostalgia"],
       "actividades_afines": ["leer", "relajarse"],
@@ -1284,7 +1284,7 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "M.A.I",
+      "cancion": "M.A.I",
       "genero": "Trap melódico",
       "emociones_relacionadas": ["soledad", "melancolia", "romance"],
       "actividades_afines": ["meditar", "dormir"],
@@ -1293,7 +1293,7 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "Carta de Despedida",
+      "cancion": "Carta de Despedida",
       "genero": "Trap",
       "emociones_relacionadas": ["desamor", "tristeza"],
       "actividades_afines": ["llorar", "leer"],
@@ -1302,7 +1302,7 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "Lo que me causa",
+      "cancion": "Lo que me causa",
       "genero": "Pop urbano",
       "emociones_relacionadas": ["alegria", "romance"],
       "actividades_afines": ["socializar", "boda"],
@@ -1311,7 +1311,7 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "Buen día portación de rostro",
+      "cancion": "Buen día portación de rostro",
       "genero": "Trap",
       "emociones_relacionadas": ["esperanza-optimismo", "motivacion"],
       "actividades_afines": ["conducir", "pasear"],
@@ -1320,7 +1320,7 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "I'Am",
+      "cancion": "I'Am",
       "genero": "Trap melódico",
       "emociones_relacionadas": ["empoderamiento", "motivacion", "desamor"],
       "actividades_afines": ["ejercicio", "trabajar-estudiar"],
@@ -1329,16 +1329,16 @@
     },
     {
       "artista/banda": "Milo J",
-      "canción": "Una Bala",
+      "cancion": "Una Bala",
       "genero": "Corridos tumbados",
       "emociones_relacionadas": ["furia", "frustracion"],
-      "actividades_afines": ["conducir", "deportes"],
+      "actividades_afines": ["conducir", "ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=-KK0gXX36J0",
       "spotify_link": "https://open.spotify.com/intl-es/track/6Rz80wUWSUbGGVHvkH7NpU?si=667139dbc64a4eca"
     },
     {
       "artista/banda": "Khea",
-      "canción": "Loca",
+      "cancion": "Loca",
       "genero": "Trap latino",
       "emociones_relacionadas": ["deseo", "energia"],
       "actividades_afines": ["fiesta", "bailar", "cantar", "socializar"],
@@ -1347,7 +1347,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "Ayer Me Llamó Mi Ex",
+      "cancion": "Ayer Me Llamó Mi Ex",
       "genero": "Bachatrap",
       "emociones_relacionadas": ["desamor", "nostalgia", "deseo"],
       "actividades_afines": ["cantar", "bailar"],
@@ -1356,7 +1356,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "Wacha",
+      "cancion": "Wacha",
       "genero": "Trap",
       "emociones_relacionadas": ["alegria", "energia"],
       "actividades_afines": ["fiesta", "bailar", ""],
@@ -1365,7 +1365,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "Cómo Le Digo",
+      "cancion": "Cómo Le Digo",
       "genero": "Reguetón",
       "emociones_relacionadas": ["romance", "deseo"],
       "actividades_afines": ["socializar", "cocinar-comer", "cantar", "fiesta"],
@@ -1374,7 +1374,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "Vete",
+      "cancion": "Vete",
       "genero": "Trap acústico",
       "emociones_relacionadas": ["tristeza", "soledad"],
       "actividades_afines": ["cantar", "llorar"],
@@ -1383,7 +1383,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "KHEA || BZRP Music Sessions #34",
+      "cancion": "KHEA || BZRP Music Sessions #34",
       "genero": "Trap",
       "emociones_relacionadas": ["desamor", "frustracion"],
       "actividades_afines": ["trabajar-estudiar", "cantar", "llorar"],
@@ -1392,7 +1392,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "Tú Y Yo",
+      "cancion": "Tú Y Yo",
       "genero": "R&B",
       "emociones_relacionadas": ["romance", "alegria"],
       "actividades_afines": ["boda", "socializar"],
@@ -1401,7 +1401,7 @@
     },
     {
       "artista/banda": "Khea",
-      "canción": "Te Vas",
+      "cancion": "Te Vas",
       "genero": "Pop urbano",
       "emociones_relacionadas": ["tristeza", "desamor"],
       "actividades_afines": ["llorar", "leer"],
@@ -1410,7 +1410,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Señorita",
+      "cancion": "Señorita",
       "genero": "Pop dance",
       "emociones_relacionadas": ["deseo", "energia", "alegria"],
       "actividades_afines": ["bailar", "fiesta", "cantar"],
@@ -1419,7 +1419,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Mi Corazón",
+      "cancion": "Mi Corazón",
       "genero": "Pop urbano",
       "emociones_relacionadas": ["romance", "alegria", "desamor"],
       "actividades_afines": ["socializar", "cocinar-comer", "cantar", "llorar"],
@@ -1428,7 +1428,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Alegría",
+      "cancion": "alegria",
       "genero": "Pop latino",
       "emociones_relacionadas": ["alegria", "energia"],
       "actividades_afines": ["bailar", "fiesta"],
@@ -1437,7 +1437,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Entre Nosotros",
+      "cancion": "Entre Nosotros",
       "genero": "Trap melódico",
       "emociones_relacionadas": ["desamor", "tristeza"],
       "actividades_afines": ["llorar", "leer", "cantar", "ejercicio", "llorar"],
@@ -1446,7 +1446,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Salimo de Noche",
+      "cancion": "Salimo de Noche",
       "genero": "Reguetón",
       "emociones_relacionadas": ["alegria", "energia"],
       "actividades_afines": ["fiesta", "bailar"],
@@ -1455,7 +1455,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Sola",
+      "cancion": "Sola",
       "genero": "R&B",
       "emociones_relacionadas": [
         "soledad",
@@ -1470,7 +1470,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Nos Comemos",
+      "cancion": "Nos Comemos",
       "genero": "Reguetón",
       "emociones_relacionadas": ["deseo", "romance"],
       "actividades_afines": ["socializar", "cocinar-comer", "fiesta", "bailar"],
@@ -1479,7 +1479,7 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "El Último Beso",
+      "cancion": "El Último Beso",
       "genero": "Pop urbano",
       "emociones_relacionadas": ["tristeza", "desamor"],
       "actividades_afines": ["llorar", "relajarse"],
@@ -1488,16 +1488,16 @@
     },
     {
       "artista/banda": "Tiago PZK",
-      "canción": "Traductor",
+      "cancion": "Traductor",
       "genero": "Trap latino",
       "emociones_relacionadas": ["energia", "motivacion", "alegria"],
-      "actividades_afines": ["ejercicio", "bailar", "cantar", "fiestas"],
+      "actividades_afines": ["ejercicio", "bailar", "cantar", "fiesta"],
       "youtube_link": "https://www.youtube.com/watch?v=bL8lX4tP5jw",
       "spotify_link": "https://open.spotify.com/intl-es/track/5x17YrAwajDUCqB8zT9ElY?si=d471fabe42e34ffc"
     },
     {
       "artista/banda": "Tame Impala",
-      "canción": "Let It Happen",
+      "cancion": "Let It Happen",
       "genero": "Psychedelic Pop",
       "emociones_relacionadas": ["euforia"],
       "actividades_afines": ["bailar", "fiesta", "ejercicio"],
@@ -1506,7 +1506,7 @@
     },
     {
       "artista/banda": "Ludovico Einaudi",
-      "canción": "Nuvole Bianche",
+      "cancion": "Nuvole Bianche",
       "genero": "Neoclásica",
       "emociones_relacionadas": ["tristeza", "nostalgia"],
       "actividades_afines": ["meditar", "llorar", "leer", "relajarse"],
@@ -1515,7 +1515,7 @@
     },
     {
       "artista/banda": "Kygo feat. Conrad Sewell",
-      "canción": "Firestone",
+      "cancion": "Firestone",
       "genero": "Electronic / Tropical House",
       "emociones_relacionadas": ["euforia", "alegria"],
       "actividades_afines": ["fiesta", "conducir", "bailar"],
@@ -1524,7 +1524,7 @@
     },
     {
       "artista/banda": "Radiohead",
-      "canción": "True Love Waits",
+      "cancion": "True Love Waits",
       "genero": "Alternative Rock",
       "emociones_relacionadas": ["tristeza", "desamor", "melancolia"],
       "actividades_afines": ["llorar", "leer", "trabajar-estudiar"],
@@ -1533,70 +1533,70 @@
     },
     {
       "artista/banda": "FKJ",
-      "canción": "Tadow",
+      "cancion": "Tadow",
       "genero": "Nu Jazz / Soul",
-      "emociones_relacionadas": ["relajacion"],
+      "emociones_relacionadas": ["tranquilidad"],
       "actividades_afines": ["trabajar-estudiar", "cocinar", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=hC8CH0Z3L54",
       "spotify_link": "https://open.spotify.com/intl-es/track/51rPRW8NjxZoWPPjnRGzHw?si=17948ea190bc4349"
     },
     {
       "artista/banda": "Cigarettes After Sex",
-      "canción": "Apocalypse",
+      "cancion": "Apocalypse",
       "genero": "Ambient Pop",
-      "emociones_relacionadas": ["melancolia", "nostalgia", "relajacion"],
+      "emociones_relacionadas": ["melancolia", "nostalgia", "tranquilidad"],
       "actividades_afines": ["leer", "llorar", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=sElE_BfQ67s",
       "spotify_link": "https://open.spotify.com/intl-es/track/1oAwsWBovWRIp7qLMGPIet?si=6765fdd5346c44ac"
     },
     {
       "artista/banda": "Mazzy Star",
-      "canción": "Fade Into You",
+      "cancion": "Fade Into You",
       "genero": "Dream Pop",
-      "emociones_relacionadas": ["nostalgia", "relajacion", "soledad"],
+      "emociones_relacionadas": ["nostalgia", "tranquilidad", "soledad"],
       "actividades_afines": ["leer", "meditar", "trabajar-estudiar"],
       "youtube_link": "https://www.youtube.com/watch?v=ImKY6TZEyrI",
       "spotify_link": "https://open.spotify.com/intl-es/track/1LzNfuep1bnAUR9skqdHCK?si=ac4368bfb5e04d76"
     },
     {
       "artista/banda": "Sufjan Stevens",
-      "canción": "Mystery of Love",
+      "cancion": "Mystery of Love",
       "genero": "Indie Folk",
-      "emociones_relacionadas": ["melancolia", "nostalgia", "relajacion"],
+      "emociones_relacionadas": ["melancolia", "nostalgia", "tranquilidad"],
       "actividades_afines": ["llorar", "leer", "meditar"],
       "youtube_link": "https://www.youtube.com/watch?v=4WTt69YO2VI",
       "spotify_link": "https://open.spotify.com/intl-es/track/4HbeGjbt7u3pvwDk1vN7P0?si=c1aa7a8d3b03497b"
     },
     {
       "artista/banda": "Angus & Julia Stone",
-      "canción": "Big Jet Plane",
+      "cancion": "Big Jet Plane",
       "genero": "Indie Pop",
-      "emociones_relacionadas": ["relajacion", "nostalgia"],
+      "emociones_relacionadas": ["tranquilidad", "nostalgia"],
       "actividades_afines": ["relajarse", "pasear", "trabajar-estudiar"],
       "youtube_link": "https://www.youtube.com/watch?v=yFTvbcNhEgc",
       "spotify_link": "https://open.spotify.com/intl-es/track/3WGsYiBXmaT8XyY4Fmry2v?si=4b6090ab907f4570"
     },
     {
       "artista/banda": "Khruangbin",
-      "canción": "White Gloves",
+      "cancion": "White Gloves",
       "genero": "Psychedelic Soul",
-      "emociones_relacionadas": ["relajacion", "nostalgia"],
+      "emociones_relacionadas": ["tranquilidad", "nostalgia"],
       "actividades_afines": ["cocinar", "relajarse", "pasear"],
       "youtube_link": "https://www.youtube.com/watch?v=wJzoos4rE_o",
       "spotify_link": "https://open.spotify.com/intl-es/track/7g18n5nxV5ep8ugBR3BmHD?si=c1670f9947e04c6d"
     },
     {
       "artista/banda": "Billie Eilish",
-      "canción": "Everything I Wanted",
+      "cancion": "Everything I Wanted",
       "genero": "Electropop / Ambient",
-      "emociones_relacionadas": ["ansiedad", "tristeza", "relajacion"],
+      "emociones_relacionadas": ["ansiedad", "tristeza", "tranquilidad"],
       "actividades_afines": ["meditar", "llorar", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=EgBJmlPo8Xw",
       "spotify_link": "https://open.spotify.com/intl-es/track/3ZCTVFBt2Brf31RLEnCkWJ?si=1772dbf3d29e4554"
     },
     {
       "artista/banda": "David Guetta ft. Sia",
-      "canción": "Titanium",
+      "cancion": "Titanium",
       "genero": "Electro House / Pop",
       "emociones_relacionadas": ["energia", "motivacion"],
       "actividades_afines": ["ejercicio", "bailar", "trabajar-estudiar"],
@@ -1605,7 +1605,7 @@
     },
     {
       "artista/banda": "Arctic Monkeys",
-      "canción": "Do I Wanna Know?",
+      "cancion": "Do I Wanna Know?",
       "genero": "Indie Rock",
       "emociones_relacionadas": ["romance", "deseo", "melancolia"],
       "actividades_afines": ["leer", "socializar", "cantar"],
@@ -1614,7 +1614,7 @@
     },
     {
       "artista/banda": "ODESZA",
-      "canción": "A Moment Apart",
+      "cancion": "A Moment Apart",
       "genero": "Electronic / Chillwave",
       "emociones_relacionadas": ["ansiedad", "esperanza-optimismo"],
       "actividades_afines": ["meditar", "pasear", "trabajar-estudiar"],
@@ -1623,7 +1623,7 @@
     },
     {
       "artista/banda": "Alvvays",
-      "canción": "Archie, Marry Me",
+      "cancion": "Archie, Marry Me",
       "genero": "Indie Pop / Shoegaze",
       "emociones_relacionadas": ["romance", "nostalgia", "alegria"],
       "actividades_afines": ["leer", "soñar", "relajarse"],
@@ -1632,7 +1632,7 @@
     },
     {
       "artista/banda": "Adele",
-      "canción": "Someone Like You",
+      "cancion": "Someone Like You",
       "genero": "Pop / Soul",
       "emociones_relacionadas": ["desamor", "nostalgia", "melancolia"],
       "actividades_afines": ["llorar", "leer", "relajarse"],
@@ -1641,7 +1641,7 @@
     },
     {
       "artista/banda": "Paramore",
-      "canción": "Ignorance",
+      "cancion": "Ignorance",
       "genero": "Alternative Rock / Emo",
       "emociones_relacionadas": ["furia", "desamor"],
       "actividades_afines": ["ejercicio", "gritar", "cantar"],
@@ -1650,7 +1650,7 @@
     },
     {
       "artista/banda": "Florence + The Machine",
-      "canción": "Shake It Out",
+      "cancion": "Shake It Out",
       "genero": "Indie Pop / Baroque Pop",
       "emociones_relacionadas": ["esperanza-optimismo", "frustracion"],
       "actividades_afines": ["meditar", "pasear", "trabajar-estudiar"],
@@ -1659,7 +1659,7 @@
     },
     {
       "artista/banda": "Radiohead",
-      "canción": "Creep",
+      "cancion": "Creep",
       "genero": "Alternative Rock",
       "emociones_relacionadas": ["desamor", "furia", "soledad"],
       "actividades_afines": ["llorar", "meditar", "cantar"],
@@ -1668,25 +1668,25 @@
     },
     {
       "artista/banda": "Coldplay",
-      "canción": "Up&Up",
+      "cancion": "Up&Up",
       "genero": "Alternative Rock",
-      "emociones_relacionadas": ["esperanza-optimismo", "relajacion"],
+      "emociones_relacionadas": ["esperanza-optimismo", "tranquilidad"],
       "actividades_afines": ["trabajar-estudiar", "meditar", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=BPNTC7uZYrI",
       "spotify_link": "https://open.spotify.com/intl-es/track/31L9yLXSj6LpCFupyMV6CR?si=3be91f25f373443b"
     },
     {
       "artista/banda": "Phoebe Bridgers",
-      "canción": "Motion Sickness",
+      "cancion": "Motion Sickness",
       "genero": "Indie Rock / Folk",
-      "emociones_relacionadas": ["soledad", "desamor", "relajacion"],
+      "emociones_relacionadas": ["soledad", "desamor", "tranquilidad"],
       "actividades_afines": ["leer", "meditar", "llorar"],
       "youtube_link": "https://www.youtube.com/watch?v=9sfYpolGCu8",
       "spotify_link": "https://open.spotify.com/intl-es/track/25Syi9wnfn6ZGAmiOBypPq?si=d4e9a3e834974846"
     },
     {
       "artista/banda": "Beyoncé",
-      "canción": "Run the World (Girls)",
+      "cancion": "Run the World (Girls)",
       "genero": "Pop / R&B",
       "emociones_relacionadas": ["empoderamiento", "energia", "motivacion"],
       "actividades_afines": ["bailar", "ejercicio", "cantar"],
@@ -1695,7 +1695,7 @@
     },
     {
       "artista/banda": "Aurora",
-      "canción": "Runaway",
+      "cancion": "Runaway",
       "genero": "Art Pop / Ambient",
       "emociones_relacionadas": ["soledad", "nostalgia", "melancolia"],
       "actividades_afines": ["leer", "relajarse", "meditar"],
@@ -1704,7 +1704,7 @@
     },
     {
       "artista/banda": "Katy Perry",
-      "canción": "Roar",
+      "cancion": "Roar",
       "genero": "Pop",
       "emociones_relacionadas": ["empoderamiento", "motivacion", "alegria"],
       "actividades_afines": ["cantar", "ejercicio", "trabajar-estudiar"],
@@ -1713,7 +1713,7 @@
     },
     {
       "artista/banda": "Nine Inch Nails",
-      "canción": "Hurt",
+      "cancion": "Hurt",
       "genero": "Industrial Rock / Alternative",
       "emociones_relacionadas": ["frustracion", "soledad"],
       "actividades_afines": ["meditar", "llorar", "leer"],
@@ -1722,7 +1722,7 @@
     },
     {
       "artista/banda": "Billie Eilish",
-      "canción": "bury a friend",
+      "cancion": "bury a friend",
       "genero": "Alternative / Electro-pop",
       "emociones_relacionadas": ["miedo", "ansiedad"],
       "actividades_afines": ["meditar", "reflexionar"],
@@ -1731,7 +1731,7 @@
     },
     {
       "artista/banda": "The Weeknd",
-      "canción": "Earned It",
+      "cancion": "Earned It",
       "genero": "R&B / Pop",
       "emociones_relacionadas": ["deseo", "romance"],
       "actividades_afines": ["bailar", "cantar"],
@@ -1740,7 +1740,7 @@
     },
     {
       "artista/banda": "Radiohead",
-      "canción": "Street Spirit (Fade Out)",
+      "cancion": "Street Spirit (Fade Out)",
       "genero": "Alternative Rock",
       "emociones_relacionadas": ["miedo", "soledad", "frustracion"],
       "actividades_afines": ["leer", "meditar", "reflexionar"],
@@ -1749,7 +1749,7 @@
     },
     {
       "artista/banda": "Lana Del Rey",
-      "canción": "Blue Jeans",
+      "cancion": "Blue Jeans",
       "genero": "Indie Pop / Dream Pop",
       "emociones_relacionadas": ["deseo", "desamor", "nostalgia"],
       "actividades_afines": ["cantar", "llorar", "leer"],
@@ -1758,7 +1758,7 @@
     },
     {
       "artista/banda": "Quevedo",
-      "canción": "Quédate (Bzrp Music Sessions, Vol. 52)",
+      "cancion": "Quédate (Bzrp Music Sessions, Vol. 52)",
       "genero": "Urbano / Reguetón",
       "emociones_relacionadas": ["deseo", "nostalgia", "energia"],
       "actividades_afines": ["fiesta", "bailar", "conducir"],
@@ -1767,7 +1767,7 @@
     },
     {
       "artista/banda": "Quevedo",
-      "canción": "Punto G",
+      "cancion": "Punto G",
       "genero": "Trap Latino / Urbano",
       "emociones_relacionadas": ["deseo", "romance"],
       "actividades_afines": ["bailar", "fiesta", "cantar"],
@@ -1776,7 +1776,7 @@
     },
     {
       "artista/banda": "Quevedo",
-      "canción": "Ahora Qué",
+      "cancion": "Ahora Qué",
       "genero": "Trap / Melancólico",
       "emociones_relacionadas": ["desamor", "frustracion", "soledad"],
       "actividades_afines": ["leer", "reflexionar", "llorar"],
@@ -1785,16 +1785,16 @@
     },
     {
       "artista/banda": "Quevedo",
-      "canción": "Vista al Mar",
+      "cancion": "Vista al Mar",
       "genero": "Pop Urbano / Chill",
-      "emociones_relacionadas": ["relajacion", "esperanza-optimismo", "deseo"],
+      "emociones_relacionadas": ["tranquilidad", "esperanza-optimismo", "deseo"],
       "actividades_afines": ["relajarse", "pasear", "meditar"],
       "youtube_link": "https://www.youtube.com/watch?v=1Rgc58HftaE",
       "spotify_link": "https://open.spotify.com/intl-es/track/5q86iSKkBtOoNkdgEDY5WV?si=1c2846172b9e413b"
     },
     {
       "artista/banda": "Quevedo",
-      "canción": "Wanda",
+      "cancion": "Wanda",
       "genero": "Trap / Experimental",
       "emociones_relacionadas": ["furia", "motivacion", "energia"],
       "actividades_afines": ["ejercicio", "conducir", "trabajar-estudiar"],
@@ -1803,7 +1803,7 @@
     },
     {
       "artista/banda": "Quevedo",
-      "canción": "Mr.Moondial",
+      "cancion": "Mr.Moondial",
       "genero": "Reguetón",
       "emociones_relacionadas": ["deseo", "euforia", "energia"],
       "actividades_afines": ["fiesta", "bailar", "conducir", "cantar"],
@@ -1812,16 +1812,16 @@
     },
     {
       "artista/banda": "Ed Sheeran",
-      "canción": "Perfect",
+      "cancion": "Perfect",
       "genero": "Pop / Balada romántica",
-      "emociones_relacionadas": ["romance", "relajacion", "alegria", ""],
+      "emociones_relacionadas": ["romance", "tranquilidad", "alegria", ""],
       "actividades_afines": ["boda", "bailar", "cantar"],
       "youtube_link": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
       "spotify_link": "https://open.spotify.com/intl-es/track/0tgVpDi06FyKpA1z0VMD4v?si=4d4bffc6581d4d6d"
     },
     {
       "artista/banda": "Jason Mraz",
-      "canción": "I'm Yours",
+      "cancion": "I'm Yours",
       "genero": "Pop acústico / Folk",
       "emociones_relacionadas": ["romance", "esperanza-optimismo", "alegria"],
       "actividades_afines": ["boda", "pasear", "relajarse"],
@@ -1830,7 +1830,7 @@
     },
     {
       "artista/banda": "John Legend",
-      "canción": "All of Me",
+      "cancion": "All of Me",
       "genero": "R&B / Balada",
       "emociones_relacionadas": [
         "esperanza-optimismo",
@@ -1843,7 +1843,7 @@
     },
     {
       "artista/banda": "Taylor Swift",
-      "canción": "Lover",
+      "cancion": "Lover",
       "genero": "Pop",
       "emociones_relacionadas": ["romance", "alegria"],
       "actividades_afines": ["boda", "leer", "relajarse"],
@@ -1852,7 +1852,7 @@
     },
     {
       "artista/banda": "Bruno Mars",
-      "canción": "Marry You",
+      "cancion": "Marry You",
       "genero": "Pop / Funk",
       "emociones_relacionadas": ["alegria", "romance", "empoderamiento"],
       "actividades_afines": ["boda", "bailar", "fiesta"],
@@ -1861,25 +1861,25 @@
     },
     {
       "artista/banda": "Zoé",
-      "canción": "Labios Rotos",
+      "cancion": "Labios Rotos",
       "genero": "Rock alternativo",
-      "emociones_relacionadas": ["romance", "melancolía", "nostalgia"],
+      "emociones_relacionadas": ["romance", "melancolia", "nostalgia"],
       "actividades_afines": ["leer", "relajarse", "conducir"],
       "youtube_link": "https://www.youtube.com/watch?v=7h2ryr_uUEs",
       "spotify_link": "https://open.spotify.com/intl-es/track/1nULBrlzWatdcjA2ZctIMv?si=2053b510b42a4077"
     },
     {
       "artista/banda": "Café Tacvba",
-      "canción": "Eres",
+      "cancion": "Eres",
       "genero": "Rock alternativo",
-      "emociones_relacionadas": ["romance", "esperanza", "alegría"],
+      "emociones_relacionadas": ["romance", "esperanza", "alegria"],
       "actividades_afines": ["boda", "cantar", "pasear/caminar"],
       "youtube_link": "https://www.youtube.com/watch?v=98Akpf1ph2o",
       "spotify_link": "https://open.spotify.com/intl-es/track/6kdCN6gTWLcLxmLXoUcwuI?si=68173f8257dc48fd"
     },
     {
       "artista/banda": "Reik",
-      "canción": "Noviembre Sin Ti",
+      "cancion": "Noviembre Sin Ti",
       "genero": "Pop",
       "emociones_relacionadas": ["tristeza", "soledad", "desamor"],
       "actividades_afines": ["llorar", "leer", "descansar"],
@@ -1888,19 +1888,19 @@
     },
     {
       "artista/banda": "Fuerza Regida",
-      "canción": "TQM",
+      "cancion": "TQM",
       "genero": "Regional Urbano",
-      "emociones_relacionadas": ["romance", "alegría", "deseo"],
+      "emociones_relacionadas": ["romance", "alegria", "deseo"],
       "actividades_afines": ["socializar", "bailar", "fiesta"],
       "youtube_link": "https://www.youtube.com/watch?v=IVSp9eDenfw",
       "spotify_link": "https://open.spotify.com/intl-es/track/368eeEO3Y2uZUQ6S5oIjcu?si=e0de104d4a1947a6"
     },
     {
       "artista/banda": "Fuerza Regida",
-      "canción": "Sigo Chambeando",
+      "cancion": "Sigo Chambeando",
       "genero": "Corridos tumbados",
       "emociones_relacionadas": [
-        "motivación",
+        "motivacion",
         "determinación",
         "empoderamiento"
       ],
@@ -1910,16 +1910,16 @@
     },
     {
       "artista/banda": "Joan Sebastian",
-      "canción": "Tatuajes",
+      "cancion": "Tatuajes",
       "genero": "Ranchera/Balada",
-      "emociones_relacionadas": ["romance", "melancolía", "desamor"],
+      "emociones_relacionadas": ["romance", "melancolia", "desamor"],
       "actividades_afines": ["leer", "relajarse", "cantar"],
       "youtube_link": "https://www.youtube.com/watch?v=AN9jsmZhSmg",
       "spotify_link": "https://open.spotify.com/intl-es/track/57dG9il4j7Hi7G8Cqgi0Ts?si=065b30d07d374af9"
     },
     {
       "artista/banda": "Los Tigres del Norte",
-      "canción": "La Puerta Negra",
+      "cancion": "La Puerta Negra",
       "genero": "Norteño",
       "emociones_relacionadas": ["rebeldía", "romance", "empoderamiento"],
       "actividades_afines": ["bailar", "fiesta", "conducir"],
@@ -1928,7 +1928,7 @@
     },
     {
       "artista/banda": "Banda El Recodo",
-      "canción": "Te Presumo",
+      "cancion": "Te Presumo",
       "genero": "Banda",
       "emociones_relacionadas": ["romance", "alegría", "orgullo"],
       "actividades_afines": ["bailar", "fiesta", "boda"],
@@ -1937,16 +1937,16 @@
     },
     {
       "artista/banda": "Ariel Camacho y Los Plebes del Rancho",
-      "canción": "Te Metiste",
+      "cancion": "Te Metiste",
       "genero": "Sierreño",
-      "emociones_relacionadas": ["amor", "nostalgia", "melancolía"],
+      "emociones_relacionadas": ["amor", "nostalgia", "melancolia"],
       "actividades_afines": ["leer", "relajarse", "cantar"],
       "youtube_link": "https://www.youtube.com/watch?v=cSxW59KalkA",
       "spotify_link": "https://open.spotify.com/intl-es/track/4KrXsgZHi1yLZLB1Wlgcbt?si=a538535147874483"
     },
     {
       "artista/banda": "Chalino Sánchez",
-      "canción": "Nieves de Enero",
+      "cancion": "Nieves de Enero",
       "genero": "Corrido",
       "emociones_relacionadas": ["nostalgia", "orgullo", "soledad"],
       "actividades_afines": ["cantar", "conducir", "relajarse", "bailar"],
@@ -1955,11 +1955,11 @@
     },
     {
       "artista/banda": "Banda los recoditos",
-      "canción": "Mi ultimo deseo",
+      "cancion": "Mi ultimo deseo",
       "genero": "Banda",
       "emociones_relacionadas": [
         "nostalgia",
-        "melancolía",
+        "melancolia",
         "alegria",
         "rebeldía",
         "euforia"
@@ -1970,7 +1970,7 @@
     },
     {
       "artista/banda": "Los Ángeles Azules",
-      "canción": "Nunca Es Suficiente",
+      "cancion": "Nunca Es Suficiente",
       "genero": "Cumbia",
       "emociones_relacionadas": ["romance", "nostalgia", "melancolia"],
       "actividades_afines": ["bailar", "fiesta", "socializar"],
@@ -1979,7 +1979,7 @@
     },
     {
       "artista/banda": "Bad Bunny",
-      "canción": "Baile Inolvidable",
+      "cancion": "Baile Inolvidable",
       "genero": "Salsa",
       "emociones_relacionadas": ["melancolia", "tristeza", "nostalgia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -1988,7 +1988,7 @@
     },
     {
       "artista/banda": "Rauw Alejandro",
-      "canción": "Tú Con Él",
+      "cancion": "Tú Con Él",
       "genero": "Salsa",
       "emociones_relacionadas": ["melancolia", "tristeza", "nostalgia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -1997,7 +1997,7 @@
     },
     {
       "artista/banda": "Bad Bunny",
-      "canción": "Vete",
+      "cancion": "Vete",
       "genero": "Reggaetón",
       "emociones_relacionadas": ["desamor", "tristeza", "nostalgia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -2006,7 +2006,7 @@
     },
     {
       "artista/banda": "Yung Beef",
-      "canción": "Rosas Azules",
+      "cancion": "Rosas Azules",
       "genero": "Trap",
       "emociones_relacionadas": ["desamor", "tristeza", "nostalgia"],
       "actividades_afines": ["llorar", "reflexionar"],
@@ -2015,7 +2015,7 @@
     },
     {
       "artista/banda": "Yung Beef",
-      "canción": "Religion",
+      "cancion": "Religion",
       "genero": "Reggaeton Experimental",
       "emociones_relacionadas": ["nostalgia", "energia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -2024,7 +2024,7 @@
     },
     {
       "artista/banda": "Yung Beef",
-      "canción": "Infierno",
+      "cancion": "Infierno",
       "genero": "Reggaeton Experimental",
       "emociones_relacionadas": ["nostalgia", "energia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -2033,7 +2033,7 @@
     },
     {
       "artista/banda": "Yung Beef",
-      "canción": "CAMINO SOLO",
+      "cancion": "CAMINO SOLO",
       "genero": "Reggaeton Experimental",
       "emociones_relacionadas": ["nostalgia", "energia"],
       "actividades_afines": ["bailar", "socializar", "fiesta"],
@@ -2042,7 +2042,7 @@
     },
     {
       "artista/banda": "Yung Beef ft. El Bogeto",
-      "canción": "Cuando No era Cantante",
+      "cancion": "Cuando No era Cantante",
       "genero": "Reggaeton Experimental",
       "emociones_relacionadas": ["nostalgia", "energia"],
       "actividades_afines": ["cantar", "bailar", "conducir"],
@@ -2051,7 +2051,7 @@
     },
     {
       "artista/banda": "Neton Vega ft. Oscar Maydon",
-      "canción": "Amigos? No",
+      "cancion": "Amigos? No",
       "genero": "Regional Mexicano",
       "emociones_relacionadas": ["desamor", "nostalgia", "tristeza"],
       "actividades_afines": ["llorar", "reflexionar", "cantar"],
@@ -2069,16 +2069,16 @@
     },
     {
       "artista/banda": "Metronomy",
-      "canción": "The Look",
+      "cancion": "The Look",
       "genero": "Indie Pop",
-      "emociones_relacionadas": ["nostalgia", "melancolía"],
+      "emociones_relacionadas": ["nostalgia", "melancolia"],
       "actividades_afines": ["bailar", "reflexionar"],
       "youtube_link": "https://www.youtube.com/watch?v=sFrNsSnk8GM",
       "spotify_link": "https://open.spotify.com/intl-es/track/6zfczP87XO2SxWlQtnjFNa?si=1f7812c5b7ce4ca0"
     },
     {
       "artista/banda": "The Weeknd",
-      "canción": "Save Your Tears",
+      "cancion": "Save Your Tears",
       "genero": "Synthpop",
       "emociones_relacionadas": ["tristeza", "nostalgia"],
       "actividades_afines": ["bailar", "cantar"],
@@ -2087,7 +2087,7 @@
     },
     {
       "artista/banda": "Tito Doble P",
-      "canción": "Rosones",
+      "cancion": "Rosones",
       "genero": "Corrido",
       "emociones_relacionadas": ["orgullo", "rebeldía", "euforia"],
       "actividades_afines": ["ejercicio", "cantar", "conducir"],
@@ -2096,7 +2096,7 @@
     },
     {
       "artista/banda": "Fuerza Regida",
-      "canción": "Excesos",
+      "cancion": "Excesos",
       "genero": "Corrido",
       "emociones_relacionadas": ["orgullo", "rebeldía", "euforia"],
       "actividades_afines": ["ejercicio", "cantar", "conducir"],
@@ -2105,7 +2105,7 @@
     },
     {
       "artista/banda": "Tito Doble P",
-      "canción": "BLANCA ROSITA Y MARIA",
+      "cancion": "BLANCA ROSITA Y MARIA",
       "genero": "Corrido",
       "emociones_relacionadas": ["orgullo", "rebeldía", "euforia"],
       "actividades_afines": ["ejercicio", "cantar", "conducir"],
@@ -2114,7 +2114,7 @@
     },
     {
       "artista/banda": "Tito Doble P",
-      "canción": "Nadie",
+      "cancion": "Nadie",
       "genero": "Corrido",
       "emociones_relacionadas": ["orgullo", "tristeza", "nostalgia", "euforia"],
       "actividades_afines": ["ejercicio", "cantar", "conducir"],
@@ -2123,7 +2123,7 @@
     },
     {
       "artista/banda": "Gloosito",
-      "canción": "El Single",
+      "cancion": "El Single",
       "genero": "Trap",
       "emociones_relacionadas": ["determinación", "energia", "orgullo"],
       "actividades_afines": ["ejercicio", "conducir", "trabajar/estudiar"],
@@ -2134,7 +2134,7 @@
       "artista/banda": "Jarabe de Palo",
       "cancion": "El lado oscuro",
       "genero": "Rock",
-      "emociones_relacionadas": ["nostalgia", "melancolía", "amor"],
+      "emociones_relacionadas": ["nostalgia", "melancolia", "amor"],
       "actividades_afines": ["leer", "reflexionar", "relajarse"],
       "youtube_link": "https://www.youtube.com/watch?v=jW89DwNY3Os",
       "spotify_link": "https://open.spotify.com/intl-es/track/3AR1c3Dssq51WlGGkuYJNj?si=ebbea4bb325e4ace"
@@ -2143,8 +2143,8 @@
       "artista/banda": "Bad Bunny ft. Jhay Cortez",
       "cancion": "DÁKITI",
       "genero": "Reggaetón",
-      "emociones_relacionadas": ["nostalgia", "melancolía", "amor"],
-      "actividades_afines": ["fiestas", "bailar", "socializar"],
+      "emociones_relacionadas": ["nostalgia", "melancolia", "amor"],
+      "actividades_afines": ["fiesta", "bailar", "socializar"],
       "youtube_link": "http://youtube.com/watch?v=475DMIsiuBw",
       "spotify_link": "https://open.spotify.com/intl-es/track/47EiUVwUp4C9fGccaPuUCS?si=f057b749a37a423b"
     },
@@ -2152,8 +2152,8 @@
       "artista/banda": "Rauw Alejandro",
       "cancion": "DIME QUIÉN ????",
       "genero": "Reggaetón",
-      "emociones_relacionadas": ["nostalgia", "melancolía"],
-      "actividades_afines": ["fiestas", "bailar", "socializar", "ejercicio"],
+      "emociones_relacionadas": ["nostalgia", "melancolia"],
+      "actividades_afines": ["fiesta", "bailar", "socializar", "ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=4565-VRqNDQ",
       "spotify_link": "https://open.spotify.com/intl-es/track/1ImWmtI7DM2uFPNJHHbD8g?si=7238ba2853214b5f"
     },
@@ -2161,8 +2161,8 @@
       "artista/banda": "Feid",
       "cancion": "FERXXO 151",
       "genero": "Reggaetón",
-      "emociones_relacionadas": ["amor", "relajacion", "energia"],
-      "actividades_afines": ["fiestas", "bailar", "socializar", "ejercicio"],
+      "emociones_relacionadas": ["amor", "tranquilidad", "energia"],
+      "actividades_afines": ["fiesta", "bailar", "socializar", "ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=ww7UQTDsPEc",
       "spotify_link": "https://open.spotify.com/intl-es/track/1LFXWfARjkBkc9Abofmgp8?si=5eea88e257b74385"
     },
@@ -2170,8 +2170,8 @@
       "artista/banda": "Feid",
       "cancion": "FELIZ CUMPLEAÑOS FERXXO",
       "genero": "Reggaetón",
-      "emociones_relacionadas": ["amor", "relajacion", "energia"],
-      "actividades_afines": ["fiestas", "bailar", "socializar", "ejercicio"],
+      "emociones_relacionadas": ["amor", "tranquilidad", "energia"],
+      "actividades_afines": ["fiesta", "bailar", "socializar", "ejercicio"],
       "youtube_link": "https://www.youtube.com/watch?v=jRxDUsGmwuc",
       "spotify_link": "https://open.spotify.com/intl-es/track/3kUq4sBcmxhnOtNysZ9yrp?si=760b71a922ff40bf"
     },
@@ -2179,7 +2179,7 @@
       "artista/banda": "Kidd Keo",
       "cancion": "0640",
       "genero": "Trap",
-      "emociones_relacionadas": ["nostalgia", "melancolía", "ansiedad"],
+      "emociones_relacionadas": ["nostalgia", "melancolia", "ansiedad"],
       "actividades_afines": ["pasear/caminar", "reflexionar", "conducir"],
       "youtube_link": "https://www.youtube.com/watch?v=_2ehsIBuavc",
       "spotify_link": "https://open.spotify.com/intl-es/track/2bM087MIz7P8wQLQLUyGDK?si=09e35a1d6f3f415c"
@@ -2188,323 +2188,939 @@
       "artista/banda": "Kidd Keo",
       "cancion": "Superstars",
       "genero": "Trap",
-      "emociones_relacionadas": ["nostalgia", "melancolía", "ansiedad"],
+      "emociones_relacionadas": ["nostalgia", "melancolia", "ansiedad"],
       "actividades_afines": ["pasear/caminar", "reflexionar", "conducir"],
       "youtube_link": "https://www.youtube.com/watch?v=HWHWU4izTd0",
       "spotify_link": "https://open.spotify.com/intl-es/track/0qSnsCozy8uz5XotSJMHUz?si=4110726879c44169"
     },
     {
-      "artista/banda":"Bad Bunny",
-      "canción":"DmTF",
-      "genero":"Reggaeton",
-      "emociones_relacionadas":["nostalgia","melancolía","ansiedad"],
-      "actividades_afines":["pasear/caminar","reflexionar","conducir"],
-      "youtube_link":"https://www.youtube.com/watch?v=v9T_MGfzq7I",
-      "spotify_link":"https://open.spotify.com/intl-es/track/3sK8wGT43QFpWrvNQsrQya?si=27423be04e2a4ed2"
+      "artista/banda": "Bad Bunny",
+      "cancion": "DmTF",
+      "genero": "Reggaeton",
+      "emociones_relacionadas": ["nostalgia", "melancolia", "ansiedad"],
+      "actividades_afines": ["pasear/caminar", "reflexionar", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=v9T_MGfzq7I",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3sK8wGT43QFpWrvNQsrQya?si=27423be04e2a4ed2"
     },
     {
-      "artista/banda":"Bad Bunny",
-      "canción":"Yo Perreo Sola",
-      "genero":"Reggaeton",
-      "emociones_relacionadas":["alegria","rebeldía","energia"],
-      "actividades_afines":["cantar","bailar","socializar"],
-      "youtube_link":"https://www.youtube.com/watch?v=GtSRKwDCaZM",
-      "spotify_link":"https://open.spotify.com/intl-es/track/0SqqAgdovOE24BzxIClpjw?si=b2707aa238fd4b43"
+      "artista/banda": "Bad Bunny",
+      "cancion": "Yo Perreo Sola",
+      "genero": "Reggaeton",
+      "emociones_relacionadas": ["alegria", "rebeldía", "energia"],
+      "actividades_afines": ["cantar", "bailar", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=GtSRKwDCaZM",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0SqqAgdovOE24BzxIClpjw?si=b2707aa238fd4b43"
     },
     {
-      "artista/banda":"Fuerza Regida",
-      "canción":"GodFather",
-      "genero":"Corrido",
-      "emociones_relacionadas":["alegria","rebeldía","energia"],
-      "actividades_afines":["cantar","conducir"],
-      "youtube_link":"https://www.youtube.com/watch?v=serneSItPvY&list=OLAK5uy_lp_B9lpeCJKduk2WbHKujzqhzkczr29Aw",
-      "spotify_link":"https://open.spotify.com/intl-es/track/6bIFNHJ6yLTDDHgYufk9i4?si=c8a4756cb76544c1"
+      "artista/banda": "Fuerza Regida",
+      "cancion": "GodFather",
+      "genero": "Corrido",
+      "emociones_relacionadas": ["alegria", "rebeldía", "energia"],
+      "actividades_afines": ["cantar", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=serneSItPvY&list=OLAK5uy_lp_B9lpeCJKduk2WbHKujzqhzkczr29Aw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6bIFNHJ6yLTDDHgYufk9i4?si=c8a4756cb76544c1"
     },
     {
-      "artista/banda":"Luis Miguel",
-      "canción":"Si Nos Dejan",
-      "genero":"Mariachi",
-      "emociones_relacionadas":["amor","esperanza","romance"],
-      "actividades_afines":["boda","cantar","socializar"],
-      "youtube_link":"https://www.youtube.com/watch?v=qQZvCgoaj7o",
-      "spotify_link":"https://open.spotify.com/intl-es/track/04kdbkyXKEGnbRxqLKjchb?si=15b9179b81c34f40"
+      "artista/banda": "Luis Miguel",
+      "cancion": "Si Nos Dejan",
+      "genero": "Mariachi",
+      "emociones_relacionadas": ["amor", "esperanza", "romance"],
+      "actividades_afines": ["boda", "cantar", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=qQZvCgoaj7o",
+      "spotify_link": "https://open.spotify.com/intl-es/track/04kdbkyXKEGnbRxqLKjchb?si=15b9179b81c34f40"
     },
     {
-     "artista/banda":"Luis Miguel",
-      "canción":"Sabes una cosa",
-      "genero":"Mariachi",
-      "emociones_relacionadas":["amor","esperanza","romance"],
-      "actividades_afines":["boda","cantar","socializar"],
-      "youtube_link":"https://www.youtube.com/watch?v=UuGrc3vvdMw",
-      "spotify_link":"https://open.spotify.com/intl-es/track/21Ullb4TU8qMsQd0Iselng?si=861910c2723b4fb8" 
-    },
-     {
-     "artista/banda":"Luis Miguel",
-      "canción":"La Gloria Eres Tú",
-      "genero":"Balada",
-      "emociones_relacionadas":["amor","esperanza","romance"],
-      "actividades_afines":["boda","cantar","socializar"],
-      "youtube_link":"https://www.youtube.com/watch?v=h-GSyBwKuGE",
-      "spotify_link":"https://open.spotify.com/intl-es/track/5SPUsNcUtRUpAPj7rJq7CD?si=3e3628ad2f274d3e" 
+      "artista/banda": "Luis Miguel",
+      "cancion": "Sabes una cosa",
+      "genero": "Mariachi",
+      "emociones_relacionadas": ["amor", "esperanza", "romance"],
+      "actividades_afines": ["boda", "cantar", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=UuGrc3vvdMw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/21Ullb4TU8qMsQd0Iselng?si=861910c2723b4fb8"
     },
     {
-      "artista/banda":"Bad Bunny",
-      "canción":"No Me Quiero Casar",
-      "genero":"Trap",
-      "emociones_relacionadas":["motivacion","rebeldía","energia"],
-      "actividades_afines":["ejercicio","conducir","trabajar/estudiar"],
-      "youtube_link":"https://www.youtube.com/watch?v=aCDxTTzRHbg",
-      "spotify_link":"https://open.spotify.com/intl-es/track/39L3LdlHS3gqB62HPWaJRg?si=1b74e7f06cc34aa4"
+      "artista/banda": "Luis Miguel",
+      "cancion": "La Gloria Eres Tú",
+      "genero": "Balada",
+      "emociones_relacionadas": ["amor", "esperanza", "romance"],
+      "actividades_afines": ["boda", "cantar", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=h-GSyBwKuGE",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5SPUsNcUtRUpAPj7rJq7CD?si=3e3628ad2f274d3e"
     },
     {
-      "artista/banda":"Calle 24",
-      "canción":"SUIZA",
-      "genero":"Corrido",
-      "emociones_relacionadas":["amor","romance","esperanza"],
-      "actividades_afines":["cantar","relajarse","soñar"],
-      "youtube_link":"https://www.youtube.com/watch?v=0YG_mJ3rqxg",
-      "spotify_link":"https://open.spotify.com/intl-es/track/7585wxMp2e3IhBq3tJAXgw?si=d6f4371453324d2f"
+      "artista/banda": "Bad Bunny",
+      "cancion": "No Me Quiero Casar",
+      "genero": "Trap",
+      "emociones_relacionadas": ["motivacion", "rebeldía", "energia"],
+      "actividades_afines": ["ejercicio", "conducir", "trabajar/estudiar"],
+      "youtube_link": "https://www.youtube.com/watch?v=aCDxTTzRHbg",
+      "spotify_link": "https://open.spotify.com/intl-es/track/39L3LdlHS3gqB62HPWaJRg?si=1b74e7f06cc34aa4"
     },
     {
-      "artista/banda":"Virlan Garcia",
-      "canción":"Sientes Lo Que Siento",
-      "genero":"Corrido",
-      "emociones_relacionadas":["amor","romance","esperanza"],
-      "actividades_afines":["cantar","relajarse","soñar"],
-      "youtube_link":"https://www.youtube.com/watch?v=_BcRXT8DUu0",
-      "spotify_link":"https://open.spotify.com/intl-es/track/4NPGGsTmm3JM4wOpWCT0T8?si=f3332436aab248f6"
+      "artista/banda": "Calle 24",
+      "cancion": "SUIZA",
+      "genero": "Corrido",
+      "emociones_relacionadas": ["amor", "romance", "esperanza"],
+      "actividades_afines": ["cantar", "relajarse", "soñar"],
+      "youtube_link": "https://www.youtube.com/watch?v=0YG_mJ3rqxg",
+      "spotify_link": "https://open.spotify.com/intl-es/track/7585wxMp2e3IhBq3tJAXgw?si=d6f4371453324d2f"
     },
     {
-      "artista/banda":"Fuerza Regida ft. Herencia De Patrones",
-      "canción":"Ladeando",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["rebeldía","energia","alegria"],
-      "actividades_afines":["fiesta","socializar"],
-      "youtube_link":"https://www.youtube.com/watch?v=izxk1wfxFh4",
-      "spotify_link":"https://open.spotify.com/intl-es/track/0vgqt0mRZmbb3b57i9p8wV?si=eaff245413fb426d"
+      "artista/banda": "Virlan Garcia",
+      "cancion": "Sientes Lo Que Siento",
+      "genero": "Corrido",
+      "emociones_relacionadas": ["amor", "romance", "esperanza"],
+      "actividades_afines": ["cantar", "relajarse", "soñar"],
+      "youtube_link": "https://www.youtube.com/watch?v=_BcRXT8DUu0",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4NPGGsTmm3JM4wOpWCT0T8?si=f3332436aab248f6"
     },
     {
-      "artista/banda":"Fuerza Regida",
-      "canción":"Me Acostumbre A Lo Bueno",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["rebeldía","energia","alegria"],
-      "actividades_afines":["fiesta","socializar"],
-      "youtube_link":"https://www.youtube.com/watch?v=oIT8woq6Tr4",
-      "spotify_link":"https://open.spotify.com/intl-es/track/1hHnCReCPe1FUkGLTeuCaC?si=e40f9f2c37bd44b6"
+      "artista/banda": "Fuerza Regida ft. Herencia De Patrones",
+      "cancion": "Ladeando",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["rebeldía", "energia", "alegria"],
+      "actividades_afines": ["fiesta", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=izxk1wfxFh4",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0vgqt0mRZmbb3b57i9p8wV?si=eaff245413fb426d"
     },
     {
-      "artista/banda":"Fuerza Regida",
-      "canción":"Descansando",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["nostalgia","tristeza","soledad"],
-      "actividades_afines":["llorar","cantar","reflexionar"],
-      "youtube_link":"https://www.youtube.com/watch?v=Zvk2LH-ITLs",
-      "spotify_link":"https://open.spotify.com/intl-es/track/3QXBaUQ8iwP2WI1GpQIP18?si=d5ee3f337e914978"
-    },    
+      "artista/banda": "Fuerza Regida",
+      "cancion": "Me Acostumbre A Lo Bueno",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["rebeldía", "energia", "alegria"],
+      "actividades_afines": ["fiesta", "socializar"],
+      "youtube_link": "https://www.youtube.com/watch?v=oIT8woq6Tr4",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1hHnCReCPe1FUkGLTeuCaC?si=e40f9f2c37bd44b6"
+    },
+    {
+      "artista/banda": "Fuerza Regida",
+      "cancion": "Descansando",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["nostalgia", "tristeza", "soledad"],
+      "actividades_afines": ["llorar", "cantar", "reflexionar"],
+      "youtube_link": "https://www.youtube.com/watch?v=Zvk2LH-ITLs",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3QXBaUQ8iwP2WI1GpQIP18?si=d5ee3f337e914978"
+    },
     {
       "artista/banda": "Junior H",
-      "canción": "MIENTRAS DUERMES",
+      "cancion": "MIENTRAS DUERMES",
       "genero": "Corridos tumbados",
       "emociones_relacionadas": ["tristeza", "desamor"],
-      "actividades_afines": ["llorar","cantar","fiesta"],
+      "actividades_afines": ["llorar", "cantar", "fiesta"],
       "youtube_link": "https://www.youtube.com/watch?v=HJ9Mzq_wYSc",
       "spotify_link": "https://open.spotify.com/intl-es/track/4e76Ss3ji7HQZ4qwcPNkNA?si=095364723d8e435b"
     },
-        {
+    {
       "artista/banda": "Junior H",
-      "canción": "A TU NOMBRE",
+      "cancion": "A TU NOMBRE",
       "genero": "Corridos tumbados",
       "emociones_relacionadas": ["tristeza", "desamor"],
-      "actividades_afines": ["llorar","cantar","fiesta"],
+      "actividades_afines": ["llorar", "cantar", "fiesta"],
       "youtube_link": "https://www.youtube.com/watch?v=uRLiZDnndiY",
       "spotify_link": "https://open.spotify.com/intl-es/track/0ItgotO5txriRAp6lXMHJ7?si=41a523d733a64bdb"
     },
     {
       "artista/banda": "Junior H",
-      "canción": "PIENSALO",
+      "cancion": "PIENSALO",
       "genero": "Corridos tumbados",
       "emociones_relacionadas": ["tristeza", "desamor"],
-      "actividades_afines": ["llorar","cantar","fiesta"],
+      "actividades_afines": ["llorar", "cantar", "fiesta"],
       "youtube_link": "https://www.youtube.com/watch?v=p-jvK8SOoF8",
       "spotify_link": "https://open.spotify.com/intl-es/track/4ZOkfHC38nxSeSqzGE5HFr?si=72a9a161f09b4167"
     },
     {
-      "artista/banda":"C.R.O",
-      "canción":"Por La Carretera",
-      "genero":"Rock",
-      "emociones_relacionadas":["nostalgia","melancolía","desamor"],
-      "actividades_afines":["llorar","reflexionar","conducir"],
-      "youtube_link":"https://www.youtube.com/watch?v=xXQnqH-TZ40",
-      "spotify_link":"https://open.spotify.com/intl-es/track/5F9jYHqQdA5SNFTfIamzfJ?si=f00f80fb335a4c31"
+      "artista/banda": "C.R.O",
+      "cancion": "Por La Carretera",
+      "genero": "Rock",
+      "emociones_relacionadas": ["nostalgia", "melancolia", "desamor"],
+      "actividades_afines": ["llorar", "reflexionar", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=xXQnqH-TZ40",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5F9jYHqQdA5SNFTfIamzfJ?si=f00f80fb335a4c31"
     },
     {
-      "artista/banda":"Fuerza Regida ft. Grupo Frontera",
-      "canción":"Me Jalo",
-      "genero":"Regional Mexicano",
-      "emociones_relacionadas":["nostalgia","melancolía","desamor"],
-      "actividades_afines":["cantar","relajarse","conducir"],
-      "youtube_link":"https://www.youtube.com/watch?v=nKX8ZNzuvNs",
-      "spotify_link":"https://open.spotify.com/intl-es/track/3D24ErT1MMmUfXWotSj2A2?si=490f40edf01a49e9"
+      "artista/banda": "Fuerza Regida ft. Grupo Frontera",
+      "cancion": "Me Jalo",
+      "genero": "Regional Mexicano",
+      "emociones_relacionadas": ["nostalgia", "melancolia", "desamor"],
+      "actividades_afines": ["cantar", "relajarse", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=nKX8ZNzuvNs",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3D24ErT1MMmUfXWotSj2A2?si=490f40edf01a49e9"
     },
     {
-      "artista/banda":"Oscar Maydon",
-      "canción":"Arriba el dinero",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["motivacion","rebeldía","empoderamiento"],
-      "actividades_afines":["cantar","trabajar/estudiar","conducir"],
-      "youtube_link":"https://www.youtube.com/watch?v=uR-X_yz0QwA",
-      "spotify_link":"https://open.spotify.com/intl-es/track/4jVd1Xova7vf73EVhqzljt?si=64abd02ded624780"
+      "artista/banda": "Oscar Maydon",
+      "cancion": "Arriba el dinero",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["motivacion", "rebeldía", "empoderamiento"],
+      "actividades_afines": ["cantar", "trabajar/estudiar", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=uR-X_yz0QwA",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4jVd1Xova7vf73EVhqzljt?si=64abd02ded624780"
     },
     {
-      "artista/banda":"Junior H",
-      "canción":"El Hijo Mayor",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["motivacion","rebeldía","empoderamiento"],
-      "actividades_afines":["cantar","trabajar/estudiar","conducir"],
-      "youtube_link":"https://www.youtube.com/watch?v=whSQQKjnaqc",
-      "spotify_link":"https://open.spotify.com/intl-es/track/1RGlfmdvcfatN0ZLOmzanS?si=27f3db08fb884978"
+      "artista/banda": "Junior H",
+      "cancion": "El Hijo Mayor",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["motivacion", "rebeldía", "empoderamiento"],
+      "actividades_afines": ["cantar", "trabajar/estudiar", "conducir"],
+      "youtube_link": "https://www.youtube.com/watch?v=whSQQKjnaqc",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1RGlfmdvcfatN0ZLOmzanS?si=27f3db08fb884978"
     },
     {
-      "artista/banda":"Fazini",
-      "canción":"Good Deals",
-      "genero":"Rap",
-      "emociones_relacionadas":["orgullo","romance","autenticidad"],
-      "actividades_afines":["descansar","reflexionar","relajarse"],
-      "youtube_link":"https://youtu.be/iabrGMmL9yM?si=H_0xLU5kQzDfNd9G",
-      "spotify_link":"https://open.spotify.com/intl-es/track/5HUL4cXkHLhQkwMAF9PUps?si=ce5c6de1c57a4654"
+      "artista/banda": "Fazini",
+      "cancion": "Good Deals",
+      "genero": "Rap",
+      "emociones_relacionadas": ["orgullo", "romance", "autenticidad"],
+      "actividades_afines": ["descansar", "reflexionar", "relajarse"],
+      "youtube_link": "https://youtu.be/iabrGMmL9yM?si=H_0xLU5kQzDfNd9G",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5HUL4cXkHLhQkwMAF9PUps?si=ce5c6de1c57a4654"
     },
     {
-      "artista/banda":"kaydy Cain, Cookin Soul, Israel B",
-      "canción":"wildstyle",
-      "genero":"Trap",
-      "emociones_relacionadas":["determinación","esperanza","empoderamiento"],
-      "actividades_afines":["descansar","reflexionar","relajarse"],
-      "youtube_link":"https://youtu.be/Ykz0b2Z_s2U?si=kY5kFw1JL3rAVwJ8",
-      "spotify_link":"https://open.spotify.com/intl-es/track/1y1QJfGEWxY01XrmcK2a6c?si=d934ffc63446449a"
+      "artista/banda": "kaydy Cain, Cookin Soul, Israel B",
+      "cancion": "wildstyle",
+      "genero": "Trap",
+      "emociones_relacionadas": [
+        "determinación",
+        "esperanza",
+        "empoderamiento"
+      ],
+      "actividades_afines": ["descansar", "reflexionar", "relajarse"],
+      "youtube_link": "https://youtu.be/Ykz0b2Z_s2U?si=kY5kFw1JL3rAVwJ8",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1y1QJfGEWxY01XrmcK2a6c?si=d934ffc63446449a"
     },
     {
-      "artista/banda":"Junior H",
-      "canción":"Lokeron X Amor",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["melancolía","rebeldía","desamor"],
-      "actividades_afines":["cantar","conducir","llorar"],
-      "youtube_link":"https://youtu.be/oSeP_Fx7Ctw?si=C90kPxcZxdvE8Avw",
-      "spotify_link":"https://open.spotify.com/intl-es/track/0OG0qjJ9gN85kWZtIzW5uS?si=1b9d35536a504a67"
+      "artista/banda": "Junior H",
+      "cancion": "Lokeron X Amor",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["melancolia", "rebeldía", "desamor"],
+      "actividades_afines": ["cantar", "conducir", "llorar"],
+      "youtube_link": "https://youtu.be/oSeP_Fx7Ctw?si=C90kPxcZxdvE8Avw",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0OG0qjJ9gN85kWZtIzW5uS?si=1b9d35536a504a67"
     },
     {
-      "artista/banda":"Tito double P, Joel de la P, Luis R Conriquez",
-      "canción":"Dembow Belico",
-      "genero":"Dembow",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["fiesta","cantar","bailar"],
-      "youtube_link":"https://youtu.be/tlH87eL5Voo?si=Emqydk4j5cY5U25j",
-      "spotify_link":"https://open.spotify.com/intl-es/track/0FkD2FHEZrZIofVkY6XPFK?si=8b4d4c5066ad436b"
+      "artista/banda": "Tito double P, Joel de la P, Luis R Conriquez",
+      "cancion": "Dembow Belico",
+      "genero": "Dembow",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["fiesta", "cantar", "bailar"],
+      "youtube_link": "https://youtu.be/tlH87eL5Voo?si=Emqydk4j5cY5U25j",
+      "spotify_link": "https://open.spotify.com/intl-es/track/0FkD2FHEZrZIofVkY6XPFK?si=8b4d4c5066ad436b"
     },
     {
-      "artista/banda":"Herencia de Patrones",
-      "canción":"Cosas de la Clika",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"https://youtu.be/cdQypX2Q9TE?si=sV4kyJOupmMjFmQF",
-      "spotify_link":"https://open.spotify.com/intl-es/track/6ZyRBFspc4a4seZam5Hi8Z?si=a0d507be339e4aad"
-
-    },
-    {"artista/banda":"Oscar Maydon",
-      "canción":"Bye",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["desamor","empoderamiento","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"https://youtu.be/ej2NWvSASHk?si=QOkChfHDg3wi1PfC",
-      "spotify_link":"https://open.spotify.com/intl-es/track/7FI04jmsPiLOz4GfpnCw3M?si=89fa899c9d794c6f"
-    },
-    {"artista/banda":"Oscar Maydon, Fuerza Regida",
-      "canción":"Tu Boda",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["desamor","tristeza","nostalgia"],
-      "actividades_afines":["reflexionar","cantar","llorar"],
-      "youtube_link":"https://youtu.be/_ymicn0_GYc?si=NmDQ6ocKLBEKDFdW",
-      "spotify_link":"https://open.spotify.com/intl-es/track/1cOboCuWYI2osTOfolMRS6?si=14888a66e57f4772"
-    },
-      {"artista/banda":"Remmy Valenzuela",
-      "canción":"Treinta Carta",
-      "genero":"Corridos",
-      "emociones_relacionadas":["desamor","tristeza","nostalgia"],
-      "actividades_afines":["reflexionar","cantar","llorar"],
-      "youtube_link":"https://www.youtube.com/watch?v=fl1YpUTw9dY",
-      "spotify_link":"https://open.spotify.com/intl-es/track/6v6UM77NcWjb9yfF3Abj4q?si=e6fe1a8d25004278"
+      "artista/banda": "Herencia de Patrones",
+      "cancion": "Cosas de la Clika",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "https://youtu.be/cdQypX2Q9TE?si=sV4kyJOupmMjFmQF",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6ZyRBFspc4a4seZam5Hi8Z?si=a0d507be339e4aad"
     },
     {
-       "artista/banda":"T3R Elemento",
-      "canción":"De Periodico Un Gallito",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"https://www.youtube.com/watch?v=jHiEzhfNgaQ",
-      "spotify_link":"https://open.spotify.com/intl-es/track/5teILTGkJkSJXI03XeMIj2?si=ad088f28b27a4aa7"
+      "artista/banda": "Oscar Maydon",
+      "cancion": "Bye",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["desamor", "empoderamiento", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "https://youtu.be/ej2NWvSASHk?si=QOkChfHDg3wi1PfC",
+      "spotify_link": "https://open.spotify.com/intl-es/track/7FI04jmsPiLOz4GfpnCw3M?si=89fa899c9d794c6f"
     },
     {
-      "artista/banda":"T3R Elemento",
-      "canción":"Rafa Caro",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"https://www.youtube.com/watch?v=GhGZ79cTV50",
-      "spotify_link":"https://open.spotify.com/intl-es/track/2ESHwuLxQwjSrL1ukzVHVq?si=49693bd84bdf4a26"
+      "artista/banda": "Oscar Maydon, Fuerza Regida",
+      "cancion": "Tu Boda",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["desamor", "tristeza", "nostalgia"],
+      "actividades_afines": ["reflexionar", "cantar", "llorar"],
+      "youtube_link": "https://youtu.be/_ymicn0_GYc?si=NmDQ6ocKLBEKDFdW",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1cOboCuWYI2osTOfolMRS6?si=14888a66e57f4772"
     },
     {
-      "artista/banda":"Legado 7",
-      "canción":"El Afro",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"https://www.youtube.com/watch?v=6W-6PHfJBJM",
-      "spotify_link":"https://open.spotify.com/intl-es/track/1DoeAYZPdp1RPea7cqDH4m?si=78ca54048cde4d70"
+      "artista/banda": "Remmy Valenzuela",
+      "cancion": "Treinta Carta",
+      "genero": "Corridos",
+      "emociones_relacionadas": ["desamor", "tristeza", "nostalgia"],
+      "actividades_afines": ["reflexionar", "cantar", "llorar"],
+      "youtube_link": "https://www.youtube.com/watch?v=fl1YpUTw9dY",
+      "spotify_link": "https://open.spotify.com/intl-es/track/6v6UM77NcWjb9yfF3Abj4q?si=e6fe1a8d25004278"
     },
     {
-      "artista/banda":"Legado 7",
-      "canción":"On D Gas",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"https://www.youtube.com/watch?v=qeUJ7sCq3KA",
-      "spotify_link":"https://open.spotify.com/intl-es/track/2HSqF98IZ3OIGVUHHUwGdV?si=55ea5633093a46c1"
+      "artista/banda": "T3R Elemento",
+      "cancion": "De Periodico Un Gallito",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "https://www.youtube.com/watch?v=jHiEzhfNgaQ",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5teILTGkJkSJXI03XeMIj2?si=ad088f28b27a4aa7"
     },
     {
-      "artista/banda":"Junior H",
-      "canción":"Como Jordan",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"http://youtube.com/watch?v=c3leZjDDFI8",
-      "spotify_link":"https://open.spotify.com/intl-es/track/2q7DY7bBua9e9Aygmz8XmB?si=dc82c3ddc1d24972"
+      "artista/banda": "T3R Elemento",
+      "cancion": "Rafa Caro",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "https://www.youtube.com/watch?v=GhGZ79cTV50",
+      "spotify_link": "https://open.spotify.com/intl-es/track/2ESHwuLxQwjSrL1ukzVHVq?si=49693bd84bdf4a26"
     },
     {
-      "artista/banda":"Junior H",
-      "canción":"Mente Positiva",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"http://youtube.com/watch?v=KW-KtaT2kJQ",
-      "spotify_link":"https://open.spotify.com/intl-es/track/3WQilym5Vi4ypxb70vx0eY?si=dc00875584274b0c"
+      "artista/banda": "Legado 7",
+      "cancion": "El Afro",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "https://www.youtube.com/watch?v=6W-6PHfJBJM",
+      "spotify_link": "https://open.spotify.com/intl-es/track/1DoeAYZPdp1RPea7cqDH4m?si=78ca54048cde4d70"
     },
     {
-      "artista/banda":"Fuerza Regida",
-      "canción":"Me Jalé Pal Antro",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"http://youtube.com/watch?v=lbAPxY-8Wsk",
-      "spotify_link":"https://open.spotify.com/intl-es/track/4wlmbB1rquZGIvgtQndhXm?si=c2917eb2257447d1"
+      "artista/banda": "Legado 7",
+      "cancion": "On D Gas",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "https://www.youtube.com/watch?v=qeUJ7sCq3KA",
+      "spotify_link": "https://open.spotify.com/intl-es/track/2HSqF98IZ3OIGVUHHUwGdV?si=55ea5633093a46c1"
     },
     {
-      "artista/banda":"Grupo Los de la O",
-      "canción":"Fuga Pa Cali 2",
-      "genero":"Corridos tumbados",
-      "emociones_relacionadas":["euforia","energia","rebeldía"],
-      "actividades_afines":["conducir","cantar","relajarse"],
-      "youtube_link":"http://youtube.com/watch?v=Yy_eZ65jzmo",
-      "spotify_link":"https://open.spotify.com/intl-es/track/5IdyvWCaUa7AgTxMsFj0wB?si=0fb02f3db9d24c59"
+      "artista/banda": "Junior H",
+      "cancion": "Como Jordan",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "http://youtube.com/watch?v=c3leZjDDFI8",
+      "spotify_link": "https://open.spotify.com/intl-es/track/2q7DY7bBua9e9Aygmz8XmB?si=dc82c3ddc1d24972"
+    },
+    {
+      "artista/banda": "Junior H",
+      "cancion": "Mente Positiva",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "http://youtube.com/watch?v=KW-KtaT2kJQ",
+      "spotify_link": "https://open.spotify.com/intl-es/track/3WQilym5Vi4ypxb70vx0eY?si=dc00875584274b0c"
+    },
+    {
+      "artista/banda": "Fuerza Regida",
+      "cancion": "Me Jalé Pal Antro",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "http://youtube.com/watch?v=lbAPxY-8Wsk",
+      "spotify_link": "https://open.spotify.com/intl-es/track/4wlmbB1rquZGIvgtQndhXm?si=c2917eb2257447d1"
+    },
+    {
+      "artista/banda": "Grupo Los de la O",
+      "cancion": "Fuga Pa Cali 2",
+      "genero": "Corridos tumbados",
+      "emociones_relacionadas": ["euforia", "energia", "rebeldía"],
+      "actividades_afines": ["conducir", "cantar", "relajarse"],
+      "youtube_link": "http://youtube.com/watch?v=Yy_eZ65jzmo",
+      "spotify_link": "https://open.spotify.com/intl-es/track/5IdyvWCaUa7AgTxMsFj0wB?si=0fb02f3db9d24c59"
+    },
+    {
+      "artista/banda": "Soap",
+      "cancion": "Lockdown Love",
+      "genero": "Bedroom Pop",
+      "emociones_relacionadas": ["soledad", "desamor", "nostalgia"],
+      "actividades_afines": ["leer", "conducir", "dormir", "relajarse"],
+      "youtube_link": "https://youtu.be/ZK10xsVjGCc?si=m0jGfBDU7pcpyJ2Q",
+      "spotify_link": "https://open.spotify.com/track/5iG134rEozjxMO3PypKhSP?si=705b38e7a9534528"
+    },
+    {
+      "artista/banda": "Cuco",
+      "cancion": "Forevermore",
+      "genero": "Bedroom Pop",
+      "emociones_relacionadas": ["melancolia", "nostalgia", "soledad"],
+      "actividades_afines": ["leer", "conducir", "dormir", "relajarse"],
+      "youtube_link": "https://youtu.be/ZwVF2KFPtwA?si=6n_tWFWodEpJsYy2",
+      "spotify_link": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54?si=7eb26f578f464bc1"
+    },
+    {
+      "artista/banda": "Nikita Kryukov",
+      "cancion": "Milk!",
+      "genero": "Alternative",
+      "emociones_relacionadas": ["miedo", "ansiedad"],
+      "actividades_afines": ["leer"],
+      "youtube_link": "https://youtu.be/wynxJt2wG3s?si=DAN-eQjekk27c5TU",
+      "spotify_link": "https://open.spotify.com/track/3ggaq76IsBTPaABx6Efwtp?si=fee004e655114d65"
+    },
+    {
+      "artista/banda": "Crossing Bridges",
+      "cancion": "they're hiding in plain sight. can't you see?",
+      "genero": "Alternative",
+      "emociones_relacionadas": ["miedo", "ansiedad"],
+      "actividades_afines": ["leer"],
+      "youtube_link": "",
+      "spotify_link": "https://open.spotify.com/track/6WfgSew20UpILvUSJnaDfJ?si=6aab89f62d144e02"
+    },
+    {
+      "artista/banda": "Jósean Log",
+      "cancion": "Beso",
+      "genero": "Alternative",
+      "emociones_relacionadas": ["deseo", "romance"],
+      "actividades_afines": [
+        "leer",
+        "conducir",
+        "dormir",
+        "relajarse",
+        "conducir"
+      ],
+      "youtube_link": "https://youtu.be/QESagb08FYs?si=nkFR7kiTnFFH9C4U",
+      "spotify_link": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22?si=afbf161f08e24b61"
+    },
+    {
+      "artista/banda": "Kanye West",
+      "cancion": "POWER",
+      "genero": "Hip Hop",
+      "emociones_relacionadas": ["empoderamiento", "euforia", "energia"],
+      "actividades_afines": [
+        "ejercicio",
+        "conducir",
+        "trabajar-estudiar",
+        "fiesta"
+      ],
+      "youtube_link": "https://youtu.be/chPDTUjnWgA?si=NynMz572q9J6meBD",
+      "spotify_link": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc?si=ffd5b38559ef4333"
+    },
+    {
+      "artista/banda": "About Damn Time",
+      "cancion": "Lizzo",
+      "genero": "Disco",
+      "emociones_relacionadas": ["energia", "euforia", "felicidad"],
+      "actividades_afines": [
+        "ejercicio",
+        "conducir",
+        "trabajar-estudiar",
+        "fiesta"
+      ],
+      "youtube_link": "https://youtu.be/IXXxciRUMzE?si=MH7t-lP6o15BS-2Z",
+      "spotify_link": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3?si=7f8a6248e26b4808"
+    },
+    {
+      "artista/banda": "ABBA",
+      "cancion": "The WInner Takes It All",
+      "genero": "Pop",
+      "emociones_relacionadas": ["frustracion", "desamor", "nostalgia"],
+      "actividades_afines": [
+        "conducir",
+        "cocinar-comer",
+        "cantar",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/92cwKCU8Z5c?si=Q46OArVFJ9Pl-mps",
+      "spotify_link": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV?si=a7b6c397357c4735"
+    },
+    {
+      "artista/banda": "Joji",
+      "cancion": "SLOW DANCING IN THE DARK",
+      "genero": "Pop",
+      "emociones_relacionadas": [
+        "frustracion",
+        "tranquilidad",
+        "desamor",
+        "soledad"
+      ],
+      "actividades_afines": [
+        "leer",
+        "conducir",
+        "cocinar-comer",
+        "cantar",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/K3Qzzggn--s?si=-If-mEeTl4O9hxvM",
+      "spotify_link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW?si=ece512f57f864e48"
+    },
+    {
+      "artista/banda": "Tronco",
+      "cancion": "No Entiendo Nada",
+      "genero": "Folk",
+      "emociones_relacionadas": [
+        "ansiedad",
+        "romance",
+        "esperanza-optimismo",
+        "motivacion"
+      ],
+      "actividades_afines": ["leer", "relajarse", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/XMIgAbv5CrA?si=BKM177LbspaifS8g",
+      "spotify_link": "https://open.spotify.com/track/16z6wcKxeT1IOhCpTvYotR?si=c083e1c67bf64e07"
+    },
+    {
+      "artista/banda": "arrecí0",
+      "cancion": "invierno/verano (de mierda)",
+      "genero": "Tontipop",
+      "emociones_relacionadas": [
+        "energia",
+        "desamor",
+        "nostalgia",
+        "frustracion"
+      ],
+      "actividades_afines": [
+        "conducir",
+        "cocinar-comer",
+        "cantar",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/ZHnnGljOPzk?si=nZ87yyZZPIsebgaC",
+      "spotify_link": "https://open.spotify.com/track/4AB8CmFbtVoCzBEhBuPiIy?si=b50668cbcf244847"
+    },
+    {
+      "artista/banda": "Axolotes Mexicanos",
+      "cancion": "Domingo",
+      "genero": "Tontipop",
+      "emociones_relacionadas": ["energia", "romance", "esperanza-optimismo"],
+      "actividades_afines": [
+        "cantar",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/lzfIEc4NARU?si=-TppXhCVi5yHGvQe",
+      "spotify_link": "https://open.spotify.com/track/5FEOVA8EUpTosCVn8QHugV?si=c1de9f26e5e94507"
+    },
+    {
+      "artista/banda": "Poder Fantasma",
+      "cancion": "Todxs Me Caen Mal",
+      "genero": "Tontipop",
+      "emociones_relacionadas": ["furia", "empoderamiento"],
+      "actividades_afines": ["relajarse", "dormir", "cantar"],
+      "youtube_link": "https://youtu.be/FhJG5u1Za18?si=XOXULpwtpbbgv84X",
+      "spotify_link": "https://open.spotify.com/track/53uatmOzCSSwua17nQc0Va?si=7c99c14d64d345b2"
+    },
+    {
+      "artista/banda": "Las Petunias",
+      "cancion": "SHHH!!!",
+      "genero": "Punk Pop",
+      "emociones_relacionadas": ["furia", "empoderamiento", "energia"],
+      "actividades_afines": [
+        "cantar",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/Uxev3kQVRVQ?si=towRTW63osDt5Vdv",
+      "spotify_link": "https://open.spotify.com/track/18DCh25R6p5C1QzDWbRBPG?si=4ba21b112e7640cf"
+    },
+    {
+      "artista/banda": "julia amor",
+      "cancion": "te quiero tanto que quiero llorar",
+      "genero": "Pop",
+      "emociones_relacionadas": [
+        "tristeza",
+        "tranquilidad",
+        "frustracion",
+        "ansiedad"
+      ],
+      "actividades_afines": ["cantar", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/u6rmfUkk6OM?si=NYGVDT0yhrDUYGwy",
+      "spotify_link": "https://open.spotify.com/track/3KNgZUpim6VHp6BYukbXQf?si=01b38332bce6424c"
+    },
+    {
+      "artista/banda": "MC Virgins",
+      "cancion": "MINUTE MAID!",
+      "genero": "Hip Hop",
+      "emociones_relacionadas": ["energia", "deseo", "euforia"],
+      "actividades_afines": ["ejercicio", "conducir"],
+      "youtube_link": "https://youtu.be/36a9OGePe-8?si=xbeIOhvBCWImvLjB",
+      "spotify_link": "https://open.spotify.com/track/0I9WzbzK2aOlkCQPOqsSIG?si=1bf90e53d38c401d"
+    },
+    {
+      "artista/banda": "Yamafutatsu",
+      "cancion": "Hashirimizu",
+      "genero": "J-Pop",
+      "emociones_relacionadas": ["tranquilidad"],
+      "actividades_afines": ["leer", "conducir", "cocinar-comer", "dormir"],
+      "youtube_link": "https://youtu.be/coiukBr7-40?si=TEb2T1Cx9xGJ9J0K",
+      "spotify_link": "https://open.spotify.com/track/1oy1mU2ylbsj8oJcJ9PzPf?si=c948aa73ef124a2a"
+    },
+    {
+      "artista/banda": "peanut butters",
+      "cancion": "she so come!!!",
+      "genero": "J-Pop",
+      "emociones_relacionadas": ["energia", "euforia", "motivacion"],
+      "actividades_afines": ["conducir", "cocinar-comer", "ejercicio"],
+      "youtube_link": "https://youtu.be/pMvBWmwwRU8?si=WKe9oQw6mFKn0q3G",
+      "spotify_link": "https://open.spotify.com/track/383pPb2AGRE1v67OyNN4JG?si=93e07b7ea400471f"
+    },
+    {
+      "artista/banda": "Karl Flodin",
+      "cancion": "Through The Glades, Pt.1",
+      "genero": "Electronic",
+      "emociones_relacionadas": ["alegria", "energia"],
+      "actividades_afines": ["leer", "ejercicio"],
+      "youtube_link": "https://youtu.be/XY96BTP1SGs?si=8pqF1hqLj2G13Qs_",
+      "spotify_link": "https://open.spotify.com/track/0xGTpLM9APicnEWRatCLmf?si=2197ab3d28df4e13"
+    },
+    {
+      "artista/banda": "M|O|O|N",
+      "cancion": "Hydrogen",
+      "genero": "Dance / Electronic",
+      "emociones_relacionadas": ["energia", "alegria"],
+      "actividades_afines": ["leer", "ejercicio"],
+      "youtube_link": "https://youtu.be/SNE2oCZH_4k?si=OD_GuywUV8zXhiZq",
+      "spotify_link": "https://open.spotify.com/track/6vc7GNW3FxMkgKuProVOoB?si=8eb480f32dad4ad5"
+    },
+    {
+      "artista/banda": "Laufey",
+      "cancion": "From The Start",
+      "genero": "Jazz Pop",
+      "emociones_relacionadas": ["romance", "nostalgia"],
+      "actividades_afines": ["boda, relajarse", "cantar"],
+      "youtube_link": "https://youtu.be/lSD_L-xic9o?si=KzdEKvGnAhvHShmM",
+      "spotify_link": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN?si=ace41e8b525c49db"
+    },
+    {
+      "artista/banda": "Ed Sheeran",
+      "cancion": "Thinking out Loud",
+      "genero": "Ballad",
+      "emociones_relacionadas": ["romance", "nostalgia", "tranquilidad"],
+      "actividades_afines": ["relajarse", "cantar", "boda"],
+      "youtube_link": "https://youtu.be/lp-EO5I60KA?si=6P063_2C_vMtZk6W",
+      "spotify_link": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f?si=326cb16994a540e8"
+    },
+    {
+      "artista/banda": "Ed Sheeran",
+      "cancion": "Perfect",
+      "genero": "Ballad",
+      "emociones_relacionadas": ["romance", "nostalgia", "tranquilidad"],
+      "actividades_afines": ["relajarse", "cantar", "boda"],
+      "youtube_link": "https://youtu.be/2Vv-BfVoq4g?si=fQAjXgucH0Xr7_R4",
+      "spotify_link": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v?si=2c1621cb280b4b25"
+    },
+    {
+      "artista/banda": "Queen",
+      "cancion": "I Want To Break Free",
+      "genero": "Pop Rock",
+      "emociones_relacionadas": [
+        "esperanza-optimismo",
+        "empoderamiento",
+        "motivacion"
+      ],
+      "actividades_afines": [
+        "cantar",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/f4Mc-NYPHaQ?si=2UGjAYFfT3J-ycAt",
+      "spotify_link": "https://open.spotify.com/track/2AkmdLbVKS1steeZdy8H1l?si=b6dd169663054991"
+    },
+    {
+      "artista/banda": "Luis Miguel",
+      "cancion": "Sabes una cosa",
+      "genero": "Pop / Regional",
+      "emociones_relacionadas": ["romance", "nostalgia", "energia"],
+      "actividades_afines": [
+        "cantar",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/UuGrc3vvdMw?si=hU0-MwPuhFy7zmjN",
+      "spotify_link": "https://open.spotify.com/track/4C3UjRrjtbXvuNykLwd3VZ?si=33267778a6d94dc0"
+    },
+    {
+      "artista/banda": "Vania Junco",
+      "cancion": "Say I Haven't Lost It All",
+      "genero": "Cantautor",
+      "emociones_relacionadas": [
+        "melancolia",
+        "nostalgia",
+        "desamor",
+        "tranquilidad"
+      ],
+      "actividades_afines": ["relajarse", "llorar", "leer", "cantar"],
+      "youtube_link": "https://youtu.be/9LNv_mFERwI?si=XTOhffZqAe6iwDRV",
+      "spotify_link": "https://open.spotify.com/track/0i95SANe4EvkroqIrGpyn8?si=7ceac7f0e0d44747"
+    },
+    {
+      "artista/banda": "Roar",
+      "cancion": "The Comfort of a Laugh Track",
+      "genero": "Rock Alternativo",
+      "emociones_relacionadas": ["ansiedad", "frustracion", "melancolia"],
+      "actividades_afines": ["llorar", "leer"],
+      "youtube_link": "https://youtu.be/ieJP12dMelQ?si=hokklow3aTCzmu_C",
+      "spotify_link": "https://open.spotify.com/track/7y81xCrjzEDA5DLKfIT0h8?si=4a1f27c21b7c4b34"
+    },
+    {
+      "artista/banda": "Mom",
+      "cancion": "Sleep",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["miedo", "ansiedad", "frustracion", "soledad"],
+      "actividades_afines": ["llorar"],
+      "youtube_link": "",
+      "spotify_link": ""
+    },
+    {
+      "artista/banda": "Slow Journey",
+      "cancion": "Aeon",
+      "genero": "Ambient",
+      "emociones_relacionadas": ["tranquilidad", "soledad"],
+      "actividades_afines": ["meditar", "leer", "conducir"],
+      "youtube_link": "https://youtu.be/FTDalKdfURE?si=gaZJLjzow4izNZnF",
+      "spotify_link": "https://open.spotify.com/track/6Vo2knh1o9GQY72A2GJzok?si=5473212b3086426e"
+    },
+    {
+      "artista/banda": "Linearwave",
+      "cancion": "late nights",
+      "genero": "Lo-fi",
+      "emociones_relacionadas": ["tranquilidad"],
+      "actividades_afines": [
+        "trabajar-estudiar",
+        "leer",
+        "conducir",
+        "meditar"
+      ],
+      "youtube_link": "https://youtu.be/trNwrl8YglY?si=Zer0T63-Qv8bCi3M",
+      "spotify_link": "https://open.spotify.com/track/48iQKnYSE8eQUXuBqF7eQ2?si=9cb39ffa1fa846e4"
+    },
+    {
+      "artista/banda": "TileKid",
+      "cancion": "you not the same",
+      "genero": "ALternative",
+      "emociones_relacionadas": ["soledad", "tranquilidad"],
+      "actividades_afines": ["meditar", "leer", "conducir"],
+      "youtube_link": "https://youtu.be/i77S8l-7-3Y?si=JHCCd9iHUFhrGyEB",
+      "spotify_link": "https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh?si=da84877cfc0547f5"
+    },
+    {
+      "artista/banda": "Chromatics",
+      "cancion": "The Runner",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["miedo", "ansiedad"],
+      "actividades_afines": ["leer", "conducir"],
+      "youtube_link": "https://youtu.be/QOMWkL4lO5I?si=ZjdcCtNNr7ZaHunP",
+      "spotify_link": "https://open.spotify.com/track/0gkfXJjosHEV5wSgJwTXIr?si=46c9be429b61448d"
+    },
+    {
+      "artista/banda": "Laurie Anderson",
+      "cancion": "O Superman",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["miedo", "tranquilidad"],
+      "actividades_afines": ["leer", "dormir"],
+      "youtube_link": "https://youtu.be/Vkfpi2H8tOE?si=M1dTe8ROF2eaUbi0",
+      "spotify_link": "https://open.spotify.com/track/421Gp1eSmOIcD6alTWowFR?si=576069720760461f"
+    },
+    {
+      "artista/banda": "Bruno Mars",
+      "cancion": "Just the Way You Are",
+      "genero": "Pop",
+      "emociones_relacionadas": ["energia", "romance", "felicidad"],
+      "actividades_afines": ["boda", "cantar", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/LjhCEhWiKXk?si=tKnoEkR01hpkfdn3",
+      "spotify_link": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ?si=5704d421edbd4f8d"
+    },
+    {
+      "artista/banda": "TV Girl",
+      "cancion": "Blue Hair",
+      "genero": "Hypnotic Pop",
+      "emociones_relacionadas": [
+        "nostalgia",
+        "melancolia",
+        "tranquilidad",
+        "desamor"
+      ],
+      "actividades_afines": ["llorar", "leer", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/QroQ3Wpu2js?si=xyeFjrPGs3tDFda7",
+      "spotify_link": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t?si=1a61a5be72bc4f52"
+    },
+    {
+      "artista/banda": "TV Girl",
+      "cancion": "My Girlfriend",
+      "genero": "Bedroom Pop",
+      "emociones_relacionadas": ["soledad", "tristeza", "nostalgia"],
+      "actividades_afines": ["llorar", "leer", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/w1n66HrAjXQ?si=yX_H5SR-rNfEd_xh",
+      "spotify_link": "https://open.spotify.com/track/36RNOJkIDAoyfEOHdLhmD3?si=979a6b955a46422a "
+    },
+    {
+      "artista/banda": "Toby Fox",
+      "cancion": "Uwa!! So Temperate",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["miedo", "ansiedad", "soledad"],
+      "actividades_afines": [
+        "leer",
+        "conducir",
+        "meditar",
+        "dormir",
+        "cocinar-comer"
+      ],
+      "youtube_link": "https://youtu.be/HCrJNiMmH88?si=QjPDLU1BiprGV5j_",
+      "spotify_link": "https://open.spotify.com/track/3PV4bPPqezu18K45MIOrVY?si=aca9ca794264434d"
+    },
+    {
+      "artista/banda": "juju",
+      "cancion": "Wasted Summers",
+      "genero": "Alternative",
+      "emociones_relacionadas": ["melancolia", "nostalgia", "soledad"],
+      "actividades_afines": ["leer", "conducir", "cocinar-comer", "dormir"],
+      "youtube_link": "https://youtu.be/wd5-Y4lrhks?si=aoqX1KaieeIzNVdm",
+      "spotify_link": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR?si=17fd0a02bf144f0f"
+    },
+    {
+      "artista/banda": "Bo en",
+      "cancion": "My Time",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["miedo", "ansiedad", "soledad"],
+      "actividades_afines": ["leer", "llorar"],
+      "youtube_link": "https://youtu.be/OkMLYNWP-yo?si=kzGVOgEAhYeH-hJE",
+      "spotify_link": "https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP?si=309a2cf8173d4463"
+    },
+    {
+      "artista/banda": "Milkoi",
+      "cancion": "deviation",
+      "genero": "Instrumental",
+      "emociones_relacionadas": ["alegria", "tranquilidad", "soledad"],
+      "actividades_afines": ["leer", "conducir", "meditar", "dormir"],
+      "youtube_link": "https://youtu.be/Z057PHizhwA?si=A5bUoQAhkSeNhPgV",
+      "spotify_link": "https://open.spotify.com/track/7x3fHVMYZufgjDJ6rQpG21?si=fd4dd6ea42f94d60"
+    },
+    {
+      "artista/banda": "Kirby: Planet Robobot Soundteam",
+      "cancion": "Green Greens",
+      "genero": "Electronic",
+      "emociones_relacionadas": ["alegria", "motivacion", "energia"],
+      "actividades_afines": ["leer", "ejercicio", "conducir"],
+      "youtube_link": "https://youtu.be/pPDCNvK3D6s?si=A2c2RSJMA6URmWmL",
+      "spotify_link": "https://open.spotify.com/track/3pDR3rMqzU0YisOewEdvRz?si=4507bfe90a964640"
+    },
+    {
+      "artista/banda": "bbno$",
+      "cancion": "it boy",
+      "genero": "Pop",
+      "emociones_relacionadas": ["energia", "euforia", "motivacion"],
+      "actividades_afines": [
+        "ejercicio",
+        "conducir",
+        "fiesta",
+        "bailar",
+        "socializar"
+      ],
+      "youtube_link": "https://youtu.be/QuvqzlxEO6g?si=0SUAZVJ-6xO3KrqM",
+      "spotify_link": "https://open.spotify.com/track/3X1LErJuyzAEjH6X11ooMS?si=745bad0000744b93"
+    },
+    {
+      "artista/banda": "Charli xcx",
+      "cancion": "Talk talk",
+      "genero": "Hyperpop",
+      "emociones_relacionadas": ["energia", "euforia", "motivacion"],
+      "actividades_afines": ["fiesta", "bailar", "ejercicio", "socializar"],
+      "youtube_link": "https://youtu.be/pIs46LzZUws?si=5F6lXH5kMW-unUY8",
+      "spotify_link": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS?si=8ead27695d7849c4"
+    },
+    {
+      "artista/banda": "Travis Scott",
+      "cancion": "FE!N",
+      "genero": "Hip Hop",
+      "emociones_relacionadas": ["euforia", "energia", "motivacion"],
+      "actividades_afines": [
+        "ejercicio",
+        "conducir",
+        "fiesta",
+        "bailar",
+        "socializar"
+      ],
+      "youtube_link": "https://youtu.be/B9synWjqBn8?si=5yhgcc51CiZZVl-s",
+      "spotify_link": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA?si=2856cd47955e4303"
+    },
+    {
+      "artista/banda": "The Marías",
+      "cancion": "No One Noticed",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["soledad", "tranquilidad", "nostalgia"],
+      "actividades_afines": ["leer", "conducir", "cocinar-comer", "dormir"],
+      "youtube_link": "https://youtu.be/Qn8F_u0vBNI?si=ATmEu7uWeX1rQR7i",
+      "spotify_link": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5?si=64419bca78ef4989"
+    },
+    {
+      "artista/banda": "Jack Harlow",
+      "cancion": "WHATS POPPIN",
+      "genero": "Hip Hop",
+      "emociones_relacionadas": ["motivacion", "energia"],
+      "actividades_afines": [
+        "ejercicio",
+        "conducir",
+        "fiesta",
+        "bailar",
+        "socializar"
+      ],
+      "youtube_link": "https://youtu.be/w9uWPBDHEKE?si=h4YGMdIKZ1icgUHC",
+      "spotify_link": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM?si=21eff98dec9c4ac2"
+    },
+    {
+      "artista/banda": "KISS",
+      "cancion": "I Was Made For Lovin' You",
+      "genero": "Rock",
+      "emociones_relacionadas": ["romance", "energia", "euforia", "motivacion"],
+      "actividades_afines": ["boda", "cantar", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/ZhIsAZO5gl0?si=Z-KyfvAZXwkWcyAY",
+      "spotify_link": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3?si=5dfb554ad47b462a"
+    },
+    {
+      "artista/banda": "Blur",
+      "cancion": "Song 2",
+      "genero": "Rock",
+      "emociones_relacionadas": ["motivacion", "energia", "euforia"],
+      "actividades_afines": [
+        "ejercicio",
+        "conducir",
+        "fiesta",
+        "bailar",
+        "socializar"
+      ],
+      "youtube_link": "https://youtu.be/SSbBvKaM6sk?si=dasL3RjuS5dAf3sR",
+      "spotify_link": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM?si=aeec047cdaa1474e"
+    },
+    {
+      "artista/banda": "Peach Tree Rascals",
+      "cancion": "Mariposa",
+      "genero": "Pop",
+      "emociones_relacionadas": ["alegria", "romance", "tranquilidad"],
+      "actividades_afines": [
+        "cantar",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar",
+        "relajarse"
+      ],
+      "youtube_link": "https://youtu.be/U3RjdVmny6A?si=9TJ9K1lFGn1k2jGb",
+      "spotify_link": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD?si=35e03f92986943ac"
+    },
+    {
+      "artista/banda": "Cuco",
+      "cancion": "Dontmakemefallinlove",
+      "genero": "Alternativo",
+      "emociones_relacionadas": ["alegria", "romance", "ansiedad"],
+      "actividades_afines": ["leer", "relajarse", "conducir", "cocinar-comer"],
+      "youtube_link": "https://youtu.be/1fXYDkpfHsk?si=_csXAn8UJ84muUEm",
+      "spotify_link": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM?si=1d656425b2b94dba"
+    },
+    {
+      "artista/banda": "Arctic Monkeys",
+      "cancion": "Flurescent Adolescent",
+      "genero": "Rock Alternativo",
+      "emociones_relacionadas": ["deseo", "romance", "nostalgia"],
+      "actividades_afines": [
+        "leer",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/ma9I9VBKPiw?si=HXJKod6OuTtdPmog",
+      "spotify_link": "https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd?si=eb08e3d7b75e4539"
+    },
+    {
+      "artista/banda": "Maroon 5",
+      "cancion": "Won't Go Home Without You",
+      "genero": "Pop",
+      "emociones_relacionadas": [
+        "esperanza-optimismo",
+        "romance",
+        "tristeza",
+        "tranquilidad"
+      ],
+      "actividades_afines": [
+        "cantar",
+        "conducir",
+        "cocinar-comer",
+        "trabajar-estudiar"
+      ],
+      "youtube_link": "https://youtu.be/VlMEGBsw6j8?si=sCI2GSQ4JTN1N1WM",
+      "spotify_link": "https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7?si=e8e8b8eded6b4ecb"
     }
   ]
 }
